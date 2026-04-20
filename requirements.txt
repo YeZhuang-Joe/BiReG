@@ -1,1 +1,12 @@
-
+torch==2.2.2
+torchvision==0.17.2
+diffusers
+transformers==4.39.3
+xformers==0.0.25.post1
+sentencepiece==0.1.99
+numpy==1.23.0
+Pillow==10.3.0
+opencv-python==4.9.0.80
+accelerate==0.29.1
+einops==0.7.0
+safetensors==0.4.2
