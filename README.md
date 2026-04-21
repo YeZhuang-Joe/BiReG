@@ -21,10 +21,27 @@ Install required dependencies:
 pip install -r requirements.txt
 ```
 ### 2. Prepare Model Weights
-Please download and place the Kolors model weights under:
+#### Step 1: Download the weights
+
+Download the Kolors model from the official repository:
 
 ```bash
-/root/autodl-tmp/weights/Kolors/
+huggingface-cli download --resume-download Kwai-Kolors/Kolors --local-dir weights/Kolors
+```
+#### Step 2: Organize the directory
+After downloading, your directory should look like:
+```bash
+weights/Kolors/
+├── text_encoder/
+├── tokenizer/
+├── vae/
+├── scheduler/
+└── unet/
+```
+#### Step 3: Set the model path
+By default, the demo uses:
+```bash
+MODEL_ROOT = "weights/Kolors"
 ```
 The directory should include:
 
@@ -34,6 +51,7 @@ The directory should include:
 - unet
 
 Make sure the tokenizer file (e.g., tokenizer.model) is also available.
+- Note: Model weights are not included in this repository.
 
 ### 3.Run Demo
 Execute the following command:
