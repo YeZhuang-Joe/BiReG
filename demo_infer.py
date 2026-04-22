@@ -20,28 +20,33 @@ DEMO_CONFIG = {
 # =========================
 # 1. 加载模型
 # =========================
-MODEL_ROOT = "weights/Kolors"
+MODEL_ROOT = "root/autodl-tmp/weights/Kolors"
 
 def load_pipeline():
     text_encoder = ChatGLMModel.from_pretrained(
-        f"{MODEL_ROOT}/text_encoder",
-        torch_dtype=torch.float16
+        '/root/autodl-tmp/weights/Kolors/text_encoder',
+        torch_dtype=torch.float16,
+        local_files_only=True
     ).half()
 
     tokenizer = ChatGLMTokenizer.from_pretrained(
-        f"{MODEL_ROOT}/text_encoder"
+        '/root/autodl-tmp/weights/Kolors/text_encoder',
+        local_files_only=True
     )
 
     vae = AutoencoderKL.from_pretrained(
-        f"{MODEL_ROOT}/vae"
+        '/root/autodl-tmp/weights/Kolors/vae',
+        local_files_only=True
     ).half()
 
     scheduler = EulerDiscreteScheduler.from_pretrained(
-        f"{MODEL_ROOT}/scheduler"
+        '/root/autodl-tmp/weights/Kolors/scheduler',
+        local_files_only=True
     )
 
     unet = UNet2DConditionModel.from_pretrained(
-        f"{MODEL_ROOT}/unet"
+        '/root/autodl-tmp/weights/Kolors/unet',
+        local_files_only=True
     ).half()
 
     pipe = RegionalDiffusionXLPipeline(

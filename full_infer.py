@@ -16,7 +16,8 @@ from planner import detect_language, build_para_dict, validate_para_dict
 # =========================
 # 0. 全流程默认配置
 # =========================
-MODEL_ROOT = os.getenv("KOLORS_PATH", "weights/Kolors")
+MODEL_ROOT = os.getenv("KOLORS_PATH", "/root/autodl-tmp/weights/Kolors")
+print(f"[DEBUG] MODEL_ROOT = {MODEL_ROOT}")
 OUTPUT_DIR = "outputs/full"
 
 FULL_CONFIG = {
