@@ -2,7 +2,10 @@
 
 Official implementation of **BiReG**, a training-free framework for bilingual (Chinese-English) text-to-image generation with **LLM-driven adaptive region planning**.
 
----
+
+<p align="center">
+  <img src="assets/figure2效果对比图-2.svg" width="1200"/>
+</p>
 
 ## 🔍 Overview
 
