@@ -185,6 +185,13 @@ python full_infer.py \
 - Outputs may vary slightly across runs
 - Structure remains consistent
 - Semantics preserved
+
 ## 📄 Paper & Citation
+This work is currently under review.A preprint version will be released soon.
+
+---
+
 ## 📬 Contact
 For questions, please contact the authors.
+- **Zhuang Ye** – yj20242054@stud.tjut.edu.cn  
+We welcome discussions and collaborations.
