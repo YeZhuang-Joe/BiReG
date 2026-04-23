@@ -1,71 +1,174 @@
-# BiReG
-BiReG: Adaptive Region Planning for Training-Free Bilingual Text-to-Image Generation  
-**Zhuang Ye**，**……**，**……**
-## Overview
-BiReG is a training-free region-guided framework for bilingual text-to-image generation. It addresses the challenge of controllable generation under both English and Chinese prompts, where existing methods often rely on fixed English templates and struggle to capture Chinese semantic structures.  
-BiReG leverages an LLM-driven region planner to dynamically infer spatial layouts from natural language prompts, enabling structured and flexible region control without predefined templates. By integrating region-aware prompts into the diffusion process, BiReG improves both spatial consistency and semantic alignment.  
+# BiReG: Adaptive Region Planning for Training-Free Bilingual Text-to-Image Generation
 
-This repository is organized into two parts: 
-- **Demo Mode**: Provides predefined prompt-region pairs to illustrate the core idea of region-guided generation and help users understand the framework behavior.
-- **Full Pipeline**: Supports end-to-end generation from user-defined prompts, including region planning and diffusion-based synthesis.
+Official implementation of **BiReG**, a training-free framework for bilingual (Chinese-English) text-to-image generation with **LLM-driven adaptive region planning**.
 
-## Demo Usage (Stage 1: Understanding BiReG)
+---
 
-The demo mode provides predefined prompt-region pairs to illustrate how BiReG performs region-guided generation.
+## 🔍 Overview
 
-### 1. Environment Setup
+BiReG addresses a fundamental limitation in controllable text-to-image generation:
 
-Install required dependencies:
+> Existing region-guided methods rely on fixed, English-centric templates, which fail to capture the semantic structure of Chinese prompts, especially in complex compositional scenarios.
 
-```bash
+To solve this, BiReG introduces an **LLM-driven adaptive region planning mechanism**, which:
+
+- parses bilingual prompts (Chinese & English)
+- infers spatial layout dynamically
+- generates region-specific prompts
+- injects them into diffusion models without retraining
+
+---
+
+## 🚀 Key Contributions
+
+- **Training-Free Framework**
+  - No finetuning required
+  - Compatible with existing diffusion backbones (Kolors, SDXL)
+
+- **Adaptive Region Planning**
+  - Dynamic layout inference (instead of fixed templates)
+  - Supports hierarchical spatial structures
+
+- **Bilingual Semantic Understanding**
+  - Handles Chinese and English prompts directly
+  - Preserves modifier–noun dependencies in Chinese
+
+- **Region-Guided Diffusion Control**
+  - Injects regional prompts into cross-attention layers
+  - Improves spatial consistency and object alignment
+
+---
+
+## 🧠 Framework Pipeline
+
+```text
+Input Prompt (Chinese / English)
+        ↓
+Language Detection
+        ↓
+Prompt Structuring
+        ↓
+LLM Planner
+        ↓
+Structured Output:
+    - Final split ratio
+    - Regional prompt
+        ↓
+Region-Guided Diffusion
+        ↓
+Generated Image
+```
+## Repository Structure
+```text
+BiReG/
+├── demo_infer.py
+├── full_infer.py
+├── planner.py
+├── RegionalKolorsDiffusion_xl.py
+├── template/
+│   ├── template_zh.txt
+│   ├── template_en.txt
+├── config/
+│   ├── api_config_example.json
+├── outputs/
+│   ├── demo/
+│   ├── full/
+```
+## ⚙️ Installation
+```text
+git clone https://github.com/yourname/BiReG.git
+cd BiReG
 pip install -r requirements.txt
 ```
-### 2. Prepare Model Weights
-#### Step 1: Download the weights
-
-Download the Kolors model from the official repository:
-
-```bash
-huggingface-cli download --resume-download Kwai-Kolors/Kolors --local-dir weights/Kolors
-```
-#### Step 2: Organize the directory
-After downloading, your directory should look like:
-```bash
-weights/Kolors/
+## 📥 Model Preparation
+Prepare pretrained Kolors weights:
+```text
+<MODEL_ROOT>/Kolors/
 ├── text_encoder/
-├── tokenizer/
 ├── vae/
 ├── scheduler/
-└── unet/
+├── unet/
 ```
-#### Step 3: Set the model path
-By default, the demo uses:
-```bash
-MODEL_ROOT = "weights/Kolors"
+Set environment variable:
+```text
+export KOLORS_PATH=/path/to/Kolors
 ```
-The directory should include:
+## 🔑 API Configuration
+Create:
+```text
+config/api_config.json
+```
+Example:
+```text
+{
+  "deepseek_api_key": "your_key",
+  "openai_api_key": "your_key"
+}
+```
+## 🔍 Demo (Stage 1: Deterministic Evidence)
+To ensure full reproducibility, this stage uses fixed layout structures and region prompts, instead of LLM outputs.
 
-- text_encoder
-- vae
-- scheduler
-- unet
+👉 Purpose:
+- eliminate LLM randomness
+- reproduce paper results
+- provide stable visual evidence
+---
+### 🧩 Case 1: Spatial Separation
+Prompt:
+```text
 
-Make sure the tokenizer file (e.g., tokenizer.model) is also available.
-- Note: Model weights are not included in this repository.
+```
+Split ratio:
+```text
 
-### 3.Run Demo
-Execute the following command:
-```bash
+```
+Regional prompt:
+```text
+
+```
+### 🌍 Case 2:
+
+### 🧠 Case 3:
+
+
+---
+### ▶️ Run Demo
+```text
 python demo_infer.py
 ```
-
-### 4.Output
-The generated image will be saved in the current directory:
-```bash
-traveler_cat_fire.png
+## 🚀 Full Pipeline (Stage 2: Method Demonstration)
+Unlike Stage 1, this stage demonstrates the core mechanism of BiReG.
+---
+### 🧠 What This Stage Shows
+- LLM-based semantic parsing
+- adaptive layout generation
+- region-conditioned diffusion
+---
+### ▶️ Example (Chinese)
+```text
+python full_infer.py \
+--prompt "上方是天空和远山，下方左边是旅人，下方右边是猫" \
+--planner deepseek
 ```
-### 5. What This Demo Shows
-- How prompts are decomposed into multiple regions
-- How spatial layouts are controlled via split_ratio
-- How region-specific prompts affect generation
-This demo helps users understand how BiReG performs region-guided generation before using the full pipeline.
+LLM Output
+```text
+Final split ratio:
+0.3,1;0.7,0.5,0.5
+Regional Prompt:
+天空高远，远山层叠 BREAK
+左下角旅人，背包，站立 BREAK
+右下角猫，细节清晰
+```
+🌍 English Example
+```text
+python full_infer.py \
+--prompt "Sky on top, traveler bottom left, cat bottom right" \
+--planner deepseek
+```
+### ⚠️ Note on LLM Variability
+- Outputs may vary slightly across runs
+- Structure remains consistent
+- Semantics preserved
+## 📄 Paper & Citation
+## 📬 Contact
+For questions, please contact the authors.
