@@ -121,37 +121,62 @@ Example:
   "openai_api_key": "your_key"
 }
 ```
-## 🔍 Demo (Stage 1: Deterministic Evidence)
-To ensure full reproducibility, this stage uses fixed layout structures and region prompts, instead of LLM outputs.
+## 🔍 Demo (Stage 1:Fixed Region-Controlled Generation)
+We provide a set of **fixed demo cases** to illustrate the effectiveness of BiReG in spatially controllable text-to-image generation.
 
-👉 Purpose:
-- eliminate LLM randomness
-- reproduce paper results
-- provide stable visual evidence
----
-### 🧩 Case 1: Spatial Separation
-Prompt:
-```text
-
-```
-Split ratio:
-```text
-
-```
-Regional prompt:
-```text
-
-```
-### 🌍 Case 2:
-
-### 🧠 Case 3:
-
+Unlike stochastic prompt-based generation, each demo case includes:
+- a fixed input prompt
+- a predefined spatial layout (split ratio)
+- region-specific prompts
+- a fixed inference configuration
+This ensures **fully reproducible results**.
 
 ---
-### ▶️ Run Demo
-```text
-python demo_infer.py
+### 📦 Available Demo Cases
+
+Run the following command to list all demo cases:
+```bash
+python demo_infer.py --list
 ```
+
+Example output:
+```text
+[INFO] Available demo cases:
+  - palace_two_maids: Dual-subject palace corridor scene with explicit foreground-background separation.
+  - scholar_squirrel_bamboo: 
+  - maoniu: 
+  - yumin: 
+```
+---
+
+### ▶️ Run Demo Case
+To generate an image:
+```bash
+python demo_infer.py --case palace_two_maids
+```
+### 📁 Output Structure
+Generated results are automatically saved to:
+```text
+outputs/demo/
+```
+Each run produces:
+```text
+<case_name>_<timestamp>.png   # generated image
+<case_name>_<timestamp>.json  # metadata
+```
+### 🧾 Metadata (Reproducibility)
+Each .json file records:
+- input prompt
+- split ratio (layout)
+- regional prompts
+- inference configuration (steps, resolution, guidance scale, seed)
+- output path
+### 🧠 Example Case: palace_two_maids
+
+
+
+
+
 ## 🚀 Full Pipeline (Stage 2: Method Demonstration)
 Unlike Stage 1, this stage demonstrates the core mechanism of BiReG.
 ---
