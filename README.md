@@ -153,6 +153,7 @@ Example output:
 To generate an image:
 ```bash
 python demo_infer.py --case palace_two_maids
+
 ```
 ### 📁 Output Structure
 Generated results are automatically saved to:
@@ -171,8 +172,10 @@ Each .json file records:
 - regional prompts
 - inference configuration (steps, resolution, guidance scale, seed)
 - output path
-### 🧠 Example Case: palace_two_maids
-
+### 🧠 Example Case: 
+<p align="center">
+  <img src="/assets/宫女-背影.png" width="1200"/>
+</p>
 
 
 
