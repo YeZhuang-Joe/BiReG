@@ -23,6 +23,9 @@ To solve this, BiReG introduces an **LLM-driven adaptive region planning mechani
 ---
 
 ## 🚀 Key Contributions
+<table>
+<tr>
+<td width="50%">
 
 - **Training-Free Framework**
   - No finetuning required
@@ -39,7 +42,13 @@ To solve this, BiReG introduces an **LLM-driven adaptive region planning mechani
 - **Region-Guided Diffusion Control**
   - Injects regional prompts into cross-attention layers
   - Improves spatial consistency and object alignment
+</td>
+<td width="50%">
+<img src="assets/teaser_small.png" width="100%">
+</td>
 
+</tr>
+</table>
 ---
 
 ## 🧠 Framework Pipeline
