@@ -49,12 +49,14 @@ To solve this, BiReG introduces an **LLM-driven adaptive region planning mechani
 
 </tr>
 </table>
+
 ---
 
 ## 🧠 Framework Pipeline
 <p align="center">
-  <img src="assets/figure2效果对比图-2.svg" width="1200"/>
+  <img src="assets/figure3-overview.svg" width="1200"/>
 </p>
+
 ```text
 Input Prompt (Chinese / English)
         ↓
