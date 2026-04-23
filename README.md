@@ -180,9 +180,8 @@ Each .json file records:
   <img src="/assets/松鼠-读书人.png" width="1200"/>
 </p>
 
-
-
 ## 🚀 Full Pipeline (Stage 2: Method Demonstration)
+---
 Unlike Stage 1, this stage demonstrates the core mechanism of BiReG.
 ---
 ### 🧠 What This Stage Shows
