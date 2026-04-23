@@ -25,7 +25,7 @@ To solve this, BiReG introduces an **LLM-driven adaptive region planning mechani
 ## 🚀 Key Contributions
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 - **Training-Free Framework**
   - No finetuning required
@@ -43,8 +43,8 @@ To solve this, BiReG introduces an **LLM-driven adaptive region planning mechani
   - Injects regional prompts into cross-attention layers
   - Improves spatial consistency and object alignment
 </td>
-<td width="50%">
-<img src="assets/teaser_small.png" width="100%">
+<td width="55%">
+<img src="assets/Figure1-翻译流程vs自适应流程示意.svg" width="100%">
 </td>
 
 </tr>
