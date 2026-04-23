@@ -176,7 +176,9 @@ Each .json file records:
 <p align="center">
   <img src="/assets/宫女-背影.png" width="1200"/>
 </p>
-
+<p align="center">
+  <img src="/assets/松鼠-读书人.png" width="1200"/>
+</p>
 
 
 
