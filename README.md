@@ -92,7 +92,7 @@ BiReG/
 ```
 ## ⚙️ Installation
 ```text
-git clone https://github.com/yourname/BiReG.git
+git clone https://github.com/YeZhuang-Joe/BiReG.git
 cd BiReG
 pip install -r requirements.txt
 ```
