@@ -216,8 +216,9 @@ python full_infer.py \
 - Semantics preserved
 
 ## 📄 Paper & Citation
+
 This manuscript has been submitted to *The Visual Computer* for review.
-If you find this code useful for your research, please consider citing the corresponding paper once it becomes publicly available. A BibTeX entry will be provided after publication or preprint release.
+If you find this code useful for your research, please consider citing the corresponding paper once it becomes publicly available. 
 
 ---
 
