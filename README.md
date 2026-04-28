@@ -1,4 +1,5 @@
 # BiReG: Adaptive Region Planning for Training-Free Bilingual Text-to-Image Generation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19853901.svg)](https://doi.org/10.5281/zenodo.19853901)
 
 Official implementation of **BiReG**, a training-free framework for bilingual (Chinese-English) text-to-image generation with **LLM-driven adaptive region planning**.
 
