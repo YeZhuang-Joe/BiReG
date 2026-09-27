@@ -22,4 +22,4 @@ Each output is bound to its prompt, configuration, source hashes and selected pl
 
 ## Release boundaries
 
-This entry is for fresh prompt-to-image runs. It does not reconstruct old paper images solely from their seeds and does not alter archived experiments. Paper tables, frozen manifests, scoring and human-evaluation materials belong in the corresponding experiment directories. A full inference run on the target server and complete third-party notices are separate from the offline tests included here.
+This entry is for fresh prompt-to-image runs. It does not reconstruct old paper images solely from their seeds and does not alter archived experiments. Paper tables, frozen manifests, scoring and human-evaluation materials belong in the corresponding experiment directories. One English and one Chinese full inference run on the existing target server have now completed, according to the author-supplied console logs dated 2026-09-27; see [the smoke-run record](SMOKE_TEST_20260927.md). These functional checks are separate from the included offline tests and formal experiments. Complete third-party notices remain a separate release task.

@@ -63,7 +63,7 @@ python -m unittest discover -s tests -v
 python tools/verify_package.py
 ```
 
-The six archived backend files and two templates are unchanged; their hashes are checked at runtime. The previous scheduler `-inf` JSON issue is handled in the metadata writer without modifying sampling. This distribution reorganizes the working code; its offline tests mock HTTP and GPU execution. See [validation status](docs/VALIDATION.json).
+The six archived backend files and two templates are unchanged; their hashes are checked at runtime. The previous scheduler `-inf` JSON issue is handled in the metadata writer without modifying sampling. This distribution reorganizes the working code; its offline tests mock HTTP and GPU execution. Separately, the reorganized entry completed one English and one Chinese live API/GPU smoke run on the existing AutoDL environment on 2026-09-27, as documented by the author-supplied console logs. Both plans were accepted on the first attempt and both runs reported image and JSON record saving. See the [smoke-run record](docs/SMOKE_TEST_20260927.md) and [validation status](docs/VALIDATION.json). These two functional checks are not the formal planner-comparison or efficiency experiments.
 
 This is a reusable generation entry, not a replacement for frozen paper-experiment manifests or scores. Regenerating an API plan may change it; seeds alone do not guarantee identical pixels across software/hardware environments. Existing historical run directories must stay in their original installation.
 

@@ -1,26 +1,78 @@
 {
-  "status": "offline_pass",
-  "tests_passed": 25,
-  "python_for_offline_tests": "3.12.14",
-  "python38_syntax_parse": "pass",
-  "live_API_calls": 0,
-  "GPU_generation_calls": 0,
+  "status": "offline_pass_and_two_target_server_smoke_runs_reported_complete",
   "backend_files_byte_identical": 6,
   "templates_byte_identical": 2,
-  "target_server_reorganized_entry_smoke_test": "pending",
+  "target_server_reorganized_entry_smoke_test": "en_and_zh_completed_per_author_supplied_console_logs",
   "original_working_installation_modified": false,
-  "scope": [
-    "language routing",
-    "mock HTTP planning and retry budget",
-    "workflow resume and immutable settings",
-    "tampered-image detection",
-    "native geometry validation",
-    "scheduler nonfinite metadata serialization",
-    "credential exclusion from saved workflow records"
-  ],
   "limitations": [
     "Mock renderer output is a test fixture, not a generated sample.",
     "Exact development Diffusers build not packaged.",
-    "Third-party license reconciliation remains as documented."
-  ]
+    "Third-party license reconciliation remains as documented.",
+    "Target-server timings are rounded console observations from one run per language, not benchmark estimates.",
+    "The smoke-run records do not establish visual quality, clean-install portability or bitwise reproducibility."
+  ],
+  "offline_validation": {
+    "tests_passed": 25,
+    "python_for_offline_tests": "3.12.14",
+    "python38_syntax_parse": "pass",
+    "live_API_calls": 0,
+    "GPU_generation_calls": 0,
+    "scope": [
+      "language routing",
+      "mock HTTP planning and retry budget",
+      "workflow resume and immutable settings",
+      "tampered-image detection",
+      "native geometry validation",
+      "scheduler nonfinite metadata serialization",
+      "credential exclusion from saved workflow records"
+    ]
+  },
+  "target_server_validation": {
+    "record_date": "2026-09-27",
+    "record_date_timezone": "Asia/Shanghai",
+    "evidence_source": "Author-supplied console transcripts in this conversation; original output JSON and PNG files were not supplied for this documentation update.",
+    "entry_point": "python -m bireg",
+    "environment": "existing AutoDL kolors environment",
+    "live_API_requests_observed": 2,
+    "completed_GPU_generation_runs_observed": 2,
+    "runs": [
+      {
+        "language": "en",
+        "automatic_routing": "en",
+        "prompt": "A red ceramic cup is on the left of a blue glass bowl on a wooden table.",
+        "task_id": "user_f672782baae7220e3c15_seed_2026",
+        "seed": 2026,
+        "planning_attempt": 1,
+        "planning_status": "accepted",
+        "HTTP_seconds_displayed": 0.913,
+        "pipeline_load_seconds_displayed": 17.03,
+        "generation_seconds_displayed": 21.94,
+        "sampling_steps_displayed": 20,
+        "output_directory": "outputs/release_en",
+        "image_save_reported": true,
+        "JSON_record_save_reported": true
+      },
+      {
+        "language": "zh",
+        "automatic_routing": "zh",
+        "prompt": "木桌上，左边是一个红色陶瓷杯，右边是一个蓝色玻璃碗。",
+        "task_id": "user_7aa557ac7585ff756f7e_seed_1234",
+        "seed": 1234,
+        "planning_attempt": 1,
+        "planning_status": "accepted",
+        "HTTP_seconds_displayed": 0.737,
+        "pipeline_load_seconds_displayed": 17.01,
+        "generation_seconds_displayed": 26.16,
+        "sampling_steps_displayed": 30,
+        "output_directory": "outputs/release_zh",
+        "image_save_reported": true,
+        "JSON_record_save_reported": true
+      }
+    ],
+    "image_contents_independently_inspected": false,
+    "original_output_JSON_and_image_hashes_independently_verified": false,
+    "formal_multiplanner_comparison_complete": false,
+    "formal_efficiency_experiment_complete": false,
+    "new_API_or_GPU_calls_by_this_documentation_update": 0
+  }
 }

@@ -1,6 +1,6 @@
 # Environment provenance
 
-The predecessor workflow was run on the user's existing AutoDL `kolors` environment. This distribution preserves its backend and templates; a GPU smoke test of the reorganized entry is still required.
+The predecessor workflow was run on the author's existing AutoDL `kolors` environment. The reorganized entry subsequently completed one English and one Chinese API/GPU smoke run in that existing environment on 2026-09-27. Author-supplied console logs report successful image and JSON saving for both runs; see [the smoke-run record](SMOKE_TEST_20260927.md). This does not establish a clean installation on another machine. The version inventory below was recorded from the earlier environment probe, not newly measured by this documentation update.
 
 | Component | Observed version |
 |---|---|
