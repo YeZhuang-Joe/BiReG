@@ -1,0 +1,10 @@
+{
+  "vendor/historical_kolors/RegionalKolorsDiffusion_xl.py": "7cce774226ff91acb27e9772a93a33e87f21dc907510674c32c9021ceb28878b",
+  "vendor/historical_kolors/cross_attention1.py": "d55cc54caf0a8732d367263d5837ccfde89d87c1d138e9a4c6ff926ccee4c3e2",
+  "vendor/historical_kolors/matrix.py": "0cc4cf94c82131f33f6936680b0bbd9a525319a8724a58e0ecb8c5f38942f3f5",
+  "vendor/historical_kolors/modeling_chatglm.py": "103fdbff856670361e1a5f9de6d6576d750d13b8e27b34c6d47f068b3566c623",
+  "vendor/historical_kolors/tokenization_chatglm.py": "d3f11140fbb2761c84f77e4fe51638cb5225b696edf7ea0e7481486400ccc7fe",
+  "vendor/historical_kolors/configuration_chatglm.py": "e6b1fefa9be43fc273839168cb4f9e969a31e6455250c666efb56f41a672b223",
+  "templates/template_en.txt": "b4bba25cc8be9a79ca40fa7b62524f29c7b06dd9caea76da77252b169f67e52a",
+  "templates/template_zh.txt": "6752b5d56baa78c0a6ac69643f40256b4b5a89f3b4c0fd0222d4e7bbf95152af"
+}

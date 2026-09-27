@@ -1,0 +1,26 @@
+{
+  "status": "offline_pass",
+  "tests_passed": 25,
+  "python_for_offline_tests": "3.12.14",
+  "python38_syntax_parse": "pass",
+  "live_API_calls": 0,
+  "GPU_generation_calls": 0,
+  "backend_files_byte_identical": 6,
+  "templates_byte_identical": 2,
+  "target_server_reorganized_entry_smoke_test": "pending",
+  "original_working_installation_modified": false,
+  "scope": [
+    "language routing",
+    "mock HTTP planning and retry budget",
+    "workflow resume and immutable settings",
+    "tampered-image detection",
+    "native geometry validation",
+    "scheduler nonfinite metadata serialization",
+    "credential exclusion from saved workflow records"
+  ],
+  "limitations": [
+    "Mock renderer output is a test fixture, not a generated sample.",
+    "Exact development Diffusers build not packaged.",
+    "Third-party license reconciliation remains as documented."
+  ]
+}
