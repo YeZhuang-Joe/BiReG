@@ -1,0 +1,28 @@
+{
+  "requests": 631,
+  "images": 1824,
+  "prompt_model_pairs": 608,
+  "recorded_explicit_wait_seconds": 660.0901838801801,
+  "per_model": {
+    "deepseek-flash": {
+      "requests": 153,
+      "http_errors": 0,
+      "supplemental_requests": 0
+    },
+    "deepseek-v4-pro": {
+      "requests": 152,
+      "http_errors": 0,
+      "supplemental_requests": 0
+    },
+    "qwen3.8-flash": {
+      "requests": 153,
+      "http_errors": 0,
+      "supplemental_requests": 0
+    },
+    "gpt-5.5": {
+      "requests": 173,
+      "http_errors": 13,
+      "supplemental_requests": 2
+    }
+  }
+}

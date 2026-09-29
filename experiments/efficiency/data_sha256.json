@@ -1,0 +1,8 @@
+{
+  "SOURCE_SHA256.txt": "e6cc407b3d881ef2dd0d28b94909a40624cd2da503e4418b03405fb34e744213",
+  "explicit_wait_records.json": "59995a7565c9fffdd726b094152f3d6c43c12616bb4ecf51a59124cb7351179f",
+  "per_image_timings.json": "91ae61b23a325f50edf1ad2eced2a23310700c33eb80a4cb49c4d112a2a527d1",
+  "per_prompt_timings.json": "00c82db697f02a755a82c250321e562f23510cda5b78b6e4d41999a00bddf193",
+  "per_request_timings.json": "1ea34f1607a56fdea8fa14a9fb7d27f2fa917b39ca46f69a405201e0f622d82b",
+  "summary.json": "9aae910bb07355957ddaeaf827e4de8f2e2b98976e94eae4e3ea6c05eca8d83a"
+}
