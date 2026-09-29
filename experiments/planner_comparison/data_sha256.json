@@ -1,0 +1,9 @@
+{
+  "data/chinese_checkpoint_scores.json": "92a4c1c9e6902a1f165c0bf7a50ea8e7581b5370b370f24d2309b5e89542c6a6",
+  "data/english_image_scores.json": "3ec26897dc1fcf8f621c89d32823db7e600dd5c2f5e61c43daf7ec86c2ee54b5",
+  "data/evaluator_provenance.json": "4746f8060d84349464ab726b1acff24094ee908dbd7fa202037590811b686a76",
+  "data/prompts_frozen.json": "c7ba1a33cde6b6a5fdaf900b078bbb6f6f180840574cc80696a8362860f1f024",
+  "data/reference_chinese_summary.json": "01eaec9560382857e4fa2e70c7f413680f836fb23a30937d1c9d1a86900cc43e",
+  "data/reference_english_summary.json": "2a9b164b24a1bdd3eda174990601d694a809be95f5af177b494d29a12c80aa34",
+  "data/source_archives.json": "1e08cc98d11f36c8993c6a59159ec7c4aad7b55a19326eeb935cfa3d87f784b9"
+}
