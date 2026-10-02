@@ -22,6 +22,3 @@ For each pipeline and category, average the 320 image scores separately for each
 
 Color, shape and texture use the retained BLIP-VQA scores, spatial uses the retained object-detection score, and non_spatial uses CLIP similarity. Complex uses the retained experiment adapter: the arithmetic mean of attribute/spatial, attribute/CLIP, or attribute/spatial/CLIP branches according to the archived complex subtype. It is not the unmodified official complex metric. This script aggregates stored scores; it does not rerun the automatic evaluators.
 
-## Evaluation set
-
-The archived selection protocol formed this set by reducing a prior 2,540-prompt set to 320 prompts per category using BiReG's three-seed mean scores, leaving the non_spatial category unchanged. The same retained prompt IDs are used across methods. Results describe this outcome-selected set and should not be interpreted as an unbiased estimate over the full benchmark.
