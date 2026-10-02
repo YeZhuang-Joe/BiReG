@@ -8,6 +8,14 @@ Official implementation of **BiReG**, a training-free framework for bilingual (C
   <img src="/assets/figure2效果对比图-2.svg" width="1200"/>
 </p>
 
+## Main-experiment reproduction
+
+The [main-experiment guide](experiments/main_experiment/README.md) brings together
+EN1920 and ZH150 frozen inputs, six-pipeline generation, archived automatic scores
+and table-reproduction commands. It also documents validation coverage and the
+remaining evaluator/image-release work. The demo instructions below describe the
+method demonstration; use the main-experiment guide for the retained evaluation sets.
+
 ## 🔍 Overview
 
 BiReG addresses a fundamental limitation in controllable text-to-image generation:
