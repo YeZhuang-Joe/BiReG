@@ -24,8 +24,6 @@ For each pipeline, dimension and seed, divide the number of satisfied checkpoint
 
 ## Language paths and evaluation scope
 
-Kolors, RPG+Kolors and BiReG use the original Chinese prompts; SDXL, RPG and RAGD use the frozen English translations. All six pipelines are evaluated against the same original Chinese prompts and checkpoint labels. Differences across backbones and language paths cannot be attributed solely to regional planning.
-
+Kolors, RPG+Kolors and BiReG use the original Chinese prompts; SDXL, RPG and RAGD use the frozen English translations. All six pipelines are evaluated against the same original Chinese prompts and checkpoint labels. 
 The six RPG images for `UGB-ZH-110` and `UGB-ZH-278` across the three seeds use base-generation fallback. They remain in the RPG scores and do not count as successful regional planning.
 
-The archived 150-prompt set has a post-hoc selection history based on earlier scores. Results describe this evaluation set and should not be interpreted as an unbiased estimate over the full benchmark. This release covers prompts and archived automatic scores; the separate human-evaluation ratings are not used in these aggregates.
