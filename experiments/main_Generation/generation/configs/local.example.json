@@ -1,0 +1,11 @@
+{
+  "models": {
+    "sdxl": "/path/to/stable-diffusion-xl-base-1.0",
+    "kolors": "/path/to/Kolors",
+    "flux": "/path/to/FLUX.1-dev"
+  },
+  "python": {
+    "default": "python3",
+    "ragd": "/path/to/ragd/environment/bin/python"
+  }
+}

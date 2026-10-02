@@ -1,0 +1,92 @@
+{
+  "seeds": [
+    1234,
+    2468,
+    42
+  ],
+  "methods": {
+    "sdxl": {
+      "width": 1536,
+      "height": 1024,
+      "num_inference_steps": 30,
+      "num_images_per_prompt": 1,
+      "guidance_scale": 7.0,
+      "dtype": "float16",
+      "negative_prompt": "",
+      "scheduler": "DPMSolverMultistepScheduler",
+      "use_karras_sigmas": true,
+      "attention": "xformers",
+      "memory_strategy": "cuda_resident",
+      "vae_tiling": false
+    },
+    "rpg": {
+      "width": 1536,
+      "height": 1024,
+      "num_inference_steps": 30,
+      "num_images_per_prompt": 1,
+      "guidance_scale": 7.0,
+      "dtype": "float16",
+      "negative_prompt": "",
+      "scheduler": "DPMSolverMultistepScheduler",
+      "use_karras_sigmas": true,
+      "attention": "xformers",
+      "memory_strategy": "cuda_resident",
+      "vae_tiling": false,
+      "base_ratio": 0.5
+    },
+    "kolors": {
+      "batch_size": 1,
+      "dtype": "float16",
+      "guidance_scale": 4.5,
+      "height": 1024,
+      "max_sequence_length": 256,
+      "model_path": "/root/autodl-tmp/weights/Kolors",
+      "negative_prompt": null,
+      "num_inference_steps": 30,
+      "scheduler": "EulerDiscreteScheduler",
+      "use_karras_sigmas": false,
+      "width": 1536
+    },
+    "rpg_kolors": {
+      "batch_size": 1,
+      "dtype": "float16",
+      "guidance_scale": 4.5,
+      "height": 1024,
+      "max_sequence_length": 256,
+      "model_path": "/root/autodl-tmp/weights/Kolors",
+      "negative_prompt": null,
+      "num_inference_steps": 30,
+      "scheduler": "EulerDiscreteScheduler",
+      "use_karras_sigmas": false,
+      "width": 1536
+    },
+    "ragd": {
+      "width": 1536,
+      "height": 1024,
+      "num_inference_steps": 30,
+      "num_images_per_prompt": 1,
+      "guidance_scale": 3.5,
+      "dtype": "bfloat16",
+      "scheduler": "from_local_FLUX_checkpoint",
+      "HB_replace": 2,
+      "SR_delta": 1.0,
+      "max_sequence_length": 512,
+      "memory_strategy": "model_cpu_offload",
+      "vae_tiling": false,
+      "quantization": null
+    },
+    "bireg": {
+      "batch_size": 1,
+      "dtype": "float16",
+      "guidance_scale": 4.5,
+      "height": 1024,
+      "max_sequence_length": 256,
+      "model_path": "/root/autodl-tmp/weights/Kolors",
+      "negative_prompt": null,
+      "num_inference_steps": 30,
+      "scheduler": "EulerDiscreteScheduler",
+      "use_karras_sigmas": false,
+      "width": 1536
+    }
+  }
+}
