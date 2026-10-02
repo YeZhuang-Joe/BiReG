@@ -1,0 +1,14 @@
+(APIServer pid=1543) INFO 10-03 00:53:05 [serving_responses.py:137] Using default chat sampling params from model: {'temperature': 0.7, 'top_k': 20, 'top_p': 0.8}
+(APIServer pid=1543) INFO 10-03 00:53:05 [serving_chat.py:139] Using default chat sampling params from model: {'temperature': 0.7, 'top_k': 20, 'top_p': 0.8}
+(APIServer pid=1543) WARNING 10-03 00:58:38 [protocol.py:93] The following fields were present in the request but ignored: {'do_sample'}
+(APIServer pid=1543) INFO:     127.0.0.1:48226 - "POST /v1/chat/completions HTTP/1.1" 200 OK
+(APIServer pid=1543) WARNING 10-03 00:58:49 [protocol.py:93] The following fields were present in the request but ignored: {'do_sample'}
+(APIServer pid=1543) INFO:     127.0.0.1:36632 - "POST /v1/chat/completions HTTP/1.1" 200 OK
+(APIServer pid=1543) WARNING 10-03 00:58:58 [protocol.py:93] The following fields were present in the request but ignored: {'do_sample'}
+(APIServer pid=1543) INFO:     127.0.0.1:33508 - "POST /v1/chat/completions HTTP/1.1" 200 OK
+(APIServer pid=1543) WARNING 10-03 00:59:06 [protocol.py:93] The following fields were present in the request but ignored: {'do_sample'}
+(APIServer pid=1543) INFO:     127.0.0.1:60498 - "POST /v1/chat/completions HTTP/1.1" 200 OK
+(APIServer pid=1543) WARNING 10-03 00:59:13 [protocol.py:93] The following fields were present in the request but ignored: {'do_sample'}
+(APIServer pid=1543) INFO:     127.0.0.1:60514 - "POST /v1/chat/completions HTTP/1.1" 200 OK
+(APIServer pid=1543) WARNING 10-03 00:59:23 [protocol.py:93] The following fields were present in the request but ignored: {'do_sample'}
+(APIServer pid=1543) INFO:     127.0.0.1:38914 - "POST /v1/chat/completions HTTP/1.1" 200 OK

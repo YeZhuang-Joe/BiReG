@@ -1,0 +1,1206 @@
+{
+  "source_archive": "chinese_scoring_smoke_20261003_010136.zip",
+  "source_archive_sha256": "bd808356eab4f03de858bc68a04652e71ebb4fd1165914896caf022faa0955de",
+  "records": {
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/evaluator.json": {
+      "api_url": "http://127.0.0.1:8080",
+      "client_packages": {
+        "Pillow": "12.3.0",
+        "pandas": "2.2.3",
+        "requests": "2.34.2",
+        "torch": "2.8.0",
+        "tqdm": "4.70.0",
+        "transformers": "4.57.1",
+        "vllm": "0.11.0"
+      },
+      "client_python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "effective_server_sampling": "not independently established",
+      "generation_config_sha256": "3ff2e83a0510cccccc85c8c96c7df4207985c098b526d798bc2bc68e50bb1a41",
+      "historical_judge": {
+        "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+        "max_retries": 2,
+        "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+        "source_sha256": {
+          "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+          "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+        }
+      },
+      "local_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+      "model_config_sha256": "fac0eefdad40ac661e9734d441e0347d779ce96d784137f4b880fb66347a78b8",
+      "repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+      "weight_identity": "operator-declared revision; not a complete weight-content attestation"
+    },
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/attempt_001/response.json": {
+      "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/bireg/UGB-ZH-004/seed_1234.png",
+      "index": 4,
+      "output": "<description>\n            <prompt>一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。</prompt>\n            <checkpoint>['动作-人物/拟人全身动作', '风格']</checkpoint>\n            <analysis>['图像中的拟人化狐狸双腿弯曲，身体重心降低，臀部靠近脚跟，呈现出蹲下的姿势。', '图像整体呈现出一种手绘质感，具有明显的笔触痕迹，尤其是在背景和衣物褶皱处。色彩以棕色、灰色等大地色系为主，色调偏暗沉，营造出一种复古的氛围。光影处理具有戏剧性，突出了主体。这些特征共同构成了复古插画的风格。']</analysis>\n            <score>[1, 1]</score>\n        </description>",
+      "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+      "result_json": {
+        "analysis": [
+          "图像中的拟人化狐狸双腿弯曲，身体重心降低，臀部靠近脚跟，呈现出蹲下的姿势。",
+          "图像整体呈现出一种手绘质感，具有明显的笔触痕迹，尤其是在背景和衣物褶皱处。色彩以棕色、灰色等大地色系为主，色调偏暗沉，营造出一种复古的氛围。光影处理具有戏剧性，突出了主体。这些特征共同构成了复古插画的风格。"
+        ],
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "score": [
+          1,
+          1
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "testpoint": [
+        "动作-人物/拟人全身动作",
+        "风格"
+      ]
+    },
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/binding.json": {
+      "evaluation_task": {
+        "api_url": "http://127.0.0.1:8080",
+        "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/bireg/UGB-ZH-004/seed_1234.png",
+        "index": 4,
+        "lang": "zh",
+        "max_retries": 2,
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "test_desc": [
+          "蹲下身子",
+          "复古插画风格"
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "image": {
+        "annotations": {
+          "一级垂类": "配图",
+          "主体": "动物",
+          "二级垂类": "内容配图",
+          "句式": "描述式",
+          "考点": [
+            "动作-人物/拟人全身动作",
+            "风格"
+          ],
+          "考点对应描述": [
+            "蹲下身子",
+            "复古插画风格"
+          ]
+        },
+        "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+        "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/bireg/UGB-ZH-004/seed_1234.png",
+        "image_sha256": "935878d3cd13263dce9cfa95b32670e17e454fe6d420e88c791397192ad59262",
+        "method": "bireg",
+        "prompt_id": "UGB-ZH-004",
+        "seed": 1234,
+        "sidecar_sha256": "666b1483b98a0e91225fd6bf5d017c9036cf7ed89a8b191e58a9fddea6435fe3",
+        "source_index": 4
+      }
+    },
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/completed.json": {
+      "response_file": "attempt_001/response.json",
+      "response_sha256": "0df518e6fba4f66e74e0a26afa5d79de3ad7ee1a7acaca2f56a446406dc695ea"
+    },
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/run.frozen.json": {
+      "complete_method": false,
+      "evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+      "selection": [
+        {
+          "annotations": {
+            "一级垂类": "配图",
+            "主体": "动物",
+            "二级垂类": "内容配图",
+            "句式": "描述式",
+            "考点": [
+              "动作-人物/拟人全身动作",
+              "风格"
+            ],
+            "考点对应描述": [
+              "蹲下身子",
+              "复古插画风格"
+            ]
+          },
+          "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+          "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+          "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/bireg/UGB-ZH-004/seed_1234.png",
+          "image_sha256": "935878d3cd13263dce9cfa95b32670e17e454fe6d420e88c791397192ad59262",
+          "method": "bireg",
+          "prompt_id": "UGB-ZH-004",
+          "seed": 1234,
+          "sidecar_sha256": "666b1483b98a0e91225fd6bf5d017c9036cf7ed89a8b191e58a9fddea6435fe3",
+          "source_index": 4
+        }
+      ]
+    },
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/scores.jsonl": [
+      {
+        "prompt_id": "UGB-ZH-004",
+        "method": "bireg",
+        "seed": 1234,
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ],
+        "score": [
+          1,
+          1
+        ],
+        "image_sha256": "935878d3cd13263dce9cfa95b32670e17e454fe6d420e88c791397192ad59262"
+      }
+    ],
+    "outputs/zh/bireg/subset_3c8e3edec5f55612/summary.json": {
+      "complete_selected_methods": false,
+      "language": "zh",
+      "n_images": 1,
+      "results": [
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作",
+          "mean": 1.0,
+          "method": "bireg",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作-人物/拟人全身动作",
+          "mean": 1.0,
+          "method": "bireg",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "风格",
+          "mean": 1.0,
+          "method": "bireg",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        }
+      ],
+      "scale": "0–1 checkpoint accuracy"
+    },
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/evaluator.json": {
+      "api_url": "http://127.0.0.1:8080",
+      "client_packages": {
+        "Pillow": "12.3.0",
+        "pandas": "2.2.3",
+        "requests": "2.34.2",
+        "torch": "2.8.0",
+        "tqdm": "4.70.0",
+        "transformers": "4.57.1",
+        "vllm": "0.11.0"
+      },
+      "client_python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "effective_server_sampling": "not independently established",
+      "generation_config_sha256": "3ff2e83a0510cccccc85c8c96c7df4207985c098b526d798bc2bc68e50bb1a41",
+      "historical_judge": {
+        "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+        "max_retries": 2,
+        "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+        "source_sha256": {
+          "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+          "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+        }
+      },
+      "local_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+      "model_config_sha256": "fac0eefdad40ac661e9734d441e0347d779ce96d784137f4b880fb66347a78b8",
+      "repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+      "weight_identity": "operator-declared revision; not a complete weight-content attestation"
+    },
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/attempt_001/response.json": {
+      "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/kolors/UGB-ZH-004/seed_1234.png",
+      "index": 4,
+      "output": "<description>\n            <prompt>一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。</prompt>\n            <checkpoint>['动作-人物/拟人全身动作', '风格']</checkpoint>\n            <analysis>['图像中的拟人化狐狸双腿弯曲，身体重心降低，臀部靠近脚跟，呈现出蹲下的姿势。', '图像整体呈现出明显的绘画感，具有可见的笔触和块状色彩，色调偏向于棕色、米色和灰绿色等复古色彩，符合复古插画的风格。']</analysis>\n            <score>[1, 1]</score>\n        </description>",
+      "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+      "result_json": {
+        "analysis": [
+          "图像中的拟人化狐狸双腿弯曲，身体重心降低，臀部靠近脚跟，呈现出蹲下的姿势。",
+          "图像整体呈现出明显的绘画感，具有可见的笔触和块状色彩，色调偏向于棕色、米色和灰绿色等复古色彩，符合复古插画的风格。"
+        ],
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "score": [
+          1,
+          1
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "testpoint": [
+        "动作-人物/拟人全身动作",
+        "风格"
+      ]
+    },
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/binding.json": {
+      "evaluation_task": {
+        "api_url": "http://127.0.0.1:8080",
+        "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/kolors/UGB-ZH-004/seed_1234.png",
+        "index": 4,
+        "lang": "zh",
+        "max_retries": 2,
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "test_desc": [
+          "蹲下身子",
+          "复古插画风格"
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "image": {
+        "annotations": {
+          "一级垂类": "配图",
+          "主体": "动物",
+          "二级垂类": "内容配图",
+          "句式": "描述式",
+          "考点": [
+            "动作-人物/拟人全身动作",
+            "风格"
+          ],
+          "考点对应描述": [
+            "蹲下身子",
+            "复古插画风格"
+          ]
+        },
+        "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+        "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/kolors/UGB-ZH-004/seed_1234.png",
+        "image_sha256": "6d3ae21109af493c37c8e69293e8c4b18a9041536d411e9b236b59d57285b3ca",
+        "method": "kolors",
+        "prompt_id": "UGB-ZH-004",
+        "seed": 1234,
+        "sidecar_sha256": "49ac64261348c9e9b80282439fae771e62610bb3b6f7dd6020bc651df557d860",
+        "source_index": 4
+      }
+    },
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/completed.json": {
+      "response_file": "attempt_001/response.json",
+      "response_sha256": "533d7c0d010eca3a18ce996eb32866ffeeb48861c3009f1d17eb4e5a0eb3e71a"
+    },
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/run.frozen.json": {
+      "complete_method": false,
+      "evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+      "selection": [
+        {
+          "annotations": {
+            "一级垂类": "配图",
+            "主体": "动物",
+            "二级垂类": "内容配图",
+            "句式": "描述式",
+            "考点": [
+              "动作-人物/拟人全身动作",
+              "风格"
+            ],
+            "考点对应描述": [
+              "蹲下身子",
+              "复古插画风格"
+            ]
+          },
+          "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+          "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+          "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/kolors/UGB-ZH-004/seed_1234.png",
+          "image_sha256": "6d3ae21109af493c37c8e69293e8c4b18a9041536d411e9b236b59d57285b3ca",
+          "method": "kolors",
+          "prompt_id": "UGB-ZH-004",
+          "seed": 1234,
+          "sidecar_sha256": "49ac64261348c9e9b80282439fae771e62610bb3b6f7dd6020bc651df557d860",
+          "source_index": 4
+        }
+      ]
+    },
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/scores.jsonl": [
+      {
+        "prompt_id": "UGB-ZH-004",
+        "method": "kolors",
+        "seed": 1234,
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ],
+        "score": [
+          1,
+          1
+        ],
+        "image_sha256": "6d3ae21109af493c37c8e69293e8c4b18a9041536d411e9b236b59d57285b3ca"
+      }
+    ],
+    "outputs/zh/kolors/subset_3c8e3edec5f55612/summary.json": {
+      "complete_selected_methods": false,
+      "language": "zh",
+      "n_images": 1,
+      "results": [
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作",
+          "mean": 1.0,
+          "method": "kolors",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作-人物/拟人全身动作",
+          "mean": 1.0,
+          "method": "kolors",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "风格",
+          "mean": 1.0,
+          "method": "kolors",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        }
+      ],
+      "scale": "0–1 checkpoint accuracy"
+    },
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/evaluator.json": {
+      "api_url": "http://127.0.0.1:8080",
+      "client_packages": {
+        "Pillow": "12.3.0",
+        "pandas": "2.2.3",
+        "requests": "2.34.2",
+        "torch": "2.8.0",
+        "tqdm": "4.70.0",
+        "transformers": "4.57.1",
+        "vllm": "0.11.0"
+      },
+      "client_python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "effective_server_sampling": "not independently established",
+      "generation_config_sha256": "3ff2e83a0510cccccc85c8c96c7df4207985c098b526d798bc2bc68e50bb1a41",
+      "historical_judge": {
+        "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+        "max_retries": 2,
+        "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+        "source_sha256": {
+          "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+          "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+        }
+      },
+      "local_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+      "model_config_sha256": "fac0eefdad40ac661e9734d441e0347d779ce96d784137f4b880fb66347a78b8",
+      "repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+      "weight_identity": "operator-declared revision; not a complete weight-content attestation"
+    },
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/attempt_001/response.json": {
+      "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/ragd/UGB-ZH-004/seed_1234.png",
+      "index": 4,
+      "output": "<description>\n    <prompt>一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。</prompt>\n    <checkpoint>['动作-人物/拟人全身动作', '风格']</checkpoint>\n    <analysis>[\"图像中的拟人化狐狸双腿弯曲，身体重心降低，靠近地面，呈现出蹲下的姿态。\",\"图像的风格是写实的3D数字渲染，具有高度的细节和逼真的光影效果，例如狐狸毛发的质感和风衣的褶皱都非常清晰。这与提示词所要求的复古插画风格不符，复古插画通常具有更平面化的色彩、特定的线条感或模仿旧式印刷的纹理。\"]</analysis>\n    <score>[1, 0]</score>\n</description>",
+      "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+      "result_json": {
+        "analysis": [
+          "图像中的拟人化狐狸双腿弯曲，身体重心降低，靠近地面，呈现出蹲下的姿态。",
+          "图像的风格是写实的3D数字渲染，具有高度的细节和逼真的光影效果，例如狐狸毛发的质感和风衣的褶皱都非常清晰。这与提示词所要求的复古插画风格不符，复古插画通常具有更平面化的色彩、特定的线条感或模仿旧式印刷的纹理。"
+        ],
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "score": [
+          1,
+          0
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "testpoint": [
+        "动作-人物/拟人全身动作",
+        "风格"
+      ]
+    },
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/binding.json": {
+      "evaluation_task": {
+        "api_url": "http://127.0.0.1:8080",
+        "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/ragd/UGB-ZH-004/seed_1234.png",
+        "index": 4,
+        "lang": "zh",
+        "max_retries": 2,
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "test_desc": [
+          "蹲下身子",
+          "复古插画风格"
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "image": {
+        "annotations": {
+          "一级垂类": "配图",
+          "主体": "动物",
+          "二级垂类": "内容配图",
+          "句式": "描述式",
+          "考点": [
+            "动作-人物/拟人全身动作",
+            "风格"
+          ],
+          "考点对应描述": [
+            "蹲下身子",
+            "复古插画风格"
+          ]
+        },
+        "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+        "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/ragd/UGB-ZH-004/seed_1234.png",
+        "image_sha256": "5262bfb38955c54786ee85514eccd3d95e60791fc9261ea3fdb0944ea631ea22",
+        "method": "ragd",
+        "prompt_id": "UGB-ZH-004",
+        "seed": 1234,
+        "sidecar_sha256": "c03023baea3d077d399d6566c57e20bfaa80b9e3f913e5d5bb1122abf8ea416c",
+        "source_index": 4
+      }
+    },
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/completed.json": {
+      "response_file": "attempt_001/response.json",
+      "response_sha256": "9048f6358ad44fd5510ae2906e0df72bdf15c086ef74cb84687fb9f34ac65460"
+    },
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/run.frozen.json": {
+      "complete_method": false,
+      "evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+      "selection": [
+        {
+          "annotations": {
+            "一级垂类": "配图",
+            "主体": "动物",
+            "二级垂类": "内容配图",
+            "句式": "描述式",
+            "考点": [
+              "动作-人物/拟人全身动作",
+              "风格"
+            ],
+            "考点对应描述": [
+              "蹲下身子",
+              "复古插画风格"
+            ]
+          },
+          "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+          "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+          "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/ragd/UGB-ZH-004/seed_1234.png",
+          "image_sha256": "5262bfb38955c54786ee85514eccd3d95e60791fc9261ea3fdb0944ea631ea22",
+          "method": "ragd",
+          "prompt_id": "UGB-ZH-004",
+          "seed": 1234,
+          "sidecar_sha256": "c03023baea3d077d399d6566c57e20bfaa80b9e3f913e5d5bb1122abf8ea416c",
+          "source_index": 4
+        }
+      ]
+    },
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/scores.jsonl": [
+      {
+        "prompt_id": "UGB-ZH-004",
+        "method": "ragd",
+        "seed": 1234,
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ],
+        "score": [
+          1,
+          0
+        ],
+        "image_sha256": "5262bfb38955c54786ee85514eccd3d95e60791fc9261ea3fdb0944ea631ea22"
+      }
+    ],
+    "outputs/zh/ragd/subset_3c8e3edec5f55612/summary.json": {
+      "complete_selected_methods": false,
+      "language": "zh",
+      "n_images": 1,
+      "results": [
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作",
+          "mean": 1.0,
+          "method": "ragd",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作-人物/拟人全身动作",
+          "mean": 1.0,
+          "method": "ragd",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              0,
+              1
+            ]
+          },
+          "dimension": "风格",
+          "mean": 0.0,
+          "method": "ragd",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 0.0
+          }
+        }
+      ],
+      "scale": "0–1 checkpoint accuracy"
+    },
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/evaluator.json": {
+      "api_url": "http://127.0.0.1:8080",
+      "client_packages": {
+        "Pillow": "12.3.0",
+        "pandas": "2.2.3",
+        "requests": "2.34.2",
+        "torch": "2.8.0",
+        "tqdm": "4.70.0",
+        "transformers": "4.57.1",
+        "vllm": "0.11.0"
+      },
+      "client_python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "effective_server_sampling": "not independently established",
+      "generation_config_sha256": "3ff2e83a0510cccccc85c8c96c7df4207985c098b526d798bc2bc68e50bb1a41",
+      "historical_judge": {
+        "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+        "max_retries": 2,
+        "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+        "source_sha256": {
+          "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+          "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+        }
+      },
+      "local_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+      "model_config_sha256": "fac0eefdad40ac661e9734d441e0347d779ce96d784137f4b880fb66347a78b8",
+      "repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+      "weight_identity": "operator-declared revision; not a complete weight-content attestation"
+    },
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/attempt_001/response.json": {
+      "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg/UGB-ZH-004/seed_1234.png",
+      "index": 4,
+      "output": "<description>\n            <prompt>一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。</prompt>\n            <checkpoint>['动作-人物/拟人全身动作', '风格']</checkpoint>\n            <analysis>['图像中的拟人化狐狸双腿弯曲，身体前倾，一手撑地，一手拿着放大镜靠近地面，呈现出蹲下或俯身的姿态。', '图像整体采用棕褐色调，线条粗犷有力，具有明显的版画或漫画感，并且背景带有做旧的纸张纹理，符合复古插画的风格。']</analysis>\n            <score>[1, 1]</score>\n        </description>",
+      "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+      "result_json": {
+        "analysis": [
+          "图像中的拟人化狐狸双腿弯曲，身体前倾，一手撑地，一手拿着放大镜靠近地面，呈现出蹲下或俯身的姿态。",
+          "图像整体采用棕褐色调，线条粗犷有力，具有明显的版画或漫画感，并且背景带有做旧的纸张纹理，符合复古插画的风格。"
+        ],
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "score": [
+          1,
+          1
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "testpoint": [
+        "动作-人物/拟人全身动作",
+        "风格"
+      ]
+    },
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/binding.json": {
+      "evaluation_task": {
+        "api_url": "http://127.0.0.1:8080",
+        "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg/UGB-ZH-004/seed_1234.png",
+        "index": 4,
+        "lang": "zh",
+        "max_retries": 2,
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "test_desc": [
+          "蹲下身子",
+          "复古插画风格"
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "image": {
+        "annotations": {
+          "一级垂类": "配图",
+          "主体": "动物",
+          "二级垂类": "内容配图",
+          "句式": "描述式",
+          "考点": [
+            "动作-人物/拟人全身动作",
+            "风格"
+          ],
+          "考点对应描述": [
+            "蹲下身子",
+            "复古插画风格"
+          ]
+        },
+        "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+        "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg/UGB-ZH-004/seed_1234.png",
+        "image_sha256": "554d5ef972add169ce20509cdac3fd8e572e944cdc85ac1a239f290f68ef5b4a",
+        "method": "rpg",
+        "prompt_id": "UGB-ZH-004",
+        "seed": 1234,
+        "sidecar_sha256": "53bec30a7ffb304ee33daba0a9d06b6751c9639a31fec396329a4cfc2c9f4aa0",
+        "source_index": 4
+      }
+    },
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/completed.json": {
+      "response_file": "attempt_001/response.json",
+      "response_sha256": "2e9b18b2c89758c26da3362c5f844d276905a47b805afac3c358bb2f6b8b4a1b"
+    },
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/run.frozen.json": {
+      "complete_method": false,
+      "evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+      "selection": [
+        {
+          "annotations": {
+            "一级垂类": "配图",
+            "主体": "动物",
+            "二级垂类": "内容配图",
+            "句式": "描述式",
+            "考点": [
+              "动作-人物/拟人全身动作",
+              "风格"
+            ],
+            "考点对应描述": [
+              "蹲下身子",
+              "复古插画风格"
+            ]
+          },
+          "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+          "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+          "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg/UGB-ZH-004/seed_1234.png",
+          "image_sha256": "554d5ef972add169ce20509cdac3fd8e572e944cdc85ac1a239f290f68ef5b4a",
+          "method": "rpg",
+          "prompt_id": "UGB-ZH-004",
+          "seed": 1234,
+          "sidecar_sha256": "53bec30a7ffb304ee33daba0a9d06b6751c9639a31fec396329a4cfc2c9f4aa0",
+          "source_index": 4
+        }
+      ]
+    },
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/scores.jsonl": [
+      {
+        "prompt_id": "UGB-ZH-004",
+        "method": "rpg",
+        "seed": 1234,
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ],
+        "score": [
+          1,
+          1
+        ],
+        "image_sha256": "554d5ef972add169ce20509cdac3fd8e572e944cdc85ac1a239f290f68ef5b4a"
+      }
+    ],
+    "outputs/zh/rpg/subset_3c8e3edec5f55612/summary.json": {
+      "complete_selected_methods": false,
+      "language": "zh",
+      "n_images": 1,
+      "results": [
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作",
+          "mean": 1.0,
+          "method": "rpg",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作-人物/拟人全身动作",
+          "mean": 1.0,
+          "method": "rpg",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "风格",
+          "mean": 1.0,
+          "method": "rpg",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        }
+      ],
+      "scale": "0–1 checkpoint accuracy"
+    },
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/evaluator.json": {
+      "api_url": "http://127.0.0.1:8080",
+      "client_packages": {
+        "Pillow": "12.3.0",
+        "pandas": "2.2.3",
+        "requests": "2.34.2",
+        "torch": "2.8.0",
+        "tqdm": "4.70.0",
+        "transformers": "4.57.1",
+        "vllm": "0.11.0"
+      },
+      "client_python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "effective_server_sampling": "not independently established",
+      "generation_config_sha256": "3ff2e83a0510cccccc85c8c96c7df4207985c098b526d798bc2bc68e50bb1a41",
+      "historical_judge": {
+        "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+        "max_retries": 2,
+        "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+        "source_sha256": {
+          "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+          "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+        }
+      },
+      "local_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+      "model_config_sha256": "fac0eefdad40ac661e9734d441e0347d779ce96d784137f4b880fb66347a78b8",
+      "repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+      "weight_identity": "operator-declared revision; not a complete weight-content attestation"
+    },
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/attempt_001/response.json": {
+      "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg_kolors/UGB-ZH-004/seed_1234.png",
+      "index": 4,
+      "output": "<description>\n            <prompt>一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。</prompt>\n            <checkpoint>['动作-人物/拟人全身动作', '风格']</checkpoint>\n            <analysis>['图像中的拟人化狐狸双腿弯曲，身体降低，呈蹲姿。', '图像呈现出明显的绘画感，具有可见的笔触和纹理，色彩偏向于棕色、黄色和灰色的复古色调，整体视觉效果符合复古插画的风格。']</analysis>\n            <score>[1, 1]</score>\n        </description>",
+      "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+      "result_json": {
+        "analysis": [
+          "图像中的拟人化狐狸双腿弯曲，身体降低，呈蹲姿。",
+          "图像呈现出明显的绘画感，具有可见的笔触和纹理，色彩偏向于棕色、黄色和灰色的复古色调，整体视觉效果符合复古插画的风格。"
+        ],
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "score": [
+          1,
+          1
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "testpoint": [
+        "动作-人物/拟人全身动作",
+        "风格"
+      ]
+    },
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/binding.json": {
+      "evaluation_task": {
+        "api_url": "http://127.0.0.1:8080",
+        "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg_kolors/UGB-ZH-004/seed_1234.png",
+        "index": 4,
+        "lang": "zh",
+        "max_retries": 2,
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "test_desc": [
+          "蹲下身子",
+          "复古插画风格"
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "image": {
+        "annotations": {
+          "一级垂类": "配图",
+          "主体": "动物",
+          "二级垂类": "内容配图",
+          "句式": "描述式",
+          "考点": [
+            "动作-人物/拟人全身动作",
+            "风格"
+          ],
+          "考点对应描述": [
+            "蹲下身子",
+            "复古插画风格"
+          ]
+        },
+        "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+        "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg_kolors/UGB-ZH-004/seed_1234.png",
+        "image_sha256": "0849edf0e20398d9219b92b4da4ef4172a6523f496eb011731c66f0a5df6921b",
+        "method": "rpg_kolors",
+        "prompt_id": "UGB-ZH-004",
+        "seed": 1234,
+        "sidecar_sha256": "486e3305054954f039728bfbb890c43c3af3f1bbf426112d758117fc163d98c8",
+        "source_index": 4
+      }
+    },
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/completed.json": {
+      "response_file": "attempt_001/response.json",
+      "response_sha256": "93b41bb9e4b869e287acbd98ae097740a71e54e68f6e8d519eb68588f18dd804"
+    },
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/run.frozen.json": {
+      "complete_method": false,
+      "evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+      "selection": [
+        {
+          "annotations": {
+            "一级垂类": "配图",
+            "主体": "动物",
+            "二级垂类": "内容配图",
+            "句式": "描述式",
+            "考点": [
+              "动作-人物/拟人全身动作",
+              "风格"
+            ],
+            "考点对应描述": [
+              "蹲下身子",
+              "复古插画风格"
+            ]
+          },
+          "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+          "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+          "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/rpg_kolors/UGB-ZH-004/seed_1234.png",
+          "image_sha256": "0849edf0e20398d9219b92b4da4ef4172a6523f496eb011731c66f0a5df6921b",
+          "method": "rpg_kolors",
+          "prompt_id": "UGB-ZH-004",
+          "seed": 1234,
+          "sidecar_sha256": "486e3305054954f039728bfbb890c43c3af3f1bbf426112d758117fc163d98c8",
+          "source_index": 4
+        }
+      ]
+    },
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/scores.jsonl": [
+      {
+        "prompt_id": "UGB-ZH-004",
+        "method": "rpg_kolors",
+        "seed": 1234,
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ],
+        "score": [
+          1,
+          1
+        ],
+        "image_sha256": "0849edf0e20398d9219b92b4da4ef4172a6523f496eb011731c66f0a5df6921b"
+      }
+    ],
+    "outputs/zh/rpg_kolors/subset_3c8e3edec5f55612/summary.json": {
+      "complete_selected_methods": false,
+      "language": "zh",
+      "n_images": 1,
+      "results": [
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作",
+          "mean": 1.0,
+          "method": "rpg_kolors",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作-人物/拟人全身动作",
+          "mean": 1.0,
+          "method": "rpg_kolors",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "风格",
+          "mean": 1.0,
+          "method": "rpg_kolors",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        }
+      ],
+      "scale": "0–1 checkpoint accuracy"
+    },
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/evaluator.json": {
+      "api_url": "http://127.0.0.1:8080",
+      "client_packages": {
+        "Pillow": "12.3.0",
+        "pandas": "2.2.3",
+        "requests": "2.34.2",
+        "torch": "2.8.0",
+        "tqdm": "4.70.0",
+        "transformers": "4.57.1",
+        "vllm": "0.11.0"
+      },
+      "client_python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "effective_server_sampling": "not independently established",
+      "generation_config_sha256": "3ff2e83a0510cccccc85c8c96c7df4207985c098b526d798bc2bc68e50bb1a41",
+      "historical_judge": {
+        "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+        "max_retries": 2,
+        "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+        "source_sha256": {
+          "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+          "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+        }
+      },
+      "local_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+      "model_config_sha256": "fac0eefdad40ac661e9734d441e0347d779ce96d784137f4b880fb66347a78b8",
+      "repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+      "weight_identity": "operator-declared revision; not a complete weight-content attestation"
+    },
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/attempt_001/response.json": {
+      "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/sdxl/UGB-ZH-004/seed_1234.png",
+      "index": 4,
+      "output": "<description>\n    <prompt>一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。</prompt>\n    <checkpoint>['动作-人物/拟人全身动作', '风格']</checkpoint>\n    <analysis>['图像中的主体角色双膝跪地，身体向前弯曲，一只手撑在地上，另一只手伸向地面，这个姿势符合“蹲下身子”的描述。', '图像采用黑白色调，背景为米黄色，具有明显的纸张老化感。画面由粗犷的黑色线条和阴影构成，类似于木刻版画或老式漫画的风格，符合“复古插画风格”的要求。']</analysis>\n    <score>[1, 1]</score>\n</description>",
+      "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+      "result_json": {
+        "analysis": [
+          "图像中的主体角色双膝跪地，身体向前弯曲，一只手撑在地上，另一只手伸向地面，这个姿势符合“蹲下身子”的描述。",
+          "图像采用黑白色调，背景为米黄色，具有明显的纸张老化感。画面由粗犷的黑色线条和阴影构成，类似于木刻版画或老式漫画的风格，符合“复古插画风格”的要求。"
+        ],
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "score": [
+          1,
+          1
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "testpoint": [
+        "动作-人物/拟人全身动作",
+        "风格"
+      ]
+    },
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/binding.json": {
+      "evaluation_task": {
+        "api_url": "http://127.0.0.1:8080",
+        "img_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/sdxl/UGB-ZH-004/seed_1234.png",
+        "index": 4,
+        "lang": "zh",
+        "max_retries": 2,
+        "prompt": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "test_desc": [
+          "蹲下身子",
+          "复古插画风格"
+        ],
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ]
+      },
+      "image": {
+        "annotations": {
+          "一级垂类": "配图",
+          "主体": "动物",
+          "二级垂类": "内容配图",
+          "句式": "描述式",
+          "考点": [
+            "动作-人物/拟人全身动作",
+            "风格"
+          ],
+          "考点对应描述": [
+            "蹲下身子",
+            "复古插画风格"
+          ]
+        },
+        "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+        "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+        "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/sdxl/UGB-ZH-004/seed_1234.png",
+        "image_sha256": "60dfa2ab302d18849b8bc9a061859acdecfbe8e7c07f886199a05afa995f8ac4",
+        "method": "sdxl",
+        "prompt_id": "UGB-ZH-004",
+        "seed": 1234,
+        "sidecar_sha256": "ba89b6b4757ed2b1dabdffe439fd331589a966bf5d30312037f708d2b11408f1",
+        "source_index": 4
+      }
+    },
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/records/UGB-ZH-004/seed_1234/completed.json": {
+      "response_file": "attempt_001/response.json",
+      "response_sha256": "1def71b3a37223637c406cb676ee8d912d064c3b713361d65662f4b06b3b0d46"
+    },
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/run.frozen.json": {
+      "complete_method": false,
+      "evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+      "selection": [
+        {
+          "annotations": {
+            "一级垂类": "配图",
+            "主体": "动物",
+            "二级垂类": "内容配图",
+            "句式": "描述式",
+            "考点": [
+              "动作-人物/拟人全身动作",
+              "风格"
+            ],
+            "考点对应描述": [
+              "蹲下身子",
+              "复古插画风格"
+            ]
+          },
+          "caption": "一只穿着风衣的狐狸侦探，正蹲下身子，用放大镜仔细检查地上的泥泞脚印，画面采用复古插画风格。",
+          "generation_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+          "image_path": "/root/autodl-tmp/main_scoring_smoke_inputs/outputs/zh/sdxl/UGB-ZH-004/seed_1234.png",
+          "image_sha256": "60dfa2ab302d18849b8bc9a061859acdecfbe8e7c07f886199a05afa995f8ac4",
+          "method": "sdxl",
+          "prompt_id": "UGB-ZH-004",
+          "seed": 1234,
+          "sidecar_sha256": "ba89b6b4757ed2b1dabdffe439fd331589a966bf5d30312037f708d2b11408f1",
+          "source_index": 4
+        }
+      ]
+    },
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/scores.jsonl": [
+      {
+        "prompt_id": "UGB-ZH-004",
+        "method": "sdxl",
+        "seed": 1234,
+        "testpoint": [
+          "动作-人物/拟人全身动作",
+          "风格"
+        ],
+        "score": [
+          1,
+          1
+        ],
+        "image_sha256": "60dfa2ab302d18849b8bc9a061859acdecfbe8e7c07f886199a05afa995f8ac4"
+      }
+    ],
+    "outputs/zh/sdxl/subset_3c8e3edec5f55612/summary.json": {
+      "complete_selected_methods": false,
+      "language": "zh",
+      "n_images": 1,
+      "results": [
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作",
+          "mean": 1.0,
+          "method": "sdxl",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "动作-人物/拟人全身动作",
+          "mean": 1.0,
+          "method": "sdxl",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        },
+        {
+          "counts": {
+            "1234": [
+              1,
+              1
+            ]
+          },
+          "dimension": "风格",
+          "mean": 1.0,
+          "method": "sdxl",
+          "sample_sd": null,
+          "seed_means": {
+            "1234": 1.0
+          }
+        }
+      ],
+      "scale": "0–1 checkpoint accuracy"
+    }
+  }
+}

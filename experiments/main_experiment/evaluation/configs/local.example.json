@@ -1,0 +1,8 @@
+{
+  "generation_dir": "../../generation",
+  "image_root": "../../generation/outputs",
+  "english_repo": "/root/autodl-tmp/T2I-CompBench-eval",
+  "chinese_repo": "/root/autodl-tmp/unigen_eval/sources/unigen_zip_fu9hyoqk/UniGenBench-64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+  "chinese_model_dir": "/root/autodl-tmp/unigen_eval/models/UniGenBench-32B",
+  "api_url": "http://127.0.0.1:8080"
+}
