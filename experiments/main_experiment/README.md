@@ -126,6 +126,3 @@ archived automatic scores and their aggregation scripts. The complete
 image-to-score evaluator workflow and full historical image download links/index
 remain to be integrated. It is not yet a complete end-to-end reproduction release.
 
-These are retained evaluation pools with a post-hoc selection history.
-Packaging the frozen records does not establish random sampling or an unbiased
-estimate over the full benchmarks.
