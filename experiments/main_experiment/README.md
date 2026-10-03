@@ -126,3 +126,30 @@ archived automatic scores and their aggregation scripts. The complete
 image-to-score evaluator workflow and full historical image download links/index
 remain to be integrated. It is not yet a complete end-to-end reproduction release.
 
+### Download main-experiment images
+
+The English and Chinese main-experiment image archives are available in the **BiReG_Main_Experiment_Images** folder:
+
+**[Download from Baidu Netdisk](https://pan.baidu.com/s/1LLymiKuYsck1E4Mv-fmEUA?pwd=juui)**  
+**Extraction code:** `juui`
+
+| Archive | Prompts | Seeds | Methods | Images | Size |
+|---|---:|---|---:|---:|---:|
+| `Main_Experiment_Images_EN.zip` | 1,920 (320 per category) | 2026, 3407, 5678 | 6 | 34,560 | 46.20 GiB |
+| `Main_Experiment_Images_ZH.zip` | 150 | 1234, 2468, 42 | 6 | 2,700 | 5.51 GiB |
+
+Both archives cover SDXL, RPG, Kolors, RPG+Kolors, RAGD and BiReG. Each archive includes the images, the frozen prompt list, an image manifest containing source-path mappings and per-image SHA-256 hashes, and a README.
+
+Images are organized as:
+`<language>/<method>/<prompt_id>/seed_<seed>.png`
+
+For Chinese Kolors, RPG+Kolors and BiReG, the archived images are byte-preserving copies of the evaluation inputs, verified against the hashes in the corresponding evaluation records. Their original filenames and paths are retained in the manifest.
+
+**Archive SHA-256 checksums**
+
+```text
+63435bf5f5a14728c21f3bcf17af4006c995af16ed24c697bf75af8e61eae98f  Main_Experiment_Images_EN.zip
+f7080061513b3e4db1cc0eccb63faff1c5ed190b4c73a4d230a2b4b6b98d812f  Main_Experiment_Images_ZH.zip
+```
+
+These archives contain the fixed images corresponding to the retained main-experiment prompt sets. Human-evaluation materials are distributed separately.
