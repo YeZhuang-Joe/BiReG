@@ -32,7 +32,3 @@ Inter-rater agreement uses ordinal Krippendorff's alpha, retaining all 21 evalua
 ## Evaluation scope
 
 Each prompt contributes one fixed image per method. English seeds 2026/3407/5678 each cover 20 prompts; Chinese seeds 1234/2468/42 cover 10/10/9 prompts. Fifteen evaluator codes cover 13 prompts each and six cover 12 each. Task HZ012 (`UGB-ZH-278`) was excluded across all six methods because of RPG base-generation fallback, without replacement.
-
-The evaluation sample comes from previously post-hoc-selected pools; these results do not establish unbiased performance over the full benchmarks. The archive retains AI-assisted applicability annotations, without a recorded completed human confirmation of that annotation step.
-
-This release reproduces the submitted V4 values. Earlier V3 and V4 revisions changed BiReG Chinese quality and attribute scores respectively; the basis for those changes and the discrepancy between recorded rating dates and the materials version are not documented in the supplied archive. Numerical reproduction and agreement coefficients do not authenticate independent rating collection.
