@@ -1,0 +1,862 @@
+{
+  "snapshot": "Submitted V4 rating values",
+  "bootstrap": {
+    "resamples": 20000,
+    "seed": 20260930,
+    "method": "stratified paired prompt-level percentile; pointwise 95% intervals",
+    "rng": "PCG64, SeedSequence([seed, language_index, dimension_index])"
+  },
+  "validation": {
+    "prompts": 89,
+    "images": 534,
+    "raters": 21,
+    "image_assessments": 1602,
+    "valid_scores": 3834,
+    "workloads": {
+      "13": 15,
+      "12": 6
+    }
+  },
+  "means": [
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "method": "sdxl",
+      "n": 36,
+      "mean": 3.9537037037037033,
+      "sd": 1.0958877760230217,
+      "lower": 3.6018518518518516,
+      "upper": 4.277777777777778
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "method": "rpg",
+      "n": 36,
+      "mean": 4.277777777777778,
+      "sd": 0.8819171036881969,
+      "lower": 4.027777777777778,
+      "upper": 4.527777777777778
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "method": "kolors",
+      "n": 36,
+      "mean": 3.861111111111112,
+      "sd": 1.0400702052006066,
+      "lower": 3.583333333333333,
+      "upper": 4.12037037037037
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "method": "rpg_kolors",
+      "n": 36,
+      "mean": 4.12037037037037,
+      "sd": 1.095887776023022,
+      "lower": 3.814814814814815,
+      "upper": 4.407407407407407
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "method": "ragd",
+      "n": 36,
+      "mean": 4.592592592592593,
+      "sd": 0.7220390488104191,
+      "lower": 4.370370370370371,
+      "upper": 4.796296296296296
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "method": "bireg",
+      "n": 36,
+      "mean": 4.268518518518519,
+      "sd": 1.026071084032942,
+      "lower": 3.981481481481482,
+      "upper": 4.518518518518519
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "method": "sdxl",
+      "n": 34,
+      "mean": 3.401960784313726,
+      "sd": 1.219315400359388,
+      "lower": 3.0490196078431375,
+      "upper": 3.7647058823529416
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "method": "rpg",
+      "n": 34,
+      "mean": 3.519607843137255,
+      "sd": 1.274434386908933,
+      "lower": 3.1372549019607843,
+      "upper": 3.9019607843137254
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "method": "kolors",
+      "n": 34,
+      "mean": 3.401960784313726,
+      "sd": 1.3149731130246798,
+      "lower": 3.0196078431372553,
+      "upper": 3.803921568627451
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "method": "rpg_kolors",
+      "n": 34,
+      "mean": 3.431372549019608,
+      "sd": 1.332144449161713,
+      "lower": 3.0294117647058822,
+      "upper": 3.8529411764705883
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "method": "ragd",
+      "n": 34,
+      "mean": 4.323529411764706,
+      "sd": 0.9999504840186867,
+      "lower": 4.0,
+      "upper": 4.6078431372549025
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "method": "bireg",
+      "n": 34,
+      "mean": 3.6764705882352944,
+      "sd": 1.3889542468282154,
+      "lower": 3.264705882352941,
+      "upper": 4.088235294117648
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "method": "sdxl",
+      "n": 60,
+      "mean": 3.9444444444444446,
+      "sd": 0.32571327880122586,
+      "lower": 3.8611111111111116,
+      "upper": 4.022222222222222
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "method": "rpg",
+      "n": 60,
+      "mean": 4.016666666666667,
+      "sd": 0.25618525547425747,
+      "lower": 3.95,
+      "upper": 4.072222222222222
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "method": "kolors",
+      "n": 60,
+      "mean": 4.011111111111111,
+      "sd": 0.08606629658238707,
+      "lower": 4.0,
+      "upper": 4.033333333333333
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "method": "rpg_kolors",
+      "n": 60,
+      "mean": 4.033333333333333,
+      "sd": 0.2431742379060077,
+      "lower": 3.9777777777777774,
+      "upper": 4.094444444444444
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "method": "ragd",
+      "n": 60,
+      "mean": 4.033333333333333,
+      "sd": 0.22715799192559474,
+      "lower": 3.977777777777778,
+      "upper": 4.088888888888889
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "method": "bireg",
+      "n": 60,
+      "mean": 4.044444444444444,
+      "sd": 0.26373149236064813,
+      "lower": 3.9833333333333334,
+      "upper": 4.105555555555555
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "method": "sdxl",
+      "n": 27,
+      "mean": 3.4691358024691357,
+      "sd": 1.0053670472279208,
+      "lower": 3.1111111111111116,
+      "upper": 3.8271604938271606
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "method": "rpg",
+      "n": 27,
+      "mean": 3.5308641975308643,
+      "sd": 1.0987921078315885,
+      "lower": 3.135802469135802,
+      "upper": 3.9382716049382713
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "method": "kolors",
+      "n": 27,
+      "mean": 4.049382716049383,
+      "sd": 0.714344500814293,
+      "lower": 3.7901234567901234,
+      "upper": 4.3086419753086425
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "method": "rpg_kolors",
+      "n": 27,
+      "mean": 3.753086419753086,
+      "sd": 1.0645515591829786,
+      "lower": 3.3703703703703702,
+      "upper": 4.135802469135802
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "method": "ragd",
+      "n": 27,
+      "mean": 3.950617283950617,
+      "sd": 0.8657969191212572,
+      "lower": 3.6296296296296298,
+      "upper": 4.271604938271604
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "method": "bireg",
+      "n": 27,
+      "mean": 4.135802469135803,
+      "sd": 0.621957615694321,
+      "lower": 3.901234567901235,
+      "upper": 4.37037037037037
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "method": "sdxl",
+      "n": 27,
+      "mean": 3.2222222222222223,
+      "sd": 1.2018504251546633,
+      "lower": 2.7901234567901234,
+      "upper": 3.666666666666667
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "method": "rpg",
+      "n": 27,
+      "mean": 3.358024691358025,
+      "sd": 1.2605992535295927,
+      "lower": 2.888888888888889,
+      "upper": 3.8271604938271606
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "method": "kolors",
+      "n": 27,
+      "mean": 4.234567901234568,
+      "sd": 0.9732086977403108,
+      "lower": 3.851851851851852,
+      "upper": 4.580246913580247
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "method": "rpg_kolors",
+      "n": 27,
+      "mean": 4.037037037037037,
+      "sd": 1.1297580609817646,
+      "lower": 3.6049382716049383,
+      "upper": 4.432098765432099
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "method": "ragd",
+      "n": 27,
+      "mean": 4.222222222222222,
+      "sd": 0.9245003270420484,
+      "lower": 3.8765432098765427,
+      "upper": 4.555555555555555
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "method": "bireg",
+      "n": 27,
+      "mean": 4.2592592592592595,
+      "sd": 1.0594843663344555,
+      "lower": 3.851851851851852,
+      "upper": 4.62962962962963
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "method": "sdxl",
+      "n": 29,
+      "mean": 4.0,
+      "sd": 0.2672612419124244,
+      "lower": 3.896551724137931,
+      "upper": 4.103448275862069
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "method": "rpg",
+      "n": 29,
+      "mean": 3.9770114942528734,
+      "sd": 0.33251130166684484,
+      "lower": 3.862068965517241,
+      "upper": 4.091954022988506
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "method": "kolors",
+      "n": 29,
+      "mean": 3.9770114942528734,
+      "sd": 0.19782617194802132,
+      "lower": 3.896551724137931,
+      "upper": 4.034482758620689
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "method": "rpg_kolors",
+      "n": 29,
+      "mean": 4.057471264367816,
+      "sd": 0.3458250488651027,
+      "lower": 3.931034482758621,
+      "upper": 4.172413793103448
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "method": "ragd",
+      "n": 29,
+      "mean": 3.988505747126437,
+      "sd": 0.22682694999397382,
+      "lower": 3.896551724137931,
+      "upper": 4.068965517241379
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "method": "bireg",
+      "n": 29,
+      "mean": 4.114942528735631,
+      "sd": 0.31213374815585315,
+      "lower": 4.0,
+      "upper": 4.218390804597702
+    }
+  ],
+  "paired": [
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "baseline": "sdxl",
+      "n": 36,
+      "delta": 0.3148148148148148,
+      "lower": -0.018518518518518157,
+      "upper": 0.6759259259259252
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "baseline": "rpg",
+      "n": 36,
+      "delta": -0.009259259259259252,
+      "lower": -0.2777777777777777,
+      "upper": 0.2592592592592595
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "baseline": "kolors",
+      "n": 36,
+      "delta": 0.40740740740740744,
+      "lower": 0.10185185185185208,
+      "upper": 0.7129629629629632
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "baseline": "rpg_kolors",
+      "n": 36,
+      "delta": 0.14814814814814817,
+      "lower": -0.07407407407407351,
+      "upper": 0.3703703703703698
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "baseline": "ragd",
+      "n": 36,
+      "delta": -0.3240740740740741,
+      "lower": -0.6388888888888893,
+      "upper": -0.0370370370370372
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "baseline": "sdxl",
+      "n": 34,
+      "delta": 0.2745098039215686,
+      "lower": -0.16666666666666607,
+      "upper": 0.715686274509804
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "baseline": "rpg",
+      "n": 34,
+      "delta": 0.1568627450980392,
+      "lower": -0.1862745098039218,
+      "upper": 0.549019607843138
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "baseline": "kolors",
+      "n": 34,
+      "delta": 0.27450980392156865,
+      "lower": -0.009803921568627416,
+      "upper": 0.5686274509803924
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "baseline": "rpg_kolors",
+      "n": 34,
+      "delta": 0.24509803921568624,
+      "lower": -0.0686274509803928,
+      "upper": 0.5882352941176467
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "baseline": "ragd",
+      "n": 34,
+      "delta": -0.6470588235294117,
+      "lower": -1.107843137254903,
+      "upper": -0.18627450980392224
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "baseline": "sdxl",
+      "n": 60,
+      "delta": 0.09999999999999999,
+      "lower": -0.005555555555555536,
+      "upper": 0.21666666666666634
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "baseline": "rpg",
+      "n": 60,
+      "delta": 0.027777777777777752,
+      "lower": -0.061111111111110894,
+      "upper": 0.12222222222222179
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "baseline": "kolors",
+      "n": 60,
+      "delta": 0.03333333333333332,
+      "lower": -0.022222222222222143,
+      "upper": 0.08888888888888857
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "baseline": "rpg_kolors",
+      "n": 60,
+      "delta": 0.011111111111111101,
+      "lower": -0.07222222222222241,
+      "upper": 0.08888888888888857
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "baseline": "ragd",
+      "n": 60,
+      "delta": 0.011111111111111101,
+      "lower": -0.07222222222222197,
+      "upper": 0.09999999999999964
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "baseline": "sdxl",
+      "n": 27,
+      "delta": 0.6666666666666666,
+      "lower": 0.2839506172839501,
+      "upper": 1.0370370370370372
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "baseline": "rpg",
+      "n": 27,
+      "delta": 0.6049382716049382,
+      "lower": 0.18518518518518512,
+      "upper": 1.0123456790123462
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "baseline": "kolors",
+      "n": 27,
+      "delta": 0.08641975308641975,
+      "lower": -0.1481481481481488,
+      "upper": 0.2962962962962967
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "baseline": "rpg_kolors",
+      "n": 27,
+      "delta": 0.38271604938271603,
+      "lower": 0.09876543209876587,
+      "upper": 0.7037037037037033
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "baseline": "ragd",
+      "n": 27,
+      "delta": 0.18518518518518512,
+      "lower": -0.09876543209876588,
+      "upper": 0.4691358024691352
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "baseline": "sdxl",
+      "n": 27,
+      "delta": 1.037037037037037,
+      "lower": 0.5925925925925926,
+      "upper": 1.4938271604938276
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "baseline": "rpg",
+      "n": 27,
+      "delta": 0.9012345679012346,
+      "lower": 0.3209876543209882,
+      "upper": 1.4444444444444446
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "baseline": "kolors",
+      "n": 27,
+      "delta": 0.02469135802469137,
+      "lower": -0.2962962962962967,
+      "upper": 0.283950617283951
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "baseline": "rpg_kolors",
+      "n": 27,
+      "delta": 0.2222222222222222,
+      "lower": -0.11111111111111072,
+      "upper": 0.5925925925925934
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "baseline": "ragd",
+      "n": 27,
+      "delta": 0.037037037037037035,
+      "lower": -0.40740740740740744,
+      "upper": 0.45679012345678993
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "baseline": "sdxl",
+      "n": 29,
+      "delta": 0.11494252873563209,
+      "lower": 0.011494252873562871,
+      "upper": 0.21839080459770077
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "baseline": "rpg",
+      "n": 29,
+      "delta": 0.13793103448275854,
+      "lower": 0.011494252873562871,
+      "upper": 0.26436781609195403
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "baseline": "kolors",
+      "n": 29,
+      "delta": 0.13793103448275854,
+      "lower": 0.05747126436781613,
+      "upper": 0.2298850574712641
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "baseline": "rpg_kolors",
+      "n": 29,
+      "delta": 0.05747126436781598,
+      "lower": -0.05747126436781613,
+      "upper": 0.1724137931034475
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "baseline": "ragd",
+      "n": 29,
+      "delta": 0.1264367816091953,
+      "lower": 0.04597701149425237,
+      "upper": 0.21839080459770077
+    }
+  ],
+  "agreement": [
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "alpha": 0.842011005793456,
+      "n_images": 216,
+      "n_scores": 648,
+      "unanimous_images": 160
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "alpha": 0.8690492123875722,
+      "n_images": 204,
+      "n_scores": 612,
+      "unanimous_images": 137
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "alpha": 0.797289318303811,
+      "n_images": 360,
+      "n_scores": 1080,
+      "unanimous_images": 345
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "alpha": 0.7195591701034907,
+      "n_images": 162,
+      "n_scores": 486,
+      "unanimous_images": 94
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "alpha": 0.8785090377408654,
+      "n_images": 162,
+      "n_scores": 486,
+      "unanimous_images": 116
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "alpha": 0.7258121879057338,
+      "n_images": 174,
+      "n_scores": 522,
+      "unanimous_images": 160
+    }
+  ],
+  "strata_counts": [
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "stratum": "color",
+      "n": 8
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "stratum": "complex_both",
+      "n": 5
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "stratum": "complex_spatial",
+      "n": 6
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "stratum": "non_spatial",
+      "n": 1
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "stratum": "shape",
+      "n": 8
+    },
+    {
+      "language": "en",
+      "dimension": "attribute",
+      "stratum": "texture",
+      "n": 8
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "color",
+      "n": 1
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "complex_both",
+      "n": 6
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "complex_spatial",
+      "n": 6
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "non_spatial",
+      "n": 1
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "shape",
+      "n": 1
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "spatial",
+      "n": 18
+    },
+    {
+      "language": "en",
+      "dimension": "spatial",
+      "stratum": "texture",
+      "n": 1
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "color",
+      "n": 8
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "complex_both",
+      "n": 6
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "complex_spatial",
+      "n": 6
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "non_spatial",
+      "n": 6
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "shape",
+      "n": 8
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "spatial",
+      "n": 18
+    },
+    {
+      "language": "en",
+      "dimension": "quality",
+      "stratum": "texture",
+      "n": 8
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "stratum": "attribute_other",
+      "n": 10
+    },
+    {
+      "language": "zh",
+      "dimension": "attribute",
+      "stratum": "layout",
+      "n": 17
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "stratum": "attribute_other",
+      "n": 8
+    },
+    {
+      "language": "zh",
+      "dimension": "spatial",
+      "stratum": "layout",
+      "n": 19
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "stratum": "attribute_other",
+      "n": 10
+    },
+    {
+      "language": "zh",
+      "dimension": "quality",
+      "stratum": "layout",
+      "n": 19
+    }
+  ]
+}
