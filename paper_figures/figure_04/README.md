@@ -7,7 +7,7 @@ This folder contains the four source JPEG images used in Figure 4, together with
 | Case | Layout | File | Regional assignment |
 | --- | --- | --- | --- |
 | (a) Heaven and Hell | Left–Right | `fig04_a_left_right.jpg` | Left: Hell; right: Heaven |
-| (a) Heaven and Hell | Top–Bottom | `fig04_a_top_bottom.jpg` | Top: Heaven; bottom: Hell |
+| (a) Heaven and Hell | Top–Bottom | `fig04_a_top_bottom.jpg` | Top: Hell; bottom: Heaven |
 | (b) Forest and Desert | Left–Right | `fig04_b_left_right.jpg` | Left: Forest; right: Desert |
 | (b) Forest and Desert | Top–Bottom | `fig04_b_top_bottom.jpg` | Top: Forest; bottom: Desert |
 
