@@ -1,0 +1,22 @@
+{
+  "repository": "YeZhuang-Joe/BiReG",
+  "commit": "d7ef2546eb5b6a4c3a19582a388505922ca30951",
+  "retrieved_on": "2026-10-07",
+  "files": [
+    {
+      "local_path": "inputs/development_pairs_50.jsonl",
+      "repository_path": "data/development_prompts/bireg_development_pairs_50_v1.jsonl",
+      "git_blob_sha": "ff6f1a4df7b72c2a3f821463ba411767e0374179"
+    },
+    {
+      "local_path": "inputs/en1920.prompts.jsonl",
+      "repository_path": "experiments/main_experiment/en1920/data/prompts.frozen.jsonl",
+      "git_blob_sha": "6b4f8de38f55ead1c1b69d9a6604b806ba1e9d1a"
+    },
+    {
+      "local_path": "inputs/zh150.prompts.jsonl",
+      "repository_path": "experiments/main_experiment/zh150/data/prompts.frozen.jsonl",
+      "git_blob_sha": "6056e6651bd7c961989b9088646f652c878d4ffc"
+    }
+  ]
+}

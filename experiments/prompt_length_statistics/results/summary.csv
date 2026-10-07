@@ -1,0 +1,6 @@
+collection,label,n,unit,mean,median,min,max
+development_zh,Development (zh),50,characters,56.68,47.5,7,184
+development_en,Development (en),50,words,46.06,37.0,5,153
+main_en,English main,1920,words,9.071354166666667,8.0,5,25
+main_zh,Chinese main,150,characters,43.846666666666664,43.0,28,61
+main_zh_translation_en,English translations,150,words,27.586666666666666,27.0,15,43

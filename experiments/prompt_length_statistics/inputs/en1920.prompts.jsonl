@@ -1,0 +1,1920 @@
+{"prompt_id": "T2I-color-001", "prompt": "a green bench and a blue bowl"}
+{"prompt_id": "T2I-color-002", "prompt": "a blue bench and a green bowl"}
+{"prompt_id": "T2I-color-005", "prompt": "a brown horse and a blue vase"}
+{"prompt_id": "T2I-color-007", "prompt": "a blue backpack and a brown cow"}
+{"prompt_id": "T2I-color-011", "prompt": "a brown bear and a red book"}
+{"prompt_id": "T2I-color-012", "prompt": "a red bear and a brown book"}
+{"prompt_id": "T2I-color-019", "prompt": "a blue cake and a red suitcase"}
+{"prompt_id": "T2I-color-021", "prompt": "a brown elephant and a red suitcase"}
+{"prompt_id": "T2I-color-022", "prompt": "a red elephant and a brown suitcase"}
+{"prompt_id": "T2I-color-023", "prompt": "a green apple and a brown horse"}
+{"prompt_id": "T2I-color-029", "prompt": "a green apple and a blue vase"}
+{"prompt_id": "T2I-color-031", "prompt": "a green banana and a red suitcase"}
+{"prompt_id": "T2I-color-034", "prompt": "a brown bowl and a blue elephant"}
+{"prompt_id": "T2I-color-035", "prompt": "a blue backpack and a red orange"}
+{"prompt_id": "T2I-color-040", "prompt": "a brown cup and a blue horse"}
+{"prompt_id": "T2I-color-043", "prompt": "a brown cat and a gold clock"}
+{"prompt_id": "T2I-color-044", "prompt": "a gold cat and a brown clock"}
+{"prompt_id": "T2I-color-053", "prompt": "a blue backpack and a gold clock"}
+{"prompt_id": "T2I-color-059", "prompt": "a blue backpack and a brown giraffe"}
+{"prompt_id": "T2I-color-060", "prompt": "a brown backpack and a blue giraffe"}
+{"prompt_id": "T2I-color-063", "prompt": "a red suitcase and a blue vase"}
+{"prompt_id": "T2I-color-064", "prompt": "a blue suitcase and a red vase"}
+{"prompt_id": "T2I-color-065", "prompt": "a blue cup and a brown sheep"}
+{"prompt_id": "T2I-color-066", "prompt": "a brown cup and a blue sheep"}
+{"prompt_id": "T2I-color-067", "prompt": "a brown bear and a red train"}
+{"prompt_id": "T2I-color-070", "prompt": "a green apple and a red suitcase"}
+{"prompt_id": "T2I-color-071", "prompt": "a red apple and a green suitcase"}
+{"prompt_id": "T2I-color-073", "prompt": "a red bowl and a blue train"}
+{"prompt_id": "T2I-color-079", "prompt": "a red apple and a green train"}
+{"prompt_id": "T2I-color-080", "prompt": "a brown giraffe and a red train"}
+{"prompt_id": "T2I-color-081", "prompt": "a red giraffe and a brown train"}
+{"prompt_id": "T2I-color-082", "prompt": "a blue boat and a red suitcase"}
+{"prompt_id": "T2I-color-083", "prompt": "a red boat and a blue suitcase"}
+{"prompt_id": "T2I-color-084", "prompt": "a blue bowl and a brown horse"}
+{"prompt_id": "T2I-color-090", "prompt": "a brown bear and a blue vase"}
+{"prompt_id": "T2I-color-091", "prompt": "a blue bear and a brown vase"}
+{"prompt_id": "T2I-color-093", "prompt": "a brown apple and a green elephant"}
+{"prompt_id": "T2I-color-095", "prompt": "a brown banana and a green bear"}
+{"prompt_id": "T2I-color-096", "prompt": "a blue boat and a brown cat"}
+{"prompt_id": "T2I-color-101", "prompt": "a blue car and a red cup"}
+{"prompt_id": "T2I-color-102", "prompt": "a blue backpack and a red car"}
+{"prompt_id": "T2I-color-104", "prompt": "a brown cow and a blue cup"}
+{"prompt_id": "T2I-color-106", "prompt": "a red train and a blue vase"}
+{"prompt_id": "T2I-color-108", "prompt": "a brown giraffe and a red orange"}
+{"prompt_id": "T2I-color-110", "prompt": "a green banana and a brown cow"}
+{"prompt_id": "T2I-color-112", "prompt": "a brown giraffe and a blue vase"}
+{"prompt_id": "T2I-color-114", "prompt": "a brown cow and a red suitcase"}
+{"prompt_id": "T2I-color-116", "prompt": "a green apple and a blue cup"}
+{"prompt_id": "T2I-color-117", "prompt": "a blue apple and a green cup"}
+{"prompt_id": "T2I-color-122", "prompt": "a blue boat and a red book"}
+{"prompt_id": "T2I-color-123", "prompt": "a red boat and a blue book"}
+{"prompt_id": "T2I-color-125", "prompt": "a brown cup and a blue elephant"}
+{"prompt_id": "T2I-color-128", "prompt": "a brown bear and a blue boat"}
+{"prompt_id": "T2I-color-129", "prompt": "a blue bear and a brown boat"}
+{"prompt_id": "T2I-color-133", "prompt": "a green cup and a blue cell phone"}
+{"prompt_id": "T2I-color-139", "prompt": "a red book and a yellow vase"}
+{"prompt_id": "T2I-color-143", "prompt": "a red hat and a black scarf"}
+{"prompt_id": "T2I-color-147", "prompt": "a red apple and a purple grape"}
+{"prompt_id": "T2I-color-151", "prompt": "a brown acorn and a green leaf"}
+{"prompt_id": "T2I-color-157", "prompt": "a blue pen and a yellow highlighter"}
+{"prompt_id": "T2I-color-159", "prompt": "a black moon and a white sky"}
+{"prompt_id": "T2I-color-161", "prompt": "a green leaf and a yellow flower"}
+{"prompt_id": "T2I-color-163", "prompt": "a black cat and a white paw"}
+{"prompt_id": "T2I-color-165", "prompt": "a yellow duck and a blue pond"}
+{"prompt_id": "T2I-color-169", "prompt": "a red sun and a yellow sunset"}
+{"prompt_id": "T2I-color-172", "prompt": "a green grass and a yellow dandelion"}
+{"prompt_id": "T2I-color-177", "prompt": "a yellow apple and a red pear"}
+{"prompt_id": "T2I-color-179", "prompt": "a blue snow and a white sled"}
+{"prompt_id": "T2I-color-181", "prompt": "a yellow frog and a green fly"}
+{"prompt_id": "T2I-color-193", "prompt": "a yellow leaf and a green butterfly"}
+{"prompt_id": "T2I-color-196", "prompt": "a red apple and a green kiwi"}
+{"prompt_id": "T2I-color-202", "prompt": "a red cylinder and a blue cube"}
+{"prompt_id": "T2I-color-205", "prompt": "a blue bird and a yellow canary"}
+{"prompt_id": "T2I-color-206", "prompt": "a canary and a yellow bluebird"}
+{"prompt_id": "T2I-color-207", "prompt": "a yellow taxi and a black tire"}
+{"prompt_id": "T2I-color-215", "prompt": "a green jay and a blue parrot"}
+{"prompt_id": "T2I-color-218", "prompt": "a white swan and a black lake"}
+{"prompt_id": "T2I-color-220", "prompt": "a brown log and a green moss"}
+{"prompt_id": "T2I-color-221", "prompt": "a green log and a brown moss"}
+{"prompt_id": "T2I-color-222", "prompt": "a brown guitar and a black amplifier"}
+{"prompt_id": "T2I-color-223", "prompt": "a black guitar and a brown amplifier"}
+{"prompt_id": "T2I-color-224", "prompt": "a white envelope and a blue stamp"}
+{"prompt_id": "T2I-color-226", "prompt": "a blue bicycle and a red helmet"}
+{"prompt_id": "T2I-color-227", "prompt": "a red bicycle and a blue helmet"}
+{"prompt_id": "T2I-color-228", "prompt": "a yellow taxi and a red tire"}
+{"prompt_id": "T2I-color-230", "prompt": "a black jacket and a brown hat"}
+{"prompt_id": "T2I-color-231", "prompt": "a blue rose and a green tulip"}
+{"prompt_id": "T2I-color-234", "prompt": "a green school bus and a red bag"}
+{"prompt_id": "T2I-color-240", "prompt": "a green bag and a blue water bottle"}
+{"prompt_id": "T2I-color-242", "prompt": "A bathroom with beige tile and a white toilet."}
+{"prompt_id": "T2I-color-243", "prompt": "A green bathroom with a mirror and a pink sink."}
+{"prompt_id": "T2I-color-246", "prompt": "a black white and gold vase sitting on a counter"}
+{"prompt_id": "T2I-color-247", "prompt": "A small white kitchen with brown wood floor."}
+{"prompt_id": "T2I-color-253", "prompt": "A long, narrow yellow kitchen with black and white floor tiles."}
+{"prompt_id": "T2I-color-254", "prompt": "A long, narrow black kitchen with yellow and white floor tiles."}
+{"prompt_id": "T2I-color-259", "prompt": "Bathroom scene with white background and tan accents."}
+{"prompt_id": "T2I-color-260", "prompt": "Bathroom scene with tan background and white accents."}
+{"prompt_id": "T2I-color-261", "prompt": "A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows."}
+{"prompt_id": "T2I-color-265", "prompt": "A bathroom with green tile and a red shower curtain."}
+{"prompt_id": "T2I-color-267", "prompt": "A white bath tub sits empty in a tan, clean bathroom."}
+{"prompt_id": "T2I-color-271", "prompt": "A black and white cat sits in a white sink."}
+{"prompt_id": "T2I-color-278", "prompt": "A black and green tile bathroom with a yellow toilet and a black bucket on the floor."}
+{"prompt_id": "T2I-color-279", "prompt": "A red carpet in a bathroom with white fixtures."}
+{"prompt_id": "T2I-color-280", "prompt": "A white carpet in a bathroom with red fixtures."}
+{"prompt_id": "T2I-color-281", "prompt": "Many stoplights flash yellow on a snow covered street."}
+{"prompt_id": "T2I-color-285", "prompt": "A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets."}
+{"prompt_id": "T2I-color-287", "prompt": "Bathroom scene, white commode and matching white sink on light brown tone tiled floor."}
+{"prompt_id": "T2I-color-292", "prompt": "The man on the large pink motorcycle has black chaps."}
+{"prompt_id": "T2I-color-294", "prompt": "A grey motorcycle is parked on black cobblestones."}
+{"prompt_id": "T2I-color-295", "prompt": "The white and yellow clock with a red roof reads 11:44."}
+{"prompt_id": "T2I-color-298", "prompt": "A man in a black jacket standing in a kitchen next to a gray dog."}
+{"prompt_id": "T2I-color-299", "prompt": "a white bathroom with a black and white shower curtain"}
+{"prompt_id": "T2I-color-300", "prompt": "a black bathroom with a black and white shower curtain"}
+{"prompt_id": "T2IX-color-train-0009", "prompt": "a red car and a brown elephant"}
+{"prompt_id": "T2IX-color-train-0013", "prompt": "a green bench and a brown dog"}
+{"prompt_id": "T2IX-color-train-0017", "prompt": "a brown dog and a blue horse"}
+{"prompt_id": "T2IX-color-train-0019", "prompt": "a yellow dog and a brown horse"}
+{"prompt_id": "T2IX-color-train-0020", "prompt": "a brown dog and a yellow horse"}
+{"prompt_id": "T2IX-color-train-0021", "prompt": "a red chair and a brown dog"}
+{"prompt_id": "T2IX-color-train-0023", "prompt": "a red chair and a yellow dog"}
+{"prompt_id": "T2IX-color-train-0027", "prompt": "a green bench and a yellow train"}
+{"prompt_id": "T2IX-color-train-0031", "prompt": "a green bench and a red boat"}
+{"prompt_id": "T2IX-color-train-0033", "prompt": "a gold clock and a blue vase"}
+{"prompt_id": "T2IX-color-train-0034", "prompt": "a blue clock and a gold vase"}
+{"prompt_id": "T2IX-color-train-0036", "prompt": "a green clock and a gold vase"}
+{"prompt_id": "T2IX-color-train-0043", "prompt": "a brown cow and a pink sheep"}
+{"prompt_id": "T2IX-color-train-0051", "prompt": "a blue bowl and a red cup"}
+{"prompt_id": "T2IX-color-train-0057", "prompt": "a green bench and a yellow cat"}
+{"prompt_id": "T2IX-color-train-0061", "prompt": "a red car and a pink sheep"}
+{"prompt_id": "T2IX-color-train-0067", "prompt": "a blue bowl and a brown cat"}
+{"prompt_id": "T2IX-color-train-0069", "prompt": "a blue bowl and a yellow cat"}
+{"prompt_id": "T2IX-color-train-0075", "prompt": "a red book and a gold clock"}
+{"prompt_id": "T2IX-color-train-0082", "prompt": "a brown chair and a red clock"}
+{"prompt_id": "T2IX-color-train-0084", "prompt": "a pink bird and a brown elephant"}
+{"prompt_id": "T2IX-color-train-0087", "prompt": "a red car and a brown cat"}
+{"prompt_id": "T2IX-color-train-0092", "prompt": "a yellow cow and a brown dog"}
+{"prompt_id": "T2IX-color-train-0101", "prompt": "a green bench and a blue book"}
+{"prompt_id": "T2IX-color-train-0103", "prompt": "a brown bird and a pink sheep"}
+{"prompt_id": "T2IX-color-train-0104", "prompt": "a pink bird and a brown sheep"}
+{"prompt_id": "T2IX-color-train-0105", "prompt": "a red bird and a brown sheep"}
+{"prompt_id": "T2IX-color-train-0109", "prompt": "a green banana and a red bird"}
+{"prompt_id": "T2IX-color-train-0116", "prompt": "a brown backpack and a blue cat"}
+{"prompt_id": "T2IX-color-train-0121", "prompt": "a yellow dog and a brown sheep"}
+{"prompt_id": "T2IX-color-train-0129", "prompt": "a red chair and a green vase"}
+{"prompt_id": "T2IX-color-train-0133", "prompt": "a green apple and a red bird"}
+{"prompt_id": "T2IX-color-train-0134", "prompt": "a red apple and a green bird"}
+{"prompt_id": "T2IX-color-train-0136", "prompt": "a green bowl and a blue vase"}
+{"prompt_id": "T2IX-color-train-0143", "prompt": "a brown bird and a gold clock"}
+{"prompt_id": "T2IX-color-train-0155", "prompt": "a blue boat and a gold clock"}
+{"prompt_id": "T2IX-color-train-0156", "prompt": "a gold boat and a blue clock"}
+{"prompt_id": "T2IX-color-train-0159", "prompt": "a brown horse and a pink sheep"}
+{"prompt_id": "T2IX-color-train-0160", "prompt": "a pink horse and a brown sheep"}
+{"prompt_id": "T2IX-color-train-0164", "prompt": "a blue bird and a brown bowl"}
+{"prompt_id": "T2IX-color-train-0166", "prompt": "a red bird and a brown bowl"}
+{"prompt_id": "T2IX-color-train-0168", "prompt": "a brown boat and a blue cow"}
+{"prompt_id": "T2IX-color-train-0170", "prompt": "a red boat and a blue cow"}
+{"prompt_id": "T2IX-color-train-0171", "prompt": "a red book and a brown cat"}
+{"prompt_id": "T2IX-color-train-0173", "prompt": "a red book and a yellow cat"}
+{"prompt_id": "T2IX-color-train-0180", "prompt": "a red apple and a green orange"}
+{"prompt_id": "T2IX-color-train-0181", "prompt": "a green apple and a yellow orange"}
+{"prompt_id": "T2IX-color-train-0193", "prompt": "a brown bird and a blue car"}
+{"prompt_id": "T2IX-color-train-0199", "prompt": "a blue cup and a green vase"}
+{"prompt_id": "T2IX-color-train-0204", "prompt": "a brown elephant and a pink giraffe"}
+{"prompt_id": "T2IX-color-train-0209", "prompt": "a gold clock and a red train"}
+{"prompt_id": "T2IX-color-train-0212", "prompt": "a yellow clock and a gold train"}
+{"prompt_id": "T2IX-color-train-0213", "prompt": "a green bench and a gold clock"}
+{"prompt_id": "T2IX-color-train-0216", "prompt": "a brown bench and a green clock"}
+{"prompt_id": "T2IX-color-train-0218", "prompt": "a blue bird and a brown boat"}
+{"prompt_id": "T2IX-color-train-0227", "prompt": "a green banana and a pink cake"}
+{"prompt_id": "T2IX-color-train-0231", "prompt": "a blue car and a brown giraffe"}
+{"prompt_id": "T2IX-color-train-0239", "prompt": "a brown cat and a blue suitcase"}
+{"prompt_id": "T2IX-color-train-0241", "prompt": "a green banana and a blue bowl"}
+{"prompt_id": "T2IX-color-train-0245", "prompt": "a green apple and a blue bowl"}
+{"prompt_id": "T2IX-color-train-0246", "prompt": "a blue apple and a green bowl"}
+{"prompt_id": "T2IX-color-train-0249", "prompt": "a brown bird and a red chair"}
+{"prompt_id": "T2IX-color-train-0250", "prompt": "a red bird and a brown chair"}
+{"prompt_id": "T2IX-color-train-0251", "prompt": "a brown bird and a blue chair"}
+{"prompt_id": "T2IX-color-train-0255", "prompt": "a brown dog and a blue suitcase"}
+{"prompt_id": "T2IX-color-train-0269", "prompt": "a red book and a brown dog"}
+{"prompt_id": "T2IX-color-train-0271", "prompt": "a red book and a yellow dog"}
+{"prompt_id": "T2IX-color-train-0277", "prompt": "a red chair and a brown giraffe"}
+{"prompt_id": "T2IX-color-train-0279", "prompt": "a green banana and a brown sheep"}
+{"prompt_id": "T2IX-color-train-0280", "prompt": "a brown banana and a green sheep"}
+{"prompt_id": "T2IX-color-train-0282", "prompt": "a blue elephant and a brown vase"}
+{"prompt_id": "T2IX-color-train-0287", "prompt": "a brown bear and a blue cup"}
+{"prompt_id": "T2IX-color-train-0293", "prompt": "a red book and a blue bowl"}
+{"prompt_id": "T2IX-color-train-0296", "prompt": "a brown backpack and a blue elephant"}
+{"prompt_id": "T2IX-color-train-0303", "prompt": "a green apple and a brown sheep"}
+{"prompt_id": "T2IX-color-train-0308", "prompt": "a red cup and a blue suitcase"}
+{"prompt_id": "T2IX-color-train-0309", "prompt": "a blue bowl and a red car"}
+{"prompt_id": "T2IX-color-train-0310", "prompt": "a red bowl and a blue car"}
+{"prompt_id": "T2IX-color-train-0312", "prompt": "a brown cake and a blue giraffe"}
+{"prompt_id": "T2IX-color-train-0316", "prompt": "a blue apple and a green boat"}
+{"prompt_id": "T2IX-color-train-0320", "prompt": "a red bowl and a blue chair"}
+{"prompt_id": "T2IX-color-train-0323", "prompt": "a green banana and a red train"}
+{"prompt_id": "T2IX-color-train-0325", "prompt": "a green apple and a red car"}
+{"prompt_id": "T2IX-color-train-0327", "prompt": "a green apple and a brown giraffe"}
+{"prompt_id": "T2IX-color-train-0328", "prompt": "a brown apple and a green giraffe"}
+{"prompt_id": "T2IX-color-train-0332", "prompt": "a red boat and a blue orange"}
+{"prompt_id": "T2IX-color-train-0336", "prompt": "a brown book and a red giraffe"}
+{"prompt_id": "T2IX-color-train-0337", "prompt": "a green shirt and a purple hat"}
+{"prompt_id": "T2IX-color-train-0340", "prompt": "a white pen and a black notebook"}
+{"prompt_id": "T2IX-color-train-0341", "prompt": "a pink flower and a yellow butterfly"}
+{"prompt_id": "T2IX-color-train-0344", "prompt": "a beige chair and a brown table"}
+{"prompt_id": "T2IX-color-train-0350", "prompt": "a gray cloud and a white sky"}
+{"prompt_id": "T2IX-color-train-0351", "prompt": "a purple grape and a green apple"}
+{"prompt_id": "T2IX-color-train-0358", "prompt": "a blue balloon and a pink ribbon"}
+{"prompt_id": "T2IX-color-train-0383", "prompt": "a green plant and a white teapot"}
+{"prompt_id": "T2IX-color-train-0386", "prompt": "a black chair and a brown table"}
+{"prompt_id": "T2IX-color-train-0390", "prompt": "a pink pillow and a purple blanket"}
+{"prompt_id": "T2IX-color-train-0393", "prompt": "a black phone and a white charger"}
+{"prompt_id": "T2IX-color-train-0395", "prompt": "a blue pen and a green notebook"}
+{"prompt_id": "T2IX-color-train-0411", "prompt": "a blue backpack and a green bottle"}
+{"prompt_id": "T2IX-color-train-0414", "prompt": "a black dress and a pink purse"}
+{"prompt_id": "T2IX-color-train-0419", "prompt": "a black computer and a white keyboard"}
+{"prompt_id": "T2IX-color-train-0423", "prompt": "a red hat and a white scarf"}
+{"prompt_id": "T2IX-color-train-0424", "prompt": "a white hat and a red scarf"}
+{"prompt_id": "T2IX-color-train-0426", "prompt": "a black wallet and a brown keychain"}
+{"prompt_id": "T2IX-color-train-0429", "prompt": "a silver earring and a gold necklace"}
+{"prompt_id": "T2IX-color-train-0431", "prompt": "a white camera and a black tripod"}
+{"prompt_id": "T2IX-color-train-0434", "prompt": "a purple smoothie and a green straw"}
+{"prompt_id": "T2IX-color-train-0437", "prompt": "a blue shirt and a green tie"}
+{"prompt_id": "T2IX-color-train-0442", "prompt": "a black suitcase and a brown backpack"}
+{"prompt_id": "T2IX-color-train-0444", "prompt": "a green banana and a yellow pear"}
+{"prompt_id": "T2IX-color-train-0447", "prompt": "a white candle and a black holder"}
+{"prompt_id": "T2IX-color-train-0457", "prompt": "a black cat and a white dog"}
+{"prompt_id": "T2IX-color-train-0458", "prompt": "a white cat and a black dog"}
+{"prompt_id": "T2IX-color-train-0462", "prompt": "a blue bus and a yellow backpack"}
+{"prompt_id": "T2IX-color-train-0463", "prompt": "a red apple and a green pear"}
+{"prompt_id": "T2IX-color-train-0475", "prompt": "a blue ocean and a green seaweed"}
+{"prompt_id": "T2IX-color-train-0477", "prompt": "a yellow daffodil and a red tulip"}
+{"prompt_id": "T2IX-color-train-0478", "prompt": "a red daffodil and a yellow tulip"}
+{"prompt_id": "T2IX-color-train-0483", "prompt": "a red heart and a pink balloon"}
+{"prompt_id": "T2IX-color-train-0484", "prompt": "a pink heart and a red balloon"}
+{"prompt_id": "T2IX-color-train-0485", "prompt": "a white dove and a black crow"}
+{"prompt_id": "T2IX-color-train-0486", "prompt": "a black dove and a white crow"}
+{"prompt_id": "T2IX-color-train-0488", "prompt": "a green whale and a blue seaweed"}
+{"prompt_id": "T2IX-color-train-0489", "prompt": "a brown bear and a black nose"}
+{"prompt_id": "T2IX-color-train-0491", "prompt": "a white dove and a blue sky"}
+{"prompt_id": "T2IX-color-train-0494", "prompt": "a yellow cat and a black mouse"}
+{"prompt_id": "T2IX-color-train-0497", "prompt": "a red apple and a yellow banana"}
+{"prompt_id": "T2IX-color-train-0505", "prompt": "a yellow sunflower and a red rose"}
+{"prompt_id": "T2IX-color-train-0510", "prompt": "a brown leaf and a green tree"}
+{"prompt_id": "T2IX-color-train-0515", "prompt": "a yellow pencil and a green eraser"}
+{"prompt_id": "T2IX-color-train-0517", "prompt": "a blue shirt and a yellow tie"}
+{"prompt_id": "T2IX-color-train-0519", "prompt": "a black umbrella and a purple raincoat"}
+{"prompt_id": "T2IX-color-train-0520", "prompt": "a purple umbrella and a black raincoat"}
+{"prompt_id": "T2IX-color-train-0522", "prompt": "a yellow grasshopper and a green butterfly"}
+{"prompt_id": "T2IX-color-train-0523", "prompt": "a blue pen and a red notebook"}
+{"prompt_id": "T2IX-color-train-0528", "prompt": "a red candle and a white holder"}
+{"prompt_id": "T2IX-color-train-0531", "prompt": "a silver watch and a blue band"}
+{"prompt_id": "T2IX-color-train-0537", "prompt": "a white snowman and a black top hat"}
+{"prompt_id": "T2IX-color-train-0542", "prompt": "a purple daisy and a yellow violet"}
+{"prompt_id": "T2IX-color-train-0551", "prompt": "a brown bear and a green forest"}
+{"prompt_id": "T2IX-color-train-0555", "prompt": "a blue sky and a white airplane"}
+{"prompt_id": "T2IX-color-train-0557", "prompt": "a green grass and a yellow sun"}
+{"prompt_id": "T2IX-color-train-0558", "prompt": "a yellow grass and a green sun"}
+{"prompt_id": "T2IX-color-train-0559", "prompt": "a red rose and a white lily"}
+{"prompt_id": "T2IX-color-train-0561", "prompt": "A room with blue walls and a white sink and door."}
+{"prompt_id": "T2IX-color-train-0563", "prompt": "A black cat is inside a white toilet."}
+{"prompt_id": "T2IX-color-train-0579", "prompt": "A black and white cat sitting in a green bowl."}
+{"prompt_id": "T2IX-color-train-0581", "prompt": "a white stoves burners with a green timer and some decorations"}
+{"prompt_id": "T2IX-color-train-0585", "prompt": "A very small brown colored bathroom with a white toilet."}
+{"prompt_id": "T2IX-color-train-0587", "prompt": "An orange cat sleeping on top of a red car."}
+{"prompt_id": "T2IX-color-train-0589", "prompt": "A white and bright bathroom with silver fixtures."}
+{"prompt_id": "T2IX-color-train-0601", "prompt": "a brown and white kitchen with a silver refrigerator"}
+{"prompt_id": "T2IX-color-train-0609", "prompt": "A gray cat standing on top of a black car."}
+{"prompt_id": "T2IX-color-train-0611", "prompt": "a white airplane flies across the blue sky"}
+{"prompt_id": "T2IX-color-train-0615", "prompt": "A large silver pot sitting on a counter next to a red brick wall."}
+{"prompt_id": "T2IX-color-train-0618", "prompt": "An black cutting knife on top of a orange case."}
+{"prompt_id": "T2IX-color-train-0631", "prompt": "A bathroom with a white toilet and an orange tub."}
+{"prompt_id": "T2IX-color-train-0633", "prompt": "A plain kitchen with beige cabinets and brown floors."}
+{"prompt_id": "T2IX-color-train-0635", "prompt": "A white toilet with a blue seat on a display platform."}
+{"prompt_id": "T2IX-color-train-0640", "prompt": "a light white bathroom with some brown towels and a toilet"}
+{"prompt_id": "T2IX-color-train-0645", "prompt": "A bright yellow wall in a bathroom adds appeal to a white tiled floor."}
+{"prompt_id": "T2IX-color-train-0650", "prompt": "A red bathroom has a white towel on the bar."}
+{"prompt_id": "T2IX-color-train-0673", "prompt": "A white kitchen counter with a big, brown bowl on it."}
+{"prompt_id": "T2IX-color-train-0675", "prompt": "An orange Volkswagen bus with a white roof."}
+{"prompt_id": "T2IX-color-train-0678", "prompt": "A man has orange tennis shoes with yellow laces."}
+{"prompt_id": "T2IX-color-train-0679", "prompt": "A wood framed mirror hangs over a white, square sink unit with silver fittings."}
+{"prompt_id": "T2IX-color-train-0683", "prompt": "two women sitting on benches one with a black shirt the other blue"}
+{"prompt_id": "T2IX-color-train-0687", "prompt": "A woman wearing a white shirt and black vest looks into a mirror while holding a camera."}
+{"prompt_id": "T2IX-color-train-0700", "prompt": "a white cat sitting in a black bathtube looking down"}
+{"prompt_id": "T2IX-color-val-0003", "prompt": "a green bench and a blue cake"}
+{"prompt_id": "T2IX-color-val-0009", "prompt": "a blue backpack and a red book"}
+{"prompt_id": "T2IX-color-val-0025", "prompt": "a green banana and a blue vase"}
+{"prompt_id": "T2IX-color-val-0028", "prompt": "a brown backpack and a blue bear"}
+{"prompt_id": "T2IX-color-val-0037", "prompt": "a blue backpack and a red chair"}
+{"prompt_id": "T2IX-color-val-0041", "prompt": "a brown sheep and a blue vase"}
+{"prompt_id": "T2IX-color-val-0058", "prompt": "a brown backpack and a blue sheep"}
+{"prompt_id": "T2IX-color-val-0061", "prompt": "a red book and a blue cake"}
+{"prompt_id": "T2IX-color-val-0062", "prompt": "a blue book and a red cake"}
+{"prompt_id": "T2IX-color-val-0074", "prompt": "a green bench and a red orange"}
+{"prompt_id": "T2IX-color-val-0085", "prompt": "a brown bowl and a blue horse"}
+{"prompt_id": "T2IX-color-val-0086", "prompt": "a blue backpack and a red train"}
+{"prompt_id": "T2IX-color-val-0105", "prompt": "a blue cow and a brown cup"}
+{"prompt_id": "T2IX-color-val-0132", "prompt": "a green apple and a black backpack"}
+{"prompt_id": "T2IX-color-val-0136", "prompt": "a brown bird and a blue bear"}
+{"prompt_id": "T2IX-color-val-0138", "prompt": "a blue cup and a green cell phone"}
+{"prompt_id": "T2IX-color-val-0140", "prompt": "a red apple and yellow bananas"}
+{"prompt_id": "T2IX-color-val-0152", "prompt": "a green acorn and a brown leaf"}
+{"prompt_id": "T2IX-color-val-0154", "prompt": "a stop sign and red white line"}
+{"prompt_id": "T2IX-color-val-0155", "prompt": "a black cat and a brown mouse"}
+{"prompt_id": "T2IX-color-val-0158", "prompt": "a yellow pen and a blue highlighter"}
+{"prompt_id": "T2IX-color-val-0168", "prompt": "a yellow sun and a red sunset"}
+{"prompt_id": "T2IX-color-val-0176", "prompt": "a red apple and a yellow pear"}
+{"prompt_id": "T2IX-color-val-0178", "prompt": "a white snow and a blue sled"}
+{"prompt_id": "T2IX-color-val-0184", "prompt": "a black cat and a white whisker"}
+{"prompt_id": "T2IX-color-val-0190", "prompt": "a white cloud and a black sky"}
+{"prompt_id": "T2IX-color-val-0201", "prompt": "a red bear and a brown train"}
+{"prompt_id": "T2IX-color-val-0203", "prompt": "a blue cylinder and a red cube"}
+{"prompt_id": "T2IX-color-val-0211", "prompt": "a white moon and a black sky"}
+{"prompt_id": "T2IX-color-val-0212", "prompt": "a blue pencil and a yellow notebook"}
+{"prompt_id": "T2IX-color-val-0225", "prompt": "a blue envelope and a white stamp"}
+{"prompt_id": "T2IX-color-val-0251", "prompt": "Two toilet stall, one blue and the other orange."}
+{"prompt_id": "T2IX-color-val-0262", "prompt": "A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows."}
+{"prompt_id": "T2IX-color-val-0266", "prompt": "A bathroom with red tile and a green shower curtain."}
+{"prompt_id": "T2IX-color-val-0272", "prompt": "A black and white cat sits in a black sink."}
+{"prompt_id": "T2IX-color-val-0273", "prompt": "A woman in a white shirt and jeans holds a pink umbrella in the rain."}
+{"prompt_id": "T2IX-color-val-0293", "prompt": "A black motorcycle is parked on grey cobblestones."}
+{"prompt_id": "T2I-shape-002", "prompt": "a pentagonal stop sign and a spherical traffic light"}
+{"prompt_id": "T2I-shape-005", "prompt": "a cubic block and a cylindrical bottle"}
+{"prompt_id": "T2I-shape-012", "prompt": "a pentagonal postbox and a pyramidal obelisk"}
+{"prompt_id": "T2I-shape-018", "prompt": "a big bear and a small squirrel"}
+{"prompt_id": "T2I-shape-020", "prompt": "an oval mirror and a rectangular painting"}
+{"prompt_id": "T2I-shape-024", "prompt": "a teardrop pendant and a triangular chain necklace"}
+{"prompt_id": "T2I-shape-026", "prompt": "a spherical balloon and a conical party hat"}
+{"prompt_id": "T2I-shape-027", "prompt": "a pyramidal trophy and a spherical trophy ball"}
+{"prompt_id": "T2I-shape-029", "prompt": "a tall skyscraper and a short street lamp"}
+{"prompt_id": "T2I-shape-031", "prompt": "an oval coffee table and a rectangular rug"}
+{"prompt_id": "T2I-shape-033", "prompt": "a diamond engagement ring and a round pendant"}
+{"prompt_id": "T2I-shape-034", "prompt": "an oval bathtub and a square shower curtain"}
+{"prompt_id": "T2I-shape-036", "prompt": "an oblong pear and a teardrop melon"}
+{"prompt_id": "T2I-shape-038", "prompt": "a round bag and a square box"}
+{"prompt_id": "T2I-shape-042", "prompt": "a square book and a cylindrical pencil"}
+{"prompt_id": "T2I-shape-043", "prompt": "a cubic block and a cylindrical container of hand cream"}
+{"prompt_id": "T2I-shape-044", "prompt": "a cubic block and a triangular building set"}
+{"prompt_id": "T2I-shape-053", "prompt": "a conical Christmas tree and a pentagonal tree skirt"}
+{"prompt_id": "T2I-shape-056", "prompt": "a big lion and a small mouse"}
+{"prompt_id": "T2I-shape-059", "prompt": "a circular rug and a triangular coffee table"}
+{"prompt_id": "T2I-shape-061", "prompt": "a cubic box and a pyramidal paperweight"}
+{"prompt_id": "T2I-shape-062", "prompt": "an oblong zucchini and a teardrop plum"}
+{"prompt_id": "T2I-shape-063", "prompt": "a cubic block and a cylindrical flashlight."}
+{"prompt_id": "T2I-shape-066", "prompt": "a round basketball and a cylindrical water bottle"}
+{"prompt_id": "T2I-shape-067", "prompt": "a rectangular mirror and a spherical magnifying glass"}
+{"prompt_id": "T2I-shape-071", "prompt": "a pentagonal medal and a pyramidal trophy"}
+{"prompt_id": "T2I-shape-072", "prompt": "a round bagel and a rectangular sandwich press"}
+{"prompt_id": "T2I-shape-073", "prompt": "a small block and a cylindrical soda can"}
+{"prompt_id": "T2I-shape-074", "prompt": "a cubic block and a cylindrical paper towel roll"}
+{"prompt_id": "T2I-shape-075", "prompt": "a pyramidal candle and a diamond candlestick holder"}
+{"prompt_id": "T2I-shape-076", "prompt": "a tall skyscraper and a short cottage"}
+{"prompt_id": "T2I-shape-078", "prompt": "a pentagonal pencil sharpener and a cylindrical eraser"}
+{"prompt_id": "T2I-shape-080", "prompt": "a pyramidal candle holder and a conical candle"}
+{"prompt_id": "T2I-shape-081", "prompt": "an oblong sweet potato and a teardrop blueberry"}
+{"prompt_id": "T2I-shape-082", "prompt": "a big gorilla and a small mouse"}
+{"prompt_id": "T2I-shape-085", "prompt": "a spherical soccer ball and a diamond soccer goal"}
+{"prompt_id": "T2I-shape-087", "prompt": "an oval picture frame and a rectangular painting"}
+{"prompt_id": "T2I-shape-088", "prompt": "a pentagonal pencil and a teardrop pencil sharpener"}
+{"prompt_id": "T2I-shape-090", "prompt": "a cubic box and a cylindrical bottle of lotion"}
+{"prompt_id": "T2I-shape-091", "prompt": "a big tiger and a small kitten"}
+{"prompt_id": "T2I-shape-093", "prompt": "a small rug and a triangular end table"}
+{"prompt_id": "T2I-shape-098", "prompt": "a pentagonal clock and a conical clock face"}
+{"prompt_id": "T2I-shape-101", "prompt": "a big whale and a small dolphin"}
+{"prompt_id": "T2I-shape-105", "prompt": "a pyramidal tomb and a spherical urn"}
+{"prompt_id": "T2I-shape-110", "prompt": "a long bridge and a short fence"}
+{"prompt_id": "T2I-shape-114", "prompt": "a spherical snowball and a conical party hat"}
+{"prompt_id": "T2I-shape-115", "prompt": "a big bear and a small rabbit"}
+{"prompt_id": "T2I-shape-116", "prompt": "a pentagonal star and a crescent moon"}
+{"prompt_id": "T2I-shape-121", "prompt": "a big elephant and a small dog"}
+{"prompt_id": "T2I-shape-122", "prompt": "a cubic box and a conical party hat"}
+{"prompt_id": "T2I-shape-126", "prompt": "a spherical snow globe and an oblong frame"}
+{"prompt_id": "T2I-shape-128", "prompt": "a circular dining table and a triangular table runner"}
+{"prompt_id": "T2I-shape-129", "prompt": "a circular mirror and a triangular shelf unit"}
+{"prompt_id": "T2I-shape-133", "prompt": "a cubic block and a pyramidal puzzle box"}
+{"prompt_id": "T2I-shape-134", "prompt": "a conical lampshade and a cubic lamp base"}
+{"prompt_id": "T2I-shape-135", "prompt": "a round pizza and a square pizza box"}
+{"prompt_id": "T2I-shape-137", "prompt": "an oblong squash and a teardrop nectarine."}
+{"prompt_id": "T2I-shape-138", "prompt": "a cubic dice and a triangular game piece"}
+{"prompt_id": "T2I-shape-139", "prompt": "a circular pendant light and a triangular wall hook"}
+{"prompt_id": "T2I-shape-145", "prompt": "a cubic block and a cylindrical bottle of water"}
+{"prompt_id": "T2I-shape-148", "prompt": "a big hippopotamus and a small cat"}
+{"prompt_id": "T2I-shape-151", "prompt": "a round bagel and a square toaster."}
+{"prompt_id": "T2I-shape-153", "prompt": "a pyramidal puzzle box and a cubic puzzle piece"}
+{"prompt_id": "T2I-shape-154", "prompt": "an oblong squash and a teardrop apricot"}
+{"prompt_id": "T2I-shape-156", "prompt": "an oblong cucumber and a teardrop kiwi"}
+{"prompt_id": "T2I-shape-162", "prompt": "a tall skyscraper and a short bush."}
+{"prompt_id": "T2I-shape-163", "prompt": "a small stop sign and a pyramidal paperweight"}
+{"prompt_id": "T2I-shape-166", "prompt": "a round bagel and a rectangular toaster"}
+{"prompt_id": "T2I-shape-168", "prompt": "a tall palm tree and a short shrub"}
+{"prompt_id": "T2I-shape-169", "prompt": "a big pig and a small mouse"}
+{"prompt_id": "T2I-shape-171", "prompt": "a pentagonal stop sign and a pyramidal monument"}
+{"prompt_id": "T2I-shape-173", "prompt": "a spherical globe and a conical pencil sharpener"}
+{"prompt_id": "T2I-shape-179", "prompt": "a cubic dice and a cylindrical pencil holder"}
+{"prompt_id": "T2I-shape-180", "prompt": "a pentagonal street sign and a pyramidal pyramid"}
+{"prompt_id": "T2I-shape-184", "prompt": "a spherical golf ball and a conical tee."}
+{"prompt_id": "T2I-shape-185", "prompt": "a tall oak tree and a short blade of grass"}
+{"prompt_id": "T2I-shape-192", "prompt": "an oblong eggplant and a teardrop fig."}
+{"prompt_id": "T2I-shape-193", "prompt": "a pentagonal stop sign and a pyramidal sculpture"}
+{"prompt_id": "T2I-shape-195", "prompt": "a round watermelon and a square cutting board."}
+{"prompt_id": "T2I-shape-197", "prompt": "a big whale and a small shrimp"}
+{"prompt_id": "T2I-shape-201", "prompt": "a triangular slice of bread and a rectangular bread basket"}
+{"prompt_id": "T2I-shape-206", "prompt": "a spherical crystal and a pyramidal crystal holder"}
+{"prompt_id": "T2I-shape-207", "prompt": "a cubic box of chocolates and a teardrop chocolate truffle"}
+{"prompt_id": "T2I-shape-209", "prompt": "a big mountain and a small tree"}
+{"prompt_id": "T2I-shape-211", "prompt": "a pentagonal chocolate box and a spherical chocolate truffle"}
+{"prompt_id": "T2I-shape-215", "prompt": "a short book and a long bookmark"}
+{"prompt_id": "T2I-shape-216", "prompt": "a small keychain and a big set of keys"}
+{"prompt_id": "T2I-shape-218", "prompt": "a cubic Rubik's cube and a pentagonal game box"}
+{"prompt_id": "T2I-shape-220", "prompt": "a cubic Rubik's cube and a cylindrical pencil holder"}
+{"prompt_id": "T2I-shape-221", "prompt": "a pentagonal handbag and a spherical keychain charm"}
+{"prompt_id": "T2I-shape-222", "prompt": "a big truck and a small car"}
+{"prompt_id": "T2I-shape-224", "prompt": "an oval coffee table and a square ottoman"}
+{"prompt_id": "T2I-shape-225", "prompt": "a rectangular phone and a teardrop phone charm"}
+{"prompt_id": "T2I-shape-228", "prompt": "a cubic sugar cube and a cylindrical salt shaker"}
+{"prompt_id": "T2I-shape-231", "prompt": "a big balloon and a small marble"}
+{"prompt_id": "T2I-shape-234", "prompt": "a triangular slice of bread and a cylindrical loaf"}
+{"prompt_id": "T2I-shape-236", "prompt": "an oval pizza and a round pizza cutter."}
+{"prompt_id": "T2I-shape-238", "prompt": "an big bathtub and a square showerhead"}
+{"prompt_id": "T2I-shape-240", "prompt": "a round cinnamon roll and a round toaster pastry"}
+{"prompt_id": "T2I-shape-250", "prompt": "The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park."}
+{"prompt_id": "T2I-shape-252", "prompt": "The cylindrical tower and the spherical dome stood tall against the skyline."}
+{"prompt_id": "T2I-shape-254", "prompt": "The round knob and the square plate were attached to the door."}
+{"prompt_id": "T2I-shape-258", "prompt": "The oval mirror and the rectangular frame were mounted on the wall."}
+{"prompt_id": "T2I-shape-260", "prompt": "The triangular sail and the square deck were the defining features of the sailboat."}
+{"prompt_id": "T2I-shape-262", "prompt": "The oblong rug and the circular ottoman were arranged in the center of the living room."}
+{"prompt_id": "T2I-shape-266", "prompt": "The cubic dice and the cylindrical pencil were the tools of his favorite game."}
+{"prompt_id": "T2I-shape-267", "prompt": "The teardrop leaves and the oval petals made up the floral arrangement on the table."}
+{"prompt_id": "T2I-shape-283", "prompt": "The oblong painting and the circular sculpture were the centerpieces of the art exhibit."}
+{"prompt_id": "T2I-shape-286", "prompt": "The triangular flag and the rectangular banner were waving in the wind on the parade."}
+{"prompt_id": "T2I-shape-291", "prompt": "A small kitten and a big dog sat side by side."}
+{"prompt_id": "T2I-shape-293", "prompt": "The tall tree and the short shrub created a contrast in the garden."}
+{"prompt_id": "T2I-shape-295", "prompt": "The long dress and the short skirt were both fashionable choices."}
+{"prompt_id": "T2I-shape-297", "prompt": "The big elephant and the small mouse made an unlikely pair."}
+{"prompt_id": "T2I-shape-300", "prompt": "The big house and the small cabin provided different types of accommodations."}
+{"prompt_id": "T2IX-shape-train-0005", "prompt": "a diamond brooch and a round pendant"}
+{"prompt_id": "T2IX-shape-train-0009", "prompt": "a spherical planet and a conical rocket ship"}
+{"prompt_id": "T2IX-shape-train-0018", "prompt": "a diamond ring and a round watch"}
+{"prompt_id": "T2IX-shape-train-0020", "prompt": "a circular ceiling fan and a triangular air vent"}
+{"prompt_id": "T2IX-shape-train-0021", "prompt": "a small vase and a tall flower"}
+{"prompt_id": "T2IX-shape-train-0025", "prompt": "a round pizza and a square box"}
+{"prompt_id": "T2IX-shape-train-0027", "prompt": "an oblong zucchini and a teardrop mango"}
+{"prompt_id": "T2IX-shape-train-0033", "prompt": "a diamond gemstone and a round jewelry box"}
+{"prompt_id": "T2IX-shape-train-0035", "prompt": "a circular clock and a triangular book stand"}
+{"prompt_id": "T2IX-shape-train-0038", "prompt": "a cubic ice cube and a cylindrical straw"}
+{"prompt_id": "T2IX-shape-train-0040", "prompt": "a round bagel and a rectangular knife block"}
+{"prompt_id": "T2IX-shape-train-0041", "prompt": "a big elephant and a small bird"}
+{"prompt_id": "T2IX-shape-train-0043", "prompt": "a spherical marble and a conical birthday hat"}
+{"prompt_id": "T2IX-shape-train-0044", "prompt": "a diamond necklace and a round brooch"}
+{"prompt_id": "T2IX-shape-train-0045", "prompt": "an oblong carrot and a teardrop watermelon"}
+{"prompt_id": "T2IX-shape-train-0052", "prompt": "a spherical globe and a diamond map"}
+{"prompt_id": "T2IX-shape-train-0056", "prompt": "a circular mirror and an oval picture frame"}
+{"prompt_id": "T2IX-shape-train-0063", "prompt": "a pentagonal gift box and a conical bow"}
+{"prompt_id": "T2IX-shape-train-0067", "prompt": "a circular rug and a triangular throw pillow"}
+{"prompt_id": "T2IX-shape-train-0068", "prompt": "a pyramidal tea bag and a diamond tea bag holder"}
+{"prompt_id": "T2IX-shape-train-0069", "prompt": "a triangular slice of cake and a cylindrical candle"}
+{"prompt_id": "T2IX-shape-train-0070", "prompt": "a big elephant and a small mouse"}
+{"prompt_id": "T2IX-shape-train-0072", "prompt": "a spherical planet and a teardrop satellite"}
+{"prompt_id": "T2IX-shape-train-0077", "prompt": "an oval mirror and a square photo album"}
+{"prompt_id": "T2IX-shape-train-0082", "prompt": "an oblong eggplant and a teardrop pear"}
+{"prompt_id": "T2IX-shape-train-0083", "prompt": "a rectangular pencil case and a pentagonal pencil sharpener"}
+{"prompt_id": "T2IX-shape-train-0084", "prompt": "an oval sink and a rectangular countertop"}
+{"prompt_id": "T2IX-shape-train-0097", "prompt": "a rectangular rug and a diamond coffee table"}
+{"prompt_id": "T2IX-shape-train-0098", "prompt": "a big kangaroo and a small mouse"}
+{"prompt_id": "T2IX-shape-train-0100", "prompt": "an oblong sweet potato and a teardrop nectarine"}
+{"prompt_id": "T2IX-shape-train-0102", "prompt": "an oval bathtub and a square bath mat"}
+{"prompt_id": "T2IX-shape-train-0110", "prompt": "a round plate and a rectangular napkin"}
+{"prompt_id": "T2IX-shape-train-0111", "prompt": "a tall lamp and a small table"}
+{"prompt_id": "T2IX-shape-train-0115", "prompt": "an oval mirror and a square painting"}
+{"prompt_id": "T2IX-shape-train-0118", "prompt": "a spherical tennis ball and a conical racket"}
+{"prompt_id": "T2IX-shape-train-0125", "prompt": "a triangular slice of lemon and a cylindrical lemon juicer"}
+{"prompt_id": "T2IX-shape-train-0126", "prompt": "a pentagonal prism and a pyramidal pyramid"}
+{"prompt_id": "T2IX-shape-train-0131", "prompt": "an oblong zucchini and a teardrop lemon"}
+{"prompt_id": "T2IX-shape-train-0133", "prompt": "a rectangular envelope and a oval stamp"}
+{"prompt_id": "T2IX-shape-train-0138", "prompt": "a pentagonal clock tower and a pyramidal obelisk"}
+{"prompt_id": "T2IX-shape-train-0144", "prompt": "a diamond bracelet and a round earring"}
+{"prompt_id": "T2IX-shape-train-0145", "prompt": "an oval mirror and a rectangular makeup palette"}
+{"prompt_id": "T2IX-shape-train-0146", "prompt": "a cylindrical bottle and a rectangular bottle label"}
+{"prompt_id": "T2IX-shape-train-0148", "prompt": "a pyramidal trophy and a cylindrical trophy case"}
+{"prompt_id": "T2IX-shape-train-0149", "prompt": "a pentagonal warning sign and a pyramidal bookend"}
+{"prompt_id": "T2IX-shape-train-0161", "prompt": "a long flagpole and a short garden stake"}
+{"prompt_id": "T2IX-shape-train-0163", "prompt": "a tall oak tree and a short potted plant"}
+{"prompt_id": "T2IX-shape-train-0165", "prompt": "a circular clock and a triangular wall shelf"}
+{"prompt_id": "T2IX-shape-train-0168", "prompt": "a circular clock and a triangular bookend"}
+{"prompt_id": "T2IX-shape-train-0171", "prompt": "a rectangular cutting board and a triangular knife block"}
+{"prompt_id": "T2IX-shape-train-0179", "prompt": "a big elephant and a small butterfly"}
+{"prompt_id": "T2IX-shape-train-0180", "prompt": "a cubic block and a pyramidal building toy"}
+{"prompt_id": "T2IX-shape-train-0183", "prompt": "a circular pendant and a triangular earring"}
+{"prompt_id": "T2IX-shape-train-0191", "prompt": "a round doughnut and a square napkin"}
+{"prompt_id": "T2IX-shape-train-0195", "prompt": "a round tomato and a square cheese"}
+{"prompt_id": "T2IX-shape-train-0200", "prompt": "a long scarf and a short tie"}
+{"prompt_id": "T2IX-shape-train-0204", "prompt": "a tall palm tree and a short bonsai tree"}
+{"prompt_id": "T2IX-shape-train-0205", "prompt": "a big dinosaur and a small lizard"}
+{"prompt_id": "T2IX-shape-train-0206", "prompt": "an oval bathtub and a rectangular shower head"}
+{"prompt_id": "T2IX-shape-train-0209", "prompt": "an oval bathtub and a square shower"}
+{"prompt_id": "T2IX-shape-train-0211", "prompt": "an oval bathtub and a rectangular bath mat"}
+{"prompt_id": "T2IX-shape-train-0212", "prompt": "a diamond cufflink and a pyramidal tie tack"}
+{"prompt_id": "T2IX-shape-train-0213", "prompt": "a tall basketball player and a short gymnast"}
+{"prompt_id": "T2IX-shape-train-0217", "prompt": "an oblong watermelon and a teardrop pear"}
+{"prompt_id": "T2IX-shape-train-0221", "prompt": "a round bagel and a rectangular cracker"}
+{"prompt_id": "T2IX-shape-train-0223", "prompt": "a pyramidal pyramid and a conical sphinx"}
+{"prompt_id": "T2IX-shape-train-0229", "prompt": "a round doughnut and a square piece of fudge"}
+{"prompt_id": "T2IX-shape-train-0230", "prompt": "a tall redwood tree and a short weed"}
+{"prompt_id": "T2IX-shape-train-0233", "prompt": "a big rhinoceros and a small hedgehog"}
+{"prompt_id": "T2IX-shape-train-0243", "prompt": "a big elephant and a small cat"}
+{"prompt_id": "T2IX-shape-train-0247", "prompt": "a round cookie and a long pretzel"}
+{"prompt_id": "T2IX-shape-train-0250", "prompt": "a pentagonal flag and a pyramidal monument"}
+{"prompt_id": "T2IX-shape-train-0252", "prompt": "a circular wall clock and a triangular picture frame"}
+{"prompt_id": "T2IX-shape-train-0253", "prompt": "an oval mirror and a rectangular picture frame"}
+{"prompt_id": "T2IX-shape-train-0254", "prompt": "a pentagonal badge and a pyramidal chess piece"}
+{"prompt_id": "T2IX-shape-train-0255", "prompt": "a diamond ring and a round brooch"}
+{"prompt_id": "T2IX-shape-train-0263", "prompt": "a cubic block and a pyramidal building set"}
+{"prompt_id": "T2IX-shape-train-0264", "prompt": "a cubic dice and a spherical game board"}
+{"prompt_id": "T2IX-shape-train-0266", "prompt": "a rectangular picture frame and a teardrop photo mat"}
+{"prompt_id": "T2IX-shape-train-0269", "prompt": "a rectangular desk and a spherical paperweight"}
+{"prompt_id": "T2IX-shape-train-0271", "prompt": "a conical tree and a triangular tree topper"}
+{"prompt_id": "T2IX-shape-train-0282", "prompt": "a diamond bracelet and a round ring"}
+{"prompt_id": "T2IX-shape-train-0285", "prompt": "a pyramidal pyramid and a pentagonal base"}
+{"prompt_id": "T2IX-shape-train-0291", "prompt": "a circular lamp and a triangular lampshade"}
+{"prompt_id": "T2IX-shape-train-0292", "prompt": "a big bear and a small mouse"}
+{"prompt_id": "T2IX-shape-train-0293", "prompt": "a diamond cufflink and a teardrop tie clip"}
+{"prompt_id": "T2IX-shape-train-0295", "prompt": "a big elephant and a small beetle"}
+{"prompt_id": "T2IX-shape-train-0300", "prompt": "a conical hat and a diamond pair of sunglasses"}
+{"prompt_id": "T2IX-shape-train-0302", "prompt": "a triangular slice of watermelon and a spherical melon baller"}
+{"prompt_id": "T2IX-shape-train-0303", "prompt": "a spherical basketball and a conical traffic cone"}
+{"prompt_id": "T2IX-shape-train-0309", "prompt": "an oblong sweet potato and a teardrop apricot"}
+{"prompt_id": "T2IX-shape-train-0318", "prompt": "a teardrop earring and a pyramidal necklace pendant"}
+{"prompt_id": "T2IX-shape-train-0327", "prompt": "a diamond engagement ring and a round brooch"}
+{"prompt_id": "T2IX-shape-train-0328", "prompt": "a pentagonal road sign and a pyramidal paper clip holder"}
+{"prompt_id": "T2IX-shape-train-0335", "prompt": "a cubic dice and a cylindrical lipstick"}
+{"prompt_id": "T2IX-shape-train-0337", "prompt": "an oval bathtub and a square shower stall"}
+{"prompt_id": "T2IX-shape-train-0338", "prompt": "a cubic block and a cylindrical jar of peanut butter"}
+{"prompt_id": "T2IX-shape-train-0341", "prompt": "a rectangular rug and a spherical bean bag chair"}
+{"prompt_id": "T2IX-shape-train-0344", "prompt": "a round bag and a rectangular makeup case"}
+{"prompt_id": "T2IX-shape-train-0357", "prompt": "a conical lampshade and a pentagonal lamp base"}
+{"prompt_id": "T2IX-shape-train-0360", "prompt": "a spherical globe and a conical hat"}
+{"prompt_id": "T2IX-shape-train-0363", "prompt": "a round pancake and a rectangular piece of toast"}
+{"prompt_id": "T2IX-shape-train-0366", "prompt": "a small pencil and a big eraser"}
+{"prompt_id": "T2IX-shape-train-0372", "prompt": "a diamond brooch and a round necklace"}
+{"prompt_id": "T2IX-shape-train-0376", "prompt": "a conical traffic cone and a pentagonal road sign"}
+{"prompt_id": "T2IX-shape-train-0377", "prompt": "a round cupcake and a rectangular cookie"}
+{"prompt_id": "T2IX-shape-train-0378", "prompt": "an oval mirror and a rectangular dresser"}
+{"prompt_id": "T2IX-shape-train-0379", "prompt": "a pentagonal warning sign and a pyramidal paperweight"}
+{"prompt_id": "T2IX-shape-train-0380", "prompt": "an oblong sweet potato and a teardrop pear"}
+{"prompt_id": "T2IX-shape-train-0386", "prompt": "a rectangular shelf and a pyramidal bookend"}
+{"prompt_id": "T2IX-shape-train-0389", "prompt": "a short pencil sharpener and a long pencil"}
+{"prompt_id": "T2IX-shape-train-0400", "prompt": "a diamond earring and a round pendant"}
+{"prompt_id": "T2IX-shape-train-0404", "prompt": "a tall redwood tree and a short flower pot"}
+{"prompt_id": "T2IX-shape-train-0407", "prompt": "a tall skyscraper and a short bungalow"}
+{"prompt_id": "T2IX-shape-train-0410", "prompt": "a pentagonal badge and a pyramidal award"}
+{"prompt_id": "T2IX-shape-train-0415", "prompt": "a big elephant and a small ladybug"}
+{"prompt_id": "T2IX-shape-train-0418", "prompt": "a conical party hat and a diamond party favor"}
+{"prompt_id": "T2IX-shape-train-0420", "prompt": "a rectangular book and a spherical book weight"}
+{"prompt_id": "T2IX-shape-train-0423", "prompt": "a circular rug and a triangular end table"}
+{"prompt_id": "T2IX-shape-train-0425", "prompt": "an oblong carrot and a teardrop avocado"}
+{"prompt_id": "T2IX-shape-train-0431", "prompt": "a short fence and a tall sunflower"}
+{"prompt_id": "T2IX-shape-train-0433", "prompt": "a tall pine tree and a short shrub"}
+{"prompt_id": "T2IX-shape-train-0436", "prompt": "a cylindrical mug and a rectangular coaster"}
+{"prompt_id": "T2IX-shape-train-0437", "prompt": "a tall lighthouse and a short windmill"}
+{"prompt_id": "T2IX-shape-train-0438", "prompt": "a diamond cufflink and a rectangular tie"}
+{"prompt_id": "T2IX-shape-train-0443", "prompt": "a spherical soccer ball and a conical goal post"}
+{"prompt_id": "T2IX-shape-train-0444", "prompt": "a conical hat and a rectangular suitcase"}
+{"prompt_id": "T2IX-shape-train-0445", "prompt": "a diamond earring and a round necklace"}
+{"prompt_id": "T2IX-shape-train-0446", "prompt": "a round donut and a rectangular toaster pastry"}
+{"prompt_id": "T2IX-shape-train-0448", "prompt": "a pentagonal sign and a crescent moon"}
+{"prompt_id": "T2IX-shape-train-0450", "prompt": "a diamond pendant and a round earring"}
+{"prompt_id": "T2IX-shape-train-0452", "prompt": "a pyramidal paperweight and a teardrop pen holder"}
+{"prompt_id": "T2IX-shape-train-0454", "prompt": "a pentagonal flag and a pyramidal pyramid"}
+{"prompt_id": "T2IX-shape-train-0462", "prompt": "a diamond bracelet and a round watch face"}
+{"prompt_id": "T2IX-shape-train-0468", "prompt": "a rectangular soap bar and a spherical soap dispenser"}
+{"prompt_id": "T2IX-shape-train-0469", "prompt": "a cubic die and a diamond game board"}
+{"prompt_id": "T2IX-shape-train-0479", "prompt": "a spherical snow globe and a conical Christmas tree"}
+{"prompt_id": "T2IX-shape-train-0480", "prompt": "a circular plate and a triangular placemat"}
+{"prompt_id": "T2IX-shape-train-0482", "prompt": "a pentagonal pencil and a cylindrical pencil sharpener"}
+{"prompt_id": "T2IX-shape-train-0483", "prompt": "a cubic block and a cylindrical flashlight"}
+{"prompt_id": "T2IX-shape-train-0485", "prompt": "a diamond watch and a round cufflink"}
+{"prompt_id": "T2IX-shape-train-0486", "prompt": "a tall tree and a short shrub"}
+{"prompt_id": "T2IX-shape-train-0496", "prompt": "a round ring and a pyramidal paperweight"}
+{"prompt_id": "T2IX-shape-train-0499", "prompt": "a circular rug and a triangular cushion"}
+{"prompt_id": "T2IX-shape-train-0503", "prompt": "a tall redwood tree and a short grass"}
+{"prompt_id": "T2IX-shape-train-0506", "prompt": "a short chair and a long tablecloth"}
+{"prompt_id": "T2IX-shape-train-0513", "prompt": "a conical ice cream cone and a diamond sprinkles container"}
+{"prompt_id": "T2IX-shape-train-0514", "prompt": "a pentagonal puzzle piece and a cubic puzzle box"}
+{"prompt_id": "T2IX-shape-train-0516", "prompt": "a cylindrical pepper grinder and a conical salt shaker"}
+{"prompt_id": "T2IX-shape-train-0518", "prompt": "a conical party hat and a spherical confetti ball"}
+{"prompt_id": "T2IX-shape-train-0524", "prompt": "a tall redwood tree and a short shrub"}
+{"prompt_id": "T2IX-shape-train-0525", "prompt": "a big elephant and a small squirrel"}
+{"prompt_id": "T2IX-shape-train-0528", "prompt": "a spherical basketball and a pyramidal basketball hoop"}
+{"prompt_id": "T2IX-shape-train-0535", "prompt": "a pentagonal stop sign and a pyramidal bookend"}
+{"prompt_id": "T2IX-shape-train-0536", "prompt": "a tall redwood tree and a short blade of grass"}
+{"prompt_id": "T2IX-shape-train-0539", "prompt": "a spherical basketball and a conical party hat"}
+{"prompt_id": "T2IX-shape-train-0540", "prompt": "an oblong cucumber and a teardrop papaya"}
+{"prompt_id": "T2IX-shape-train-0541", "prompt": "an oval plate and a rectangular placemat"}
+{"prompt_id": "T2IX-shape-train-0542", "prompt": "a pyramidal paperweight and a teardrop pen"}
+{"prompt_id": "T2IX-shape-train-0545", "prompt": "a spherical snowball and a conical hat"}
+{"prompt_id": "T2IX-shape-train-0550", "prompt": "a pyramidal paperweight and a rectangular desk organizer"}
+{"prompt_id": "T2IX-shape-train-0552", "prompt": "a round lemon and a square cheese block"}
+{"prompt_id": "T2IX-shape-train-0565", "prompt": "The oval bathtub with its spherical soap dispenser and teardrop bath sponge made for a relaxing bath experience in the rectangular bathroom."}
+{"prompt_id": "T2IX-shape-train-0569", "prompt": "The conical mug with its spherical tea infuser and diamond sugar bowl made for a cozy tea time on the rectangular kitchen table."}
+{"prompt_id": "T2IX-shape-train-0570", "prompt": "The pyramidal planter with its cubic soil and triangular plant looked beautiful on the pentagonal balcony."}
+{"prompt_id": "T2IX-shape-train-0572", "prompt": "The teardrop perfume bottle with its diamond cap and cylindrical body looked elegant on the oval vanity table."}
+{"prompt_id": "T2IX-shape-train-0606", "prompt": "The oblong ottoman with its triangular legs and crescent top provided a comfortable seating option in the spherical den."}
+{"prompt_id": "T2IX-shape-train-0609", "prompt": "The triangular wall shelf with its conical brackets and spherical decorations held decorative items in the oblong hallway."}
+{"prompt_id": "T2IX-shape-train-0640", "prompt": "The pentagonal rug with its oblong tassels and circular pattern tied together the decor of the spherical bedroom."}
+{"prompt_id": "T2IX-shape-val-0007", "prompt": "a diamond pendant and a round locket"}
+{"prompt_id": "T2IX-shape-val-0011", "prompt": "a diamond brooch and a teardrop bracelet"}
+{"prompt_id": "T2IX-shape-val-0013", "prompt": "a conical wizard hat and a spherical crystal wand"}
+{"prompt_id": "T2IX-shape-val-0015", "prompt": "a cylindrical candle and a pentagonal candle holder"}
+{"prompt_id": "T2IX-shape-val-0028", "prompt": "an oblong squash and a teardrop plum"}
+{"prompt_id": "T2IX-shape-val-0030", "prompt": "a spherical baseball and a conical baseball cap"}
+{"prompt_id": "T2IX-shape-val-0064", "prompt": "a pentagonal yield sign and a pyramidal book stand."}
+{"prompt_id": "T2IX-shape-val-0070", "prompt": "a diamond bracelet and a rectangular watch"}
+{"prompt_id": "T2IX-shape-val-0077", "prompt": "a tall oak tree and a short sapling"}
+{"prompt_id": "T2IX-shape-val-0084", "prompt": "a pentagonal caution sign and a pyramidal vase"}
+{"prompt_id": "T2IX-shape-val-0099", "prompt": "an oblong watermelon and a teardrop pear."}
+{"prompt_id": "T2IX-shape-val-0108", "prompt": "a spherical snowball and a conical snowman hat"}
+{"prompt_id": "T2IX-shape-val-0112", "prompt": "a diamond tiara and a round brooch"}
+{"prompt_id": "T2IX-shape-val-0113", "prompt": "a circular pendant light and a triangular corner shelf."}
+{"prompt_id": "T2IX-shape-val-0123", "prompt": "a spherical tennis ball and a conical tennis shoe"}
+{"prompt_id": "T2IX-shape-val-0124", "prompt": "a pentagonal parking sign and a pyramidal trophy"}
+{"prompt_id": "T2IX-shape-val-0127", "prompt": "a cubic block and a cylindrical container of markers"}
+{"prompt_id": "T2IX-shape-val-0142", "prompt": "a pentagonal pencil sharpener and a spherical pencil eraser"}
+{"prompt_id": "T2IX-shape-val-0143", "prompt": "a circular mirror and a triangular corner shelf"}
+{"prompt_id": "T2IX-shape-val-0152", "prompt": "a circular clock and a triangular wall art"}
+{"prompt_id": "T2IX-shape-val-0157", "prompt": "a spherical beach ball and a conical party hat"}
+{"prompt_id": "T2IX-shape-val-0161", "prompt": "a spherical soccer ball and a conical traffic cone"}
+{"prompt_id": "T2IX-shape-val-0164", "prompt": "a cubic block and a cylindrical jar of honey"}
+{"prompt_id": "T2IX-shape-val-0176", "prompt": "a rectangular wallet and a spherical coin purse"}
+{"prompt_id": "T2IX-shape-val-0177", "prompt": "a pentagonal badge and a pyramidal monument"}
+{"prompt_id": "T2IX-shape-val-0183", "prompt": "a pentagonal badge and a pyramidal award statue"}
+{"prompt_id": "T2IX-shape-val-0187", "prompt": "an oval platter and a rectangular tablecloth."}
+{"prompt_id": "T2IX-shape-val-0189", "prompt": "a round doughnut and a square napkin."}
+{"prompt_id": "T2IX-shape-val-0191", "prompt": "a cubic dice and a cylindrical salt shaker"}
+{"prompt_id": "T2IX-shape-val-0194", "prompt": "a circular clock and a triangular shelf"}
+{"prompt_id": "T2IX-shape-val-0200", "prompt": "a cubic die and a cylindrical flashlight"}
+{"prompt_id": "T2IX-shape-val-0205", "prompt": "a round balloon and a rectangular party invitation"}
+{"prompt_id": "T2IX-shape-val-0217", "prompt": "a pyramidal gift box and a cubic gift wrap"}
+{"prompt_id": "T2IX-shape-val-0226", "prompt": "a small cup and a big saucer"}
+{"prompt_id": "T2IX-shape-val-0232", "prompt": "a diamond wine glass and a cylindrical wine bottle"}
+{"prompt_id": "T2IX-shape-val-0270", "prompt": "The circular wreath and the rectangular picture frame hung on the front door."}
+{"prompt_id": "T2IX-shape-val-0289", "prompt": "The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit."}
+{"prompt_id": "T2I-texture-001", "prompt": "a plastic toy and a glass bottle"}
+{"prompt_id": "T2I-texture-002", "prompt": "rubber sole shoes and fluffy clouds"}
+{"prompt_id": "T2I-texture-003", "prompt": "a metallic desk lamp and a fluffy sweater"}
+{"prompt_id": "T2I-texture-009", "prompt": "a fluffy rug and a leather wallet"}
+{"prompt_id": "T2I-texture-010", "prompt": "a plastic cutlery and fluffy clouds"}
+{"prompt_id": "T2I-texture-012", "prompt": "a fluffy teddy bear and a leather belt"}
+{"prompt_id": "T2I-texture-013", "prompt": "a plastic toy and a fluffy pillow"}
+{"prompt_id": "T2I-texture-014", "prompt": "a rubber band and a plastic container"}
+{"prompt_id": "T2I-texture-017", "prompt": "a metallic spoon and a wooden chair"}
+{"prompt_id": "T2I-texture-026", "prompt": "a metallic door knob and a wooden floor"}
+{"prompt_id": "T2I-texture-027", "prompt": "a rubber tire and a metallic key"}
+{"prompt_id": "T2I-texture-030", "prompt": "a plastic container and a glass jar"}
+{"prompt_id": "T2I-texture-031", "prompt": "fluffy clouds and a glass table"}
+{"prompt_id": "T2I-texture-037", "prompt": "a metallic desk lamp and a glass cup"}
+{"prompt_id": "T2I-texture-038", "prompt": "a metallic car and a fluffy sweater"}
+{"prompt_id": "T2I-texture-041", "prompt": "a wooden toy and a fabric pants"}
+{"prompt_id": "T2I-texture-043", "prompt": "a wooden door and a fluffy blanket"}
+{"prompt_id": "T2I-texture-047", "prompt": "a wooden floor and a fabric shirt"}
+{"prompt_id": "T2I-texture-049", "prompt": "a plastic bag and a fabric pants"}
+{"prompt_id": "T2I-texture-050", "prompt": "a fabric pants and a fluffy rug"}
+{"prompt_id": "T2I-texture-051", "prompt": "a metallic spoon and a glass vase"}
+{"prompt_id": "T2I-texture-059", "prompt": "a wooden table and a fabric blanket"}
+{"prompt_id": "T2I-texture-061", "prompt": "a plastic phone case and a fabric bag"}
+{"prompt_id": "T2I-texture-064", "prompt": "rubber gloves and a metallic watch"}
+{"prompt_id": "T2I-texture-066", "prompt": "a wooden toy and a fabric hat"}
+{"prompt_id": "T2I-texture-070", "prompt": "a plastic container and a fluffy rug"}
+{"prompt_id": "T2I-texture-071", "prompt": "a metallic car and a glass cup"}
+{"prompt_id": "T2I-texture-072", "prompt": "a rubber tire and a plastic bottle"}
+{"prompt_id": "T2I-texture-073", "prompt": "a leather chair and a glass cup"}
+{"prompt_id": "T2I-texture-075", "prompt": "a wooden desk and leather gloves"}
+{"prompt_id": "T2I-texture-077", "prompt": "a fabric pillow and a leather chair"}
+{"prompt_id": "T2I-texture-079", "prompt": "a metallic watch and a fluffy sweater"}
+{"prompt_id": "T2I-texture-081", "prompt": "a metallic key and a fabric curtain"}
+{"prompt_id": "T2I-texture-082", "prompt": "a plastic container and a glass window"}
+{"prompt_id": "T2I-texture-083", "prompt": "a fabric hat and a fluffy blanket"}
+{"prompt_id": "T2I-texture-091", "prompt": "a plastic container and a fluffy teddy bear"}
+{"prompt_id": "T2I-texture-092", "prompt": "a metallic door knob and a wooden desk"}
+{"prompt_id": "T2I-texture-093", "prompt": "a wooden chair and a fluffy teddy bear"}
+{"prompt_id": "T2I-texture-094", "prompt": "a metallic jewelry and a fabric dress"}
+{"prompt_id": "T2I-texture-095", "prompt": "a rubber ball and a metallic car"}
+{"prompt_id": "T2I-texture-097", "prompt": "a plastic chair and leather gloves"}
+{"prompt_id": "T2I-texture-102", "prompt": "a plastic cutlery and a wooden door"}
+{"prompt_id": "T2I-texture-108", "prompt": "a metallic key and a wooden jewelry box"}
+{"prompt_id": "T2I-texture-109", "prompt": "a metallic keychain and a fluffy teddy bear"}
+{"prompt_id": "T2I-texture-110", "prompt": "a rubber band and a wooden toy"}
+{"prompt_id": "T2I-texture-111", "prompt": "a plastic bottle and a leather jacket"}
+{"prompt_id": "T2I-texture-115", "prompt": "a rubber band and a fabric blanket"}
+{"prompt_id": "T2I-texture-116", "prompt": "a metallic door knob and a glass mirror"}
+{"prompt_id": "T2I-texture-121", "prompt": "a rubber band and a glass window"}
+{"prompt_id": "T2I-texture-123", "prompt": "a fabric pillow and a fluffy blanket"}
+{"prompt_id": "T2I-texture-127", "prompt": "a rubber band and a fabric curtain"}
+{"prompt_id": "T2I-texture-128", "prompt": "a metallic fork and leather gloves"}
+{"prompt_id": "T2I-texture-129", "prompt": "a metallic spoon and wooden chopsticks"}
+{"prompt_id": "T2I-texture-132", "prompt": "a rubber tire and a fluffy rug"}
+{"prompt_id": "T2I-texture-133", "prompt": "a metallic jewelry and a wooden spoon"}
+{"prompt_id": "T2I-texture-134", "prompt": "rubber gloves and a wooden spoon"}
+{"prompt_id": "T2I-texture-135", "prompt": "a metallic watch and a fluffy towel"}
+{"prompt_id": "T2I-texture-136", "prompt": "a plastic chair and a glass mirror"}
+{"prompt_id": "T2I-texture-145", "prompt": "a metallic desk lamp and a fluffy blanket"}
+{"prompt_id": "T2I-texture-148", "prompt": "a rubber ball and a plastic phone case"}
+{"prompt_id": "T2I-texture-149", "prompt": "a wooden jewelry box and a fabric blanket"}
+{"prompt_id": "T2I-texture-152", "prompt": "a wooden floor and a fluffy rug"}
+{"prompt_id": "T2I-texture-154", "prompt": "a rubber tire and a wooden table"}
+{"prompt_id": "T2I-texture-159", "prompt": "a fabric hat and a fluffy sweater"}
+{"prompt_id": "T2I-texture-160", "prompt": "a plastic bottle and a leather wallet"}
+{"prompt_id": "T2I-texture-162", "prompt": "a metallic spoon and a fluffy towel"}
+{"prompt_id": "T2I-texture-164", "prompt": "a metallic spoon and a glass window"}
+{"prompt_id": "T2I-texture-165", "prompt": "a rubber tire and a wooden spoon"}
+{"prompt_id": "T2I-texture-168", "prompt": "a metallic fork and a fluffy blanket"}
+{"prompt_id": "T2I-texture-171", "prompt": "a wooden floor and a glass window"}
+{"prompt_id": "T2I-texture-177", "prompt": "a rubber tire and a plastic container"}
+{"prompt_id": "T2I-texture-181", "prompt": "a plastic phone case and leather gloves"}
+{"prompt_id": "T2I-texture-182", "prompt": "a metallic key and a fabric bag"}
+{"prompt_id": "T2I-texture-183", "prompt": "a rubber tire and a fabric pillow"}
+{"prompt_id": "T2I-texture-186", "prompt": "a metallic car and a leather jacket"}
+{"prompt_id": "T2I-texture-189", "prompt": "a fabric blanket and a glass cup"}
+{"prompt_id": "T2I-texture-192", "prompt": "a fluffy pillow and a leather shoes"}
+{"prompt_id": "T2I-texture-195", "prompt": "a rubber ball and a fluffy towel"}
+{"prompt_id": "T2I-texture-198", "prompt": "a plastic container and a fluffy sweater"}
+{"prompt_id": "T2I-texture-199", "prompt": "a rubber band and a fabric towel"}
+{"prompt_id": "T2I-texture-203", "prompt": "rubber boots and a leather sofa"}
+{"prompt_id": "T2I-texture-206", "prompt": "a fabric sweater and a fluffy hat"}
+{"prompt_id": "T2I-texture-208", "prompt": "a wooden fork and a leather sofa"}
+{"prompt_id": "T2I-texture-209", "prompt": "wooden pencils and a fluffy scarf"}
+{"prompt_id": "T2I-texture-212", "prompt": "a plastic cup and a fabric sweater"}
+{"prompt_id": "T2I-texture-215", "prompt": "a metallic ring and a fluffy hat"}
+{"prompt_id": "T2I-texture-216", "prompt": "a fabric scarf and a glass bowl"}
+{"prompt_id": "T2I-texture-217", "prompt": "a fabric scarf and a leather hat"}
+{"prompt_id": "T2I-texture-225", "prompt": "a fabric sweater and a leather watch"}
+{"prompt_id": "T2I-texture-227", "prompt": "a metallic ring and a wooden knife"}
+{"prompt_id": "T2I-texture-231", "prompt": "a metallic necklace and a leather hat"}
+{"prompt_id": "T2I-texture-232", "prompt": "rubber mat and a metallic bracelet"}
+{"prompt_id": "T2I-texture-233", "prompt": "a fabric scarf and a leather sofa"}
+{"prompt_id": "T2I-texture-234", "prompt": "a metallic earring and a fabric jacket"}
+{"prompt_id": "T2I-texture-237", "prompt": "rubber boots and a leather watch"}
+{"prompt_id": "T2I-texture-239", "prompt": "a wooden fork and a leather hat"}
+{"prompt_id": "T2I-texture-240", "prompt": "wooden pencils and a glass plate"}
+{"prompt_id": "T2I-texture-241", "prompt": "The glass perfume bottle and metallic cap release the fragrance of the wooden scent on the fabric handkerchief."}
+{"prompt_id": "T2I-texture-246", "prompt": "The fluffy rug and leather ottoman rest on the wooden floor in the cozy reading nook."}
+{"prompt_id": "T2I-texture-249", "prompt": "The leather shoes and fluffy socks rest on the metallic rack by the glass door."}
+{"prompt_id": "T2I-texture-259", "prompt": "The fluffy cat and leather collar nap on the wooden windowsill next to the glass vase."}
+{"prompt_id": "T2I-texture-272", "prompt": "The fluffy towel and plastic soap dish rest on the metallic tray by the wooden bathtub."}
+{"prompt_id": "T2I-texture-279", "prompt": "The leather chair and metallic lamp provide comfort and light for the wooden desk on the fluffy rug."}
+{"prompt_id": "T2I-texture-295", "prompt": "The glass jar and fluffy ribbon hold the metallic candy on the wooden table."}
+{"prompt_id": "T2IX-texture-train-0001", "prompt": "rubber gloves and a fluffy teddy bear"}
+{"prompt_id": "T2IX-texture-train-0004", "prompt": "a plastic bottle and a metallic desk lamp"}
+{"prompt_id": "T2IX-texture-train-0009", "prompt": "a metallic spoon and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0010", "prompt": "a metallic keychain and a wooden spoon"}
+{"prompt_id": "T2IX-texture-train-0011", "prompt": "a plastic cutlery and a fabric shirt"}
+{"prompt_id": "T2IX-texture-train-0015", "prompt": "a rubber tire and a glass mirror"}
+{"prompt_id": "T2IX-texture-train-0017", "prompt": "a plastic bag and a fabric blanket"}
+{"prompt_id": "T2IX-texture-train-0019", "prompt": "a metallic watch and a wooden desk"}
+{"prompt_id": "T2IX-texture-train-0022", "prompt": "a plastic bag and a metallic desk lamp"}
+{"prompt_id": "T2IX-texture-train-0023", "prompt": "rubber gloves and a glass window"}
+{"prompt_id": "T2IX-texture-train-0024", "prompt": "a metallic watch and a fabric blanket"}
+{"prompt_id": "T2IX-texture-train-0029", "prompt": "a metallic spoon and a glass mirror"}
+{"prompt_id": "T2IX-texture-train-0044", "prompt": "a rubber ball and a plastic toy"}
+{"prompt_id": "T2IX-texture-train-0048", "prompt": "a leather belt and a glass window"}
+{"prompt_id": "T2IX-texture-train-0053", "prompt": "a wooden picture frame and leather gloves"}
+{"prompt_id": "T2IX-texture-train-0063", "prompt": "a fabric towel and a leather shoes"}
+{"prompt_id": "T2IX-texture-train-0066", "prompt": "a metallic car and a glass table"}
+{"prompt_id": "T2IX-texture-train-0070", "prompt": "a fluffy blanket and a glass table"}
+{"prompt_id": "T2IX-texture-train-0072", "prompt": "a metallic fork and a fabric pants"}
+{"prompt_id": "T2IX-texture-train-0073", "prompt": "a metallic watch and leather gloves"}
+{"prompt_id": "T2IX-texture-train-0076", "prompt": "a wooden table and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0085", "prompt": "a metallic fork and a wooden table"}
+{"prompt_id": "T2IX-texture-train-0089", "prompt": "a plastic cutlery and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0092", "prompt": "a plastic chair and a wooden table"}
+{"prompt_id": "T2IX-texture-train-0099", "prompt": "a rubber eraser and a wooden spoon"}
+{"prompt_id": "T2IX-texture-train-0103", "prompt": "a wooden floor and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0104", "prompt": "wooden chopsticks and a leather shoes"}
+{"prompt_id": "T2IX-texture-train-0106", "prompt": "a metallic key and a fabric pants"}
+{"prompt_id": "T2IX-texture-train-0107", "prompt": "a wooden spoon and a fabric shirt"}
+{"prompt_id": "T2IX-texture-train-0108", "prompt": "a wooden spoon and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0110", "prompt": "a fluffy pillow and a glass mirror"}
+{"prompt_id": "T2IX-texture-train-0112", "prompt": "a metallic spoon and a wooden toy"}
+{"prompt_id": "T2IX-texture-train-0116", "prompt": "a plastic container and a fabric bag"}
+{"prompt_id": "T2IX-texture-train-0125", "prompt": "a rubber ball and a wooden jewelry box"}
+{"prompt_id": "T2IX-texture-train-0129", "prompt": "a leather wallet and a glass mirror"}
+{"prompt_id": "T2IX-texture-train-0135", "prompt": "wooden chopsticks and a glass window"}
+{"prompt_id": "T2IX-texture-train-0136", "prompt": "a wooden spoon and a fabric pillow"}
+{"prompt_id": "T2IX-texture-train-0138", "prompt": "a metallic watch and a leather chair"}
+{"prompt_id": "T2IX-texture-train-0147", "prompt": "a plastic chair and a fluffy sweater"}
+{"prompt_id": "T2IX-texture-train-0148", "prompt": "a plastic bottle and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0149", "prompt": "a plastic bottle and a fabric pants"}
+{"prompt_id": "T2IX-texture-train-0167", "prompt": "a leather chair and a glass window"}
+{"prompt_id": "T2IX-texture-train-0169", "prompt": "a metallic spoon and a fluffy teddy bear"}
+{"prompt_id": "T2IX-texture-train-0170", "prompt": "a rubber eraser and a fabric hat"}
+{"prompt_id": "T2IX-texture-train-0173", "prompt": "a leather bag and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0184", "prompt": "a fluffy blanket and a glass window"}
+{"prompt_id": "T2IX-texture-train-0186", "prompt": "rubber gloves and a fluffy rug"}
+{"prompt_id": "T2IX-texture-train-0190", "prompt": "a plastic bottle and a leather chair"}
+{"prompt_id": "T2IX-texture-train-0193", "prompt": "a plastic bag and a fabric towel"}
+{"prompt_id": "T2IX-texture-train-0195", "prompt": "a fabric rug and a glass cup"}
+{"prompt_id": "T2IX-texture-train-0197", "prompt": "a metallic car and a wooden table"}
+{"prompt_id": "T2IX-texture-train-0199", "prompt": "a fluffy teddy bear and a leather jacket"}
+{"prompt_id": "T2IX-texture-train-0200", "prompt": "a plastic bag and a leather jacket"}
+{"prompt_id": "T2IX-texture-train-0204", "prompt": "a rubber band and a plastic cutlery"}
+{"prompt_id": "T2IX-texture-train-0205", "prompt": "a metallic watch and a wooden table"}
+{"prompt_id": "T2IX-texture-train-0218", "prompt": "a wooden door and a leather chair"}
+{"prompt_id": "T2IX-texture-train-0219", "prompt": "a plastic chair and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0223", "prompt": "a metallic watch and a wooden floor"}
+{"prompt_id": "T2IX-texture-train-0225", "prompt": "a plastic phone case and a glass cup"}
+{"prompt_id": "T2IX-texture-train-0227", "prompt": "a plastic toy and a wooden spoon"}
+{"prompt_id": "T2IX-texture-train-0228", "prompt": "a rubber tire and a metallic desk lamp"}
+{"prompt_id": "T2IX-texture-train-0232", "prompt": "a wooden floor and a fluffy teddy bear"}
+{"prompt_id": "T2IX-texture-train-0238", "prompt": "a metallic desk lamp and wooden chopsticks"}
+{"prompt_id": "T2IX-texture-train-0239", "prompt": "a metallic car and a fabric hat"}
+{"prompt_id": "T2IX-texture-train-0242", "prompt": "a fabric rug and a leather chair"}
+{"prompt_id": "T2IX-texture-train-0244", "prompt": "a fabric pillow and a leather belt"}
+{"prompt_id": "T2IX-texture-train-0246", "prompt": "a wooden table and a fluffy blanket"}
+{"prompt_id": "T2IX-texture-train-0249", "prompt": "a plastic container and a fabric pants"}
+{"prompt_id": "T2IX-texture-train-0251", "prompt": "a fabric shirt and a leather belt"}
+{"prompt_id": "T2IX-texture-train-0254", "prompt": "a metallic keychain and a leather jacket"}
+{"prompt_id": "T2IX-texture-train-0255", "prompt": "wooden chopsticks and a fabric blanket"}
+{"prompt_id": "T2IX-texture-train-0258", "prompt": "a wooden picture frame and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0265", "prompt": "a plastic toy and a fabric blanket"}
+{"prompt_id": "T2IX-texture-train-0266", "prompt": "a wooden chair and a glass window"}
+{"prompt_id": "T2IX-texture-train-0267", "prompt": "a fluffy pillow and a glass bottle"}
+{"prompt_id": "T2IX-texture-train-0270", "prompt": "a rubber eraser and a fabric blanket"}
+{"prompt_id": "T2IX-texture-train-0272", "prompt": "a wooden table and a fluffy pillow"}
+{"prompt_id": "T2IX-texture-train-0274", "prompt": "a fabric towel and a fluffy rug"}
+{"prompt_id": "T2IX-texture-train-0280", "prompt": "a leather wallet and a glass cup"}
+{"prompt_id": "T2IX-texture-train-0282", "prompt": "rubber gloves and a metallic spoon"}
+{"prompt_id": "T2IX-texture-train-0285", "prompt": "a fluffy sweater and a glass jar"}
+{"prompt_id": "T2IX-texture-train-0286", "prompt": "a fabric rug and a leather bag"}
+{"prompt_id": "T2IX-texture-train-0291", "prompt": "a fabric dress and a leather bag"}
+{"prompt_id": "T2IX-texture-train-0293", "prompt": "a leather chair and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0294", "prompt": "a fabric bag and a leather belt"}
+{"prompt_id": "T2IX-texture-train-0295", "prompt": "a wooden door and a glass table"}
+{"prompt_id": "T2IX-texture-train-0299", "prompt": "a wooden table and a leather wallet"}
+{"prompt_id": "T2IX-texture-train-0301", "prompt": "a metallic knife and a wooden floor"}
+{"prompt_id": "T2IX-texture-train-0306", "prompt": "a wooden table and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0316", "prompt": "a fabric shirt and a leather shoes"}
+{"prompt_id": "T2IX-texture-train-0317", "prompt": "a plastic cutlery and a metallic watch"}
+{"prompt_id": "T2IX-texture-train-0318", "prompt": "a plastic bottle and a metallic fork"}
+{"prompt_id": "T2IX-texture-train-0322", "prompt": "a plastic container and a wooden spoon"}
+{"prompt_id": "T2IX-texture-train-0328", "prompt": "a wooden chair and a fluffy sweater"}
+{"prompt_id": "T2IX-texture-train-0339", "prompt": "a fabric pants and leather gloves"}
+{"prompt_id": "T2IX-texture-train-0340", "prompt": "a rubber band and a metallic key"}
+{"prompt_id": "T2IX-texture-train-0341", "prompt": "a metallic knife and a fluffy teddy bear"}
+{"prompt_id": "T2IX-texture-train-0342", "prompt": "a fabric curtain and a fluffy rug"}
+{"prompt_id": "T2IX-texture-train-0344", "prompt": "a fabric pants and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0347", "prompt": "a plastic toy and a wooden chair"}
+{"prompt_id": "T2IX-texture-train-0354", "prompt": "a metallic desk lamp and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0358", "prompt": "a wooden door and a fabric towel"}
+{"prompt_id": "T2IX-texture-train-0365", "prompt": "a plastic container and a fabric rug"}
+{"prompt_id": "T2IX-texture-train-0366", "prompt": "a plastic phone case and a glass mirror"}
+{"prompt_id": "T2IX-texture-train-0370", "prompt": "a rubber tire and a fabric towel"}
+{"prompt_id": "T2IX-texture-train-0377", "prompt": "a metallic spoon and a fabric blanket"}
+{"prompt_id": "T2IX-texture-train-0381", "prompt": "a rubber ball and a fluffy blanket"}
+{"prompt_id": "T2IX-texture-train-0388", "prompt": "a metallic desk lamp and a wooden picture frame"}
+{"prompt_id": "T2IX-texture-train-0393", "prompt": "a plastic toy and a wooden jewelry box"}
+{"prompt_id": "T2IX-texture-train-0396", "prompt": "a rubber tire and a metallic door knob"}
+{"prompt_id": "T2IX-texture-train-0399", "prompt": "a rubber tire and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0410", "prompt": "a rubber ball and a wooden toy"}
+{"prompt_id": "T2IX-texture-train-0416", "prompt": "rubber gloves and a plastic bag"}
+{"prompt_id": "T2IX-texture-train-0417", "prompt": "a plastic bag and a glass bottle"}
+{"prompt_id": "T2IX-texture-train-0420", "prompt": "a wooden floor and a fluffy blanket"}
+{"prompt_id": "T2IX-texture-train-0421", "prompt": "a plastic bag and a fluffy towel"}
+{"prompt_id": "T2IX-texture-train-0423", "prompt": "wooden chopsticks and a fabric curtain"}
+{"prompt_id": "T2IX-texture-train-0425", "prompt": "a wooden floor and a fabric pants"}
+{"prompt_id": "T2IX-texture-train-0429", "prompt": "a fabric curtain and a glass mirror"}
+{"prompt_id": "T2IX-texture-train-0430", "prompt": "a plastic container and a fabric shirt"}
+{"prompt_id": "T2IX-texture-train-0439", "prompt": "a metallic keychain and a fabric towel"}
+{"prompt_id": "T2IX-texture-train-0443", "prompt": "a wooden picture frame and a fabric dress"}
+{"prompt_id": "T2IX-texture-train-0445", "prompt": "a wooden desk and a leather shoes"}
+{"prompt_id": "T2IX-texture-train-0450", "prompt": "a rubber band and a fabric bag"}
+{"prompt_id": "T2IX-texture-train-0451", "prompt": "a metallic knife and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0453", "prompt": "a fabric blanket and leather gloves"}
+{"prompt_id": "T2IX-texture-train-0455", "prompt": "a plastic bag and a glass window"}
+{"prompt_id": "T2IX-texture-train-0462", "prompt": "a wooden picture frame and a glass cup"}
+{"prompt_id": "T2IX-texture-train-0463", "prompt": "a fabric blanket and a glass window"}
+{"prompt_id": "T2IX-texture-train-0465", "prompt": "a metallic jewelry and a glass vase"}
+{"prompt_id": "T2IX-texture-train-0467", "prompt": "a rubber ball and a leather jacket"}
+{"prompt_id": "T2IX-texture-train-0475", "prompt": "a plastic container and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0476", "prompt": "a fabric bag and a leather shoes"}
+{"prompt_id": "T2IX-texture-train-0482", "prompt": "a plastic chair and a glass table"}
+{"prompt_id": "T2IX-texture-train-0491", "prompt": "a wooden desk and a glass bottle"}
+{"prompt_id": "T2IX-texture-train-0493", "prompt": "a rubber band and a fluffy pillow"}
+{"prompt_id": "T2IX-texture-train-0494", "prompt": "a plastic toy and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0497", "prompt": "a metallic door knob and a fabric shirt"}
+{"prompt_id": "T2IX-texture-train-0498", "prompt": "a fabric curtain and a fluffy towel"}
+{"prompt_id": "T2IX-texture-train-0499", "prompt": "wooden chopsticks and a fabric shirt"}
+{"prompt_id": "T2IX-texture-train-0500", "prompt": "a metallic door knob and a fluffy blanket"}
+{"prompt_id": "T2IX-texture-train-0501", "prompt": "a wooden toy and a fluffy towel"}
+{"prompt_id": "T2IX-texture-train-0504", "prompt": "a rubber eraser and a metallic key"}
+{"prompt_id": "T2IX-texture-train-0505", "prompt": "a plastic bottle and a glass window"}
+{"prompt_id": "T2IX-texture-train-0512", "prompt": "a leather bag and a glass cup"}
+{"prompt_id": "T2IX-texture-train-0524", "prompt": "a wooden floor and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0525", "prompt": "a rubber ball and a wooden picture frame"}
+{"prompt_id": "T2IX-texture-train-0527", "prompt": "a rubber eraser and a glass bottle"}
+{"prompt_id": "T2IX-texture-train-0531", "prompt": "a plastic bag and a fluffy teddy bear"}
+{"prompt_id": "T2IX-texture-train-0532", "prompt": "a rubber eraser and a metallic knife"}
+{"prompt_id": "T2IX-texture-train-0534", "prompt": "a metallic jewelry and fluffy clouds"}
+{"prompt_id": "T2IX-texture-train-0546", "prompt": "rubber gloves and a leather bag"}
+{"prompt_id": "T2IX-texture-train-0549", "prompt": "a fluffy teddy bear and a glass jar"}
+{"prompt_id": "T2IX-texture-train-0550", "prompt": "a wooden spoon and a fabric pants"}
+{"prompt_id": "T2IX-texture-train-0554", "prompt": "a wooden toy and a leather jacket"}
+{"prompt_id": "T2IX-texture-train-0557", "prompt": "a wooden spoon and a fluffy rug"}
+{"prompt_id": "T2IX-texture-train-0559", "prompt": "a metallic car and a wooden picture frame"}
+{"prompt_id": "T2IX-texture-train-0562", "prompt": "The wooden table is covered with a fabric tablecloth and adorned with a glass vase."}
+{"prompt_id": "T2IX-texture-train-0568", "prompt": "The fluffy towel hangs on the glass shower door."}
+{"prompt_id": "T2IX-texture-train-0569", "prompt": "The leather belt and wooden watch complement each other perfectly."}
+{"prompt_id": "T2IX-texture-train-0573", "prompt": "The metallic bike frame glints in the sunlight as the rubber tires hit the pavement."}
+{"prompt_id": "T2IX-texture-train-0589", "prompt": "The fluffy pillow and leather headboard make for a comfortable night's sleep."}
+{"prompt_id": "T2IX-texture-train-0597", "prompt": "The fluffy kittens and leather collar play on the wooden floor."}
+{"prompt_id": "T2IX-texture-train-0600", "prompt": "The fluffy clouds float above the metallic skyscrapers and wooden houses, casting long shadows on the city streets."}
+{"prompt_id": "T2IX-texture-train-0601", "prompt": "The fluffy towels and glass bottles of shampoo and conditioner are neatly arranged on the wooden shelf."}
+{"prompt_id": "T2IX-texture-train-0602", "prompt": "The metallic lamp shines on the wooden desk while the plastic pen scribbles on the paper."}
+{"prompt_id": "T2IX-texture-train-0606", "prompt": "The wooden chair and glass table reflect the light from the metallic chandelier."}
+{"prompt_id": "T2IX-texture-train-0610", "prompt": "The fluffy clouds pass by the metallic airplane and wooden pier on the beach."}
+{"prompt_id": "T2IX-texture-train-0620", "prompt": "The leather sofa and wooden coffee table sit on the fluffy rug."}
+{"prompt_id": "T2IX-texture-train-0624", "prompt": "The fluffy dog sleeps on the leather couch while the wooden floor creaks underfoot."}
+{"prompt_id": "T2IX-texture-train-0625", "prompt": "The metallic key unlocks the wooden door, revealing the fluffy cat sitting on the rug."}
+{"prompt_id": "T2IX-texture-train-0628", "prompt": "The wooden frame and glass pane of the window provide a view of the metallic skyscrapers."}
+{"prompt_id": "T2IX-texture-train-0630", "prompt": "The rubber stopper and metallic opener remove the cork from the glass bottle on the wooden counter."}
+{"prompt_id": "T2IX-texture-train-0636", "prompt": "The wooden spoon and glass measuring cup mix the metallic whisk and rubber spatula."}
+{"prompt_id": "T2IX-texture-train-0641", "prompt": "The metallic faucet drips into the glass sink as the rubber gloves clean the wooden cutting board."}
+{"prompt_id": "T2IX-texture-train-0646", "prompt": "The glass figurine and metallic clock decorate the wooden mantel in the living room."}
+{"prompt_id": "T2IX-texture-train-0663", "prompt": "The metallic bicycle leans against the wooden fence as the rubber tires rest on the fluffy grass."}
+{"prompt_id": "T2IX-texture-train-0665", "prompt": "The fluffy pillow and wooden headboard support the leather headrest in the bedroom."}
+{"prompt_id": "T2IX-texture-train-0672", "prompt": "The plastic shower curtain and fluffy bath mat rest on the metallic hooks in the bathroom."}
+{"prompt_id": "T2IX-texture-train-0675", "prompt": "The glass candle and metallic snuffer sit on the wooden side table by the leather armchair."}
+{"prompt_id": "T2IX-texture-train-0694", "prompt": "The fluffy cat and metallic collar nap on the leather chair in the sunroom."}
+{"prompt_id": "T2IX-texture-train-0695", "prompt": "The wooden spoon and glass jar stir the metallic honey on the fabric tablecloth."}
+{"prompt_id": "T2IX-texture-val-0020", "prompt": "a metallic jewelry and a glass bottle"}
+{"prompt_id": "T2IX-texture-val-0028", "prompt": "a metallic keychain and wooden chopsticks"}
+{"prompt_id": "T2IX-texture-val-0029", "prompt": "a fabric blanket and a leather jacket"}
+{"prompt_id": "T2IX-texture-val-0033", "prompt": "a rubber tire and a leather chair"}
+{"prompt_id": "T2IX-texture-val-0034", "prompt": "a fabric bag and a glass vase"}
+{"prompt_id": "T2IX-texture-val-0035", "prompt": "a plastic container and a fabric blanket"}
+{"prompt_id": "T2IX-texture-val-0036", "prompt": "a metallic desk lamp and a fabric curtain"}
+{"prompt_id": "T2IX-texture-val-0044", "prompt": "a plastic container and a leather chair"}
+{"prompt_id": "T2IX-texture-val-0048", "prompt": "a fabric bag and a leather chair"}
+{"prompt_id": "T2IX-texture-val-0052", "prompt": "a rubber eraser and leather gloves"}
+{"prompt_id": "T2IX-texture-val-0056", "prompt": "a wooden floor and a glass bottle"}
+{"prompt_id": "T2IX-texture-val-0063", "prompt": "a metallic key and fluffy clouds"}
+{"prompt_id": "T2IX-texture-val-0099", "prompt": "a plastic bag and a glass jar"}
+{"prompt_id": "T2IX-texture-val-0100", "prompt": "a rubber band and a glass jar"}
+{"prompt_id": "T2IX-texture-val-0104", "prompt": "a rubber ball and a leather shoes"}
+{"prompt_id": "T2IX-texture-val-0105", "prompt": "rubber gloves and a fluffy pillow"}
+{"prompt_id": "T2IX-texture-val-0106", "prompt": "a fabric blanket and a glass jar"}
+{"prompt_id": "T2IX-texture-val-0107", "prompt": "a fluffy pillow and a glass window"}
+{"prompt_id": "T2IX-texture-val-0119", "prompt": "rubber gloves and a metallic knife"}
+{"prompt_id": "T2IX-texture-val-0139", "prompt": "rubber gloves and a plastic toy"}
+{"prompt_id": "T2IX-texture-val-0142", "prompt": "a metallic car and a leather shoes"}
+{"prompt_id": "T2IX-texture-val-0146", "prompt": "rubber gloves and a metallic door knob"}
+{"prompt_id": "T2IX-texture-val-0157", "prompt": "a wooden door and a glass mirror"}
+{"prompt_id": "T2IX-texture-val-0163", "prompt": "a rubber eraser and a plastic chair"}
+{"prompt_id": "T2IX-texture-val-0184", "prompt": "rubber gloves and a wooden floor"}
+{"prompt_id": "T2IX-texture-val-0190", "prompt": "a plastic container and a fluffy blanket"}
+{"prompt_id": "T2IX-texture-val-0191", "prompt": "a metallic fork and a wooden jewelry box"}
+{"prompt_id": "T2IX-texture-val-0202", "prompt": "a metallic necklace and a fabric sweater"}
+{"prompt_id": "T2IX-texture-val-0207", "prompt": "a metallic bracelet and a fabric jacket"}
+{"prompt_id": "T2IX-texture-val-0214", "prompt": "a metallic necklace and a wooden fork"}
+{"prompt_id": "T2IX-texture-val-0224", "prompt": "a metallic earring and a leather sofa"}
+{"prompt_id": "T2IX-texture-val-0229", "prompt": "a fabric sweater and a leather sofa"}
+{"prompt_id": "T2IX-texture-val-0293", "prompt": "The leather couch and fluffy pillow provide comfort on the wooden floor by the glass window."}
+{"prompt_id": "T2IX-texture-val-0300", "prompt": "The metallic pen and fluffy notebook jot down ideas on the wooden desk."}
+{"prompt_id": "T2I-spatial-002", "prompt": "a girl on the top of a frog"}
+{"prompt_id": "T2I-spatial-008", "prompt": "a bicycle on the bottom of a girl"}
+{"prompt_id": "T2I-spatial-009", "prompt": "a sheep on the left of a lamp"}
+{"prompt_id": "T2I-spatial-017", "prompt": "a chicken on the left of a girl"}
+{"prompt_id": "T2I-spatial-023", "prompt": "a man on the left of a giraffe"}
+{"prompt_id": "T2I-spatial-032", "prompt": "a bee on the top of a bicycle"}
+{"prompt_id": "T2I-spatial-034", "prompt": "a bird on the top of a person"}
+{"prompt_id": "T2I-spatial-039", "prompt": "a rabbit near a bicycle"}
+{"prompt_id": "T2I-spatial-043", "prompt": "a bird on the left of a clock"}
+{"prompt_id": "T2I-spatial-044", "prompt": "a frog on the top of a bowl"}
+{"prompt_id": "T2I-spatial-053", "prompt": "a clock on the top of a sheep"}
+{"prompt_id": "T2I-spatial-054", "prompt": "a cat on side of a suitcase"}
+{"prompt_id": "T2I-spatial-055", "prompt": "a cat next to a suitcase"}
+{"prompt_id": "T2I-spatial-065", "prompt": "a bird on the left of a woman"}
+{"prompt_id": "T2I-spatial-072", "prompt": "a butterfly on side of a cup"}
+{"prompt_id": "T2I-spatial-079", "prompt": "a vase on the right of a cat"}
+{"prompt_id": "T2I-spatial-086", "prompt": "a airplane on the right of a person"}
+{"prompt_id": "T2I-spatial-087", "prompt": "a microwave on the right of a pig"}
+{"prompt_id": "T2I-spatial-096", "prompt": "a turtle on the left of a man"}
+{"prompt_id": "T2I-spatial-098", "prompt": "a horse on the left of a book"}
+{"prompt_id": "T2I-spatial-100", "prompt": "a boy on side of a bee"}
+{"prompt_id": "T2I-spatial-108", "prompt": "a girl on side of a desk"}
+{"prompt_id": "T2I-spatial-115", "prompt": "a dog on the bottom of a balloon"}
+{"prompt_id": "T2I-spatial-119", "prompt": "a airplane on the right of a girl"}
+{"prompt_id": "T2I-spatial-123", "prompt": "a cup on the bottom of a dog"}
+{"prompt_id": "T2I-spatial-124", "prompt": "a woman on the left of a plate"}
+{"prompt_id": "T2I-spatial-126", "prompt": "a pig on the top of a man"}
+{"prompt_id": "T2I-spatial-130", "prompt": "a cat on the right of a person"}
+{"prompt_id": "T2I-spatial-132", "prompt": "a bird on the right of a cup"}
+{"prompt_id": "T2I-spatial-137", "prompt": "a bird on the right of a man"}
+{"prompt_id": "T2I-spatial-147", "prompt": "a woman on side of a cup"}
+{"prompt_id": "T2I-spatial-162", "prompt": "a chair on the right of a frog"}
+{"prompt_id": "T2I-spatial-165", "prompt": "a candle on the top of a chicken"}
+{"prompt_id": "T2I-spatial-166", "prompt": "a television on the right of a person"}
+{"prompt_id": "T2I-spatial-167", "prompt": "a fish next to a train"}
+{"prompt_id": "T2I-spatial-170", "prompt": "a rabbit on the top of a clock"}
+{"prompt_id": "T2I-spatial-172", "prompt": "a man next to a airplane"}
+{"prompt_id": "T2I-spatial-177", "prompt": "a chair on the right of a giraffe"}
+{"prompt_id": "T2I-spatial-179", "prompt": "a balloon on the right of a butterfly"}
+{"prompt_id": "T2I-spatial-185", "prompt": "a bee near a desk"}
+{"prompt_id": "T2I-spatial-193", "prompt": "a television on the top of a woman"}
+{"prompt_id": "T2I-spatial-195", "prompt": "a couch on the bottom of a pig"}
+{"prompt_id": "T2I-spatial-201", "prompt": "a chicken on side of a candle"}
+{"prompt_id": "T2I-spatial-202", "prompt": "a cup on the right of a bee"}
+{"prompt_id": "T2I-spatial-215", "prompt": "a chicken on side of a cup"}
+{"prompt_id": "T2I-spatial-220", "prompt": "a bee on side of a airplane"}
+{"prompt_id": "T2I-spatial-221", "prompt": "a boy near a airplane"}
+{"prompt_id": "T2I-spatial-223", "prompt": "a woman on the top of a microwave"}
+{"prompt_id": "T2I-spatial-224", "prompt": "a giraffe next to a television"}
+{"prompt_id": "T2I-spatial-231", "prompt": "a suitcase on the bottom of a turtle"}
+{"prompt_id": "T2I-spatial-232", "prompt": "a frog on the top of a cup"}
+{"prompt_id": "T2I-spatial-236", "prompt": "a sheep on the left of a clock"}
+{"prompt_id": "T2I-spatial-237", "prompt": "a woman on the right of a bowl"}
+{"prompt_id": "T2I-spatial-239", "prompt": "a butterfly on the right of a couch"}
+{"prompt_id": "T2I-spatial-241", "prompt": "a turtle on the bottom of a chair"}
+{"prompt_id": "T2I-spatial-242", "prompt": "a turtle on the bottom of a microwave"}
+{"prompt_id": "T2I-spatial-245", "prompt": "a woman next to a airplane"}
+{"prompt_id": "T2I-spatial-247", "prompt": "a woman on the left of a horse"}
+{"prompt_id": "T2I-spatial-257", "prompt": "a giraffe on the left of a car"}
+{"prompt_id": "T2I-spatial-272", "prompt": "a pig on the right of a vase"}
+{"prompt_id": "T2I-spatial-281", "prompt": "a chicken on the top of a plate"}
+{"prompt_id": "T2I-spatial-288", "prompt": "a boy next to a couch"}
+{"prompt_id": "T2I-spatial-289", "prompt": "a giraffe on the left of a train"}
+{"prompt_id": "T2I-spatial-291", "prompt": "a car on the right of a man"}
+{"prompt_id": "T2IX-spatial-train-0001", "prompt": "a balloon on the top of a giraffe"}
+{"prompt_id": "T2IX-spatial-train-0005", "prompt": "a rabbit on the top of a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0022", "prompt": "a train on the left of a boy"}
+{"prompt_id": "T2IX-spatial-train-0023", "prompt": "a bicycle on the left of a bird"}
+{"prompt_id": "T2IX-spatial-train-0025", "prompt": "a rabbit on the top of a book"}
+{"prompt_id": "T2IX-spatial-train-0027", "prompt": "a girl on the left of a frog"}
+{"prompt_id": "T2IX-spatial-train-0030", "prompt": "a chicken on the top of a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0033", "prompt": "a sheep near a car"}
+{"prompt_id": "T2IX-spatial-train-0035", "prompt": "a girl on the left of a bee"}
+{"prompt_id": "T2IX-spatial-train-0041", "prompt": "a dog on the top of a suitcase"}
+{"prompt_id": "T2IX-spatial-train-0044", "prompt": "a bee on the top of a airplane"}
+{"prompt_id": "T2IX-spatial-train-0046", "prompt": "a giraffe on the left of a lamp"}
+{"prompt_id": "T2IX-spatial-train-0053", "prompt": "a person on the left of a microwave"}
+{"prompt_id": "T2IX-spatial-train-0054", "prompt": "a microwave on the bottom of a rabbit"}
+{"prompt_id": "T2IX-spatial-train-0077", "prompt": "a person next to a airplane"}
+{"prompt_id": "T2IX-spatial-train-0079", "prompt": "a bowl on the left of a man"}
+{"prompt_id": "T2IX-spatial-train-0090", "prompt": "a giraffe on the left of a candle"}
+{"prompt_id": "T2IX-spatial-train-0091", "prompt": "a sheep next to a desk"}
+{"prompt_id": "T2IX-spatial-train-0095", "prompt": "a woman on the left of a television"}
+{"prompt_id": "T2IX-spatial-train-0103", "prompt": "a butterfly on the bottom of a candle"}
+{"prompt_id": "T2IX-spatial-train-0108", "prompt": "a sheep next to a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0115", "prompt": "a bee near a airplane"}
+{"prompt_id": "T2IX-spatial-train-0118", "prompt": "a bird on side of a plate"}
+{"prompt_id": "T2IX-spatial-train-0124", "prompt": "a bee on the top of a backpack"}
+{"prompt_id": "T2IX-spatial-train-0129", "prompt": "a woman near a airplane"}
+{"prompt_id": "T2IX-spatial-train-0131", "prompt": "a dog on side of a car"}
+{"prompt_id": "T2IX-spatial-train-0142", "prompt": "a car on the right of a rabbit"}
+{"prompt_id": "T2IX-spatial-train-0158", "prompt": "a girl on the top of a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0165", "prompt": "a person next to a dog"}
+{"prompt_id": "T2IX-spatial-train-0167", "prompt": "a microwave on the bottom of a cat"}
+{"prompt_id": "T2IX-spatial-train-0171", "prompt": "a cat on the left of a man"}
+{"prompt_id": "T2IX-spatial-train-0173", "prompt": "a candle on the bottom of a butterfly"}
+{"prompt_id": "T2IX-spatial-train-0179", "prompt": "a giraffe next to a book"}
+{"prompt_id": "T2IX-spatial-train-0182", "prompt": "a bicycle on the right of a person"}
+{"prompt_id": "T2IX-spatial-train-0204", "prompt": "a giraffe near a vase"}
+{"prompt_id": "T2IX-spatial-train-0235", "prompt": "a person near a bird"}
+{"prompt_id": "T2IX-spatial-train-0236", "prompt": "a boy on side of a fish"}
+{"prompt_id": "T2IX-spatial-train-0241", "prompt": "a pig on the right of a microwave"}
+{"prompt_id": "T2IX-spatial-train-0246", "prompt": "a man on the bottom of a clock"}
+{"prompt_id": "T2IX-spatial-train-0252", "prompt": "a turtle on the right of a candle"}
+{"prompt_id": "T2IX-spatial-train-0257", "prompt": "a person on side of a bird"}
+{"prompt_id": "T2IX-spatial-train-0260", "prompt": "a bird near a desk"}
+{"prompt_id": "T2IX-spatial-train-0265", "prompt": "a refrigerator on the left of a turtle"}
+{"prompt_id": "T2IX-spatial-train-0271", "prompt": "a fish near a television"}
+{"prompt_id": "T2IX-spatial-train-0272", "prompt": "a mouse on side of a refrigerator"}
+{"prompt_id": "T2IX-spatial-train-0274", "prompt": "a chair on the bottom of a cat"}
+{"prompt_id": "T2IX-spatial-train-0275", "prompt": "a computer on the top of a giraffe"}
+{"prompt_id": "T2IX-spatial-train-0284", "prompt": "a man on the right of a cat"}
+{"prompt_id": "T2IX-spatial-train-0285", "prompt": "a bee on the right of a painting"}
+{"prompt_id": "T2IX-spatial-train-0286", "prompt": "a suitcase on the top of a man"}
+{"prompt_id": "T2IX-spatial-train-0290", "prompt": "a frog on the left of a computer"}
+{"prompt_id": "T2IX-spatial-train-0291", "prompt": "a plate on the bottom of a giraffe"}
+{"prompt_id": "T2IX-spatial-train-0292", "prompt": "a car on the left of a cat"}
+{"prompt_id": "T2IX-spatial-train-0293", "prompt": "a sheep on the bottom of a suitcase"}
+{"prompt_id": "T2IX-spatial-train-0294", "prompt": "a microwave on the top of a woman"}
+{"prompt_id": "T2IX-spatial-train-0296", "prompt": "a bee on side of a suitcase"}
+{"prompt_id": "T2IX-spatial-train-0300", "prompt": "a person near a cup"}
+{"prompt_id": "T2IX-spatial-train-0301", "prompt": "a person on side of a bowl"}
+{"prompt_id": "T2IX-spatial-train-0304", "prompt": "a book on the top of a man"}
+{"prompt_id": "T2IX-spatial-train-0305", "prompt": "a couch on the bottom of a cat"}
+{"prompt_id": "T2IX-spatial-train-0307", "prompt": "a frog on the right of a car"}
+{"prompt_id": "T2IX-spatial-train-0311", "prompt": "a bee on the bottom of a plate"}
+{"prompt_id": "T2IX-spatial-train-0313", "prompt": "a frog near a car"}
+{"prompt_id": "T2IX-spatial-train-0315", "prompt": "a fish near a table"}
+{"prompt_id": "T2IX-spatial-train-0318", "prompt": "a key on the right of a bee"}
+{"prompt_id": "T2IX-spatial-train-0319", "prompt": "a computer on the left of a person"}
+{"prompt_id": "T2IX-spatial-train-0320", "prompt": "a dog on side of a balloon"}
+{"prompt_id": "T2IX-spatial-train-0323", "prompt": "a cat on the right of a suitcase"}
+{"prompt_id": "T2IX-spatial-train-0325", "prompt": "a mouse on the bottom of a man"}
+{"prompt_id": "T2IX-spatial-train-0328", "prompt": "a giraffe next to a plate"}
+{"prompt_id": "T2IX-spatial-train-0329", "prompt": "a cow on the right of a wallet"}
+{"prompt_id": "T2IX-spatial-train-0330", "prompt": "a bird on side of a computer"}
+{"prompt_id": "T2IX-spatial-train-0335", "prompt": "a sheep near a painting"}
+{"prompt_id": "T2IX-spatial-train-0337", "prompt": "a painting on the top of a cow"}
+{"prompt_id": "T2IX-spatial-train-0339", "prompt": "a candle on the right of a giraffe"}
+{"prompt_id": "T2IX-spatial-train-0340", "prompt": "a woman near a microwave"}
+{"prompt_id": "T2IX-spatial-train-0341", "prompt": "a boy on side of a vase"}
+{"prompt_id": "T2IX-spatial-train-0342", "prompt": "a woman on side of a bag"}
+{"prompt_id": "T2IX-spatial-train-0343", "prompt": "a candle on the left of a person"}
+{"prompt_id": "T2IX-spatial-train-0344", "prompt": "a girl on the top of a train"}
+{"prompt_id": "T2IX-spatial-train-0345", "prompt": "a horse next to a key"}
+{"prompt_id": "T2IX-spatial-train-0348", "prompt": "a dog on the bottom of a car"}
+{"prompt_id": "T2IX-spatial-train-0349", "prompt": "a woman on the left of a table"}
+{"prompt_id": "T2IX-spatial-train-0351", "prompt": "a dog on the left of a backpack"}
+{"prompt_id": "T2IX-spatial-train-0353", "prompt": "a cat next to a microwave"}
+{"prompt_id": "T2IX-spatial-train-0355", "prompt": "a mouse on the left of a person"}
+{"prompt_id": "T2IX-spatial-train-0358", "prompt": "a table on the top of a frog"}
+{"prompt_id": "T2IX-spatial-train-0368", "prompt": "a person on the right of a mouse"}
+{"prompt_id": "T2IX-spatial-train-0375", "prompt": "a butterfly near a wallet"}
+{"prompt_id": "T2IX-spatial-train-0376", "prompt": "a desk on the left of a dog"}
+{"prompt_id": "T2IX-spatial-train-0377", "prompt": "a bowl on the right of a mouse"}
+{"prompt_id": "T2IX-spatial-train-0378", "prompt": "a rabbit near a television"}
+{"prompt_id": "T2IX-spatial-train-0380", "prompt": "a person next to a horse"}
+{"prompt_id": "T2IX-spatial-train-0387", "prompt": "a dog on the top of a vase"}
+{"prompt_id": "T2IX-spatial-train-0388", "prompt": "a woman near a cat"}
+{"prompt_id": "T2IX-spatial-train-0391", "prompt": "a couch on the top of a girl"}
+{"prompt_id": "T2IX-spatial-train-0394", "prompt": "a woman on the left of a bee"}
+{"prompt_id": "T2IX-spatial-train-0395", "prompt": "a rabbit on the right of a chair"}
+{"prompt_id": "T2IX-spatial-train-0398", "prompt": "a vase on the left of a cow"}
+{"prompt_id": "T2IX-spatial-train-0402", "prompt": "a painting on the left of a frog"}
+{"prompt_id": "T2IX-spatial-train-0404", "prompt": "a wallet on the top of a chicken"}
+{"prompt_id": "T2IX-spatial-train-0406", "prompt": "a man near a car"}
+{"prompt_id": "T2IX-spatial-train-0408", "prompt": "a television on the left of a cat"}
+{"prompt_id": "T2IX-spatial-train-0409", "prompt": "a butterfly on the top of a phone"}
+{"prompt_id": "T2IX-spatial-train-0410", "prompt": "a book on the left of a bee"}
+{"prompt_id": "T2IX-spatial-train-0417", "prompt": "a airplane on the top of a fish"}
+{"prompt_id": "T2IX-spatial-train-0420", "prompt": "a wallet on the bottom of a horse"}
+{"prompt_id": "T2IX-spatial-train-0424", "prompt": "a cow on the left of a car"}
+{"prompt_id": "T2IX-spatial-train-0426", "prompt": "a bird on the left of a book"}
+{"prompt_id": "T2IX-spatial-train-0430", "prompt": "a dog on the top of a girl"}
+{"prompt_id": "T2IX-spatial-train-0437", "prompt": "a bag on the left of a bee"}
+{"prompt_id": "T2IX-spatial-train-0439", "prompt": "a airplane on the right of a frog"}
+{"prompt_id": "T2IX-spatial-train-0440", "prompt": "a phone on the top of a man"}
+{"prompt_id": "T2IX-spatial-train-0444", "prompt": "a dog on the top of a wallet"}
+{"prompt_id": "T2IX-spatial-train-0445", "prompt": "a chair on the left of a sheep"}
+{"prompt_id": "T2IX-spatial-train-0450", "prompt": "a bird on the right of a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0453", "prompt": "a cat next to a refrigerator"}
+{"prompt_id": "T2IX-spatial-train-0457", "prompt": "a cat near a wallet"}
+{"prompt_id": "T2IX-spatial-train-0458", "prompt": "a woman next to a wallet"}
+{"prompt_id": "T2IX-spatial-train-0468", "prompt": "a bird on the right of a microwave"}
+{"prompt_id": "T2IX-spatial-train-0471", "prompt": "a man on the left of a mouse"}
+{"prompt_id": "T2IX-spatial-train-0475", "prompt": "a painting on the bottom of a cow"}
+{"prompt_id": "T2IX-spatial-train-0478", "prompt": "a backpack on the left of a butterfly"}
+{"prompt_id": "T2IX-spatial-train-0480", "prompt": "a giraffe next to a balloon"}
+{"prompt_id": "T2IX-spatial-train-0481", "prompt": "a cat on side of a couch"}
+{"prompt_id": "T2IX-spatial-train-0482", "prompt": "a chicken on the right of a couch"}
+{"prompt_id": "T2IX-spatial-train-0483", "prompt": "a desk on the left of a cat"}
+{"prompt_id": "T2IX-spatial-train-0484", "prompt": "a giraffe on side of a cup"}
+{"prompt_id": "T2IX-spatial-train-0486", "prompt": "a book on the right of a dog"}
+{"prompt_id": "T2IX-spatial-train-0487", "prompt": "a woman next to a bird"}
+{"prompt_id": "T2IX-spatial-train-0490", "prompt": "a dog on the bottom of a phone"}
+{"prompt_id": "T2IX-spatial-train-0493", "prompt": "a car on the bottom of a fish"}
+{"prompt_id": "T2IX-spatial-train-0499", "prompt": "a wallet on the top of a boy"}
+{"prompt_id": "T2IX-spatial-train-0501", "prompt": "a cat on side of a key"}
+{"prompt_id": "T2IX-spatial-train-0507", "prompt": "a woman on the top of a lamp"}
+{"prompt_id": "T2IX-spatial-train-0508", "prompt": "a sheep near a backpack"}
+{"prompt_id": "T2IX-spatial-train-0509", "prompt": "a key on the top of a mouse"}
+{"prompt_id": "T2IX-spatial-train-0511", "prompt": "a person on the top of a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0512", "prompt": "a bicycle on the bottom of a woman"}
+{"prompt_id": "T2IX-spatial-train-0513", "prompt": "a person next to a microwave"}
+{"prompt_id": "T2IX-spatial-train-0517", "prompt": "a computer on the right of a cow"}
+{"prompt_id": "T2IX-spatial-train-0520", "prompt": "a dog near a balloon"}
+{"prompt_id": "T2IX-spatial-train-0523", "prompt": "a suitcase on the right of a man"}
+{"prompt_id": "T2IX-spatial-train-0524", "prompt": "a bird on side of a desk"}
+{"prompt_id": "T2IX-spatial-train-0526", "prompt": "a computer on the bottom of a giraffe"}
+{"prompt_id": "T2IX-spatial-train-0527", "prompt": "a refrigerator on the right of a chicken"}
+{"prompt_id": "T2IX-spatial-train-0530", "prompt": "a mouse on the right of a backpack"}
+{"prompt_id": "T2IX-spatial-train-0537", "prompt": "a horse on the left of a woman"}
+{"prompt_id": "T2IX-spatial-train-0538", "prompt": "a couch on the right of a fish"}
+{"prompt_id": "T2IX-spatial-train-0543", "prompt": "a man next to a bee"}
+{"prompt_id": "T2IX-spatial-train-0544", "prompt": "a cow near a lamp"}
+{"prompt_id": "T2IX-spatial-train-0545", "prompt": "a bird next to a microwave"}
+{"prompt_id": "T2IX-spatial-train-0546", "prompt": "a couch on the bottom of a mouse"}
+{"prompt_id": "T2IX-spatial-train-0549", "prompt": "a chicken near a phone"}
+{"prompt_id": "T2IX-spatial-train-0550", "prompt": "a bag on the right of a bee"}
+{"prompt_id": "T2IX-spatial-train-0555", "prompt": "a girl on the bottom of a chair"}
+{"prompt_id": "T2IX-spatial-train-0556", "prompt": "a lamp on the bottom of a rabbit"}
+{"prompt_id": "T2IX-spatial-train-0559", "prompt": "a dog on the left of a balloon"}
+{"prompt_id": "T2IX-spatial-train-0566", "prompt": "a woman on the top of a couch"}
+{"prompt_id": "T2IX-spatial-train-0570", "prompt": "a boy near a cat"}
+{"prompt_id": "T2IX-spatial-train-0573", "prompt": "a sheep near a sofa"}
+{"prompt_id": "T2IX-spatial-train-0581", "prompt": "a table on the bottom of a girl"}
+{"prompt_id": "T2IX-spatial-train-0583", "prompt": "a woman on the left of a rabbit"}
+{"prompt_id": "T2IX-spatial-train-0585", "prompt": "a chicken next to a chair"}
+{"prompt_id": "T2IX-spatial-train-0587", "prompt": "a person on the top of a car"}
+{"prompt_id": "T2IX-spatial-train-0588", "prompt": "a phone on the top of a turtle"}
+{"prompt_id": "T2IX-spatial-train-0592", "prompt": "a bowl on the top of a frog"}
+{"prompt_id": "T2IX-spatial-train-0593", "prompt": "a car on the top of a butterfly"}
+{"prompt_id": "T2IX-spatial-train-0598", "prompt": "a vase on the bottom of a cat"}
+{"prompt_id": "T2IX-spatial-train-0603", "prompt": "a mouse on side of a plate"}
+{"prompt_id": "T2IX-spatial-train-0606", "prompt": "a turtle on the right of a wallet"}
+{"prompt_id": "T2IX-spatial-train-0612", "prompt": "a sofa on the bottom of a cow"}
+{"prompt_id": "T2IX-spatial-train-0617", "prompt": "a sheep on side of a airplane"}
+{"prompt_id": "T2IX-spatial-train-0618", "prompt": "a butterfly near a lamp"}
+{"prompt_id": "T2IX-spatial-train-0621", "prompt": "a wallet on the left of a man"}
+{"prompt_id": "T2IX-spatial-train-0625", "prompt": "a suitcase on the left of a turtle"}
+{"prompt_id": "T2IX-spatial-train-0632", "prompt": "a train on the left of a cat"}
+{"prompt_id": "T2IX-spatial-train-0634", "prompt": "a mouse on the right of a bowl"}
+{"prompt_id": "T2IX-spatial-train-0635", "prompt": "a person next to a lamp"}
+{"prompt_id": "T2IX-spatial-train-0638", "prompt": "a turtle on the top of a plate"}
+{"prompt_id": "T2IX-spatial-train-0642", "prompt": "a dog next to a train"}
+{"prompt_id": "T2IX-spatial-train-0643", "prompt": "a vase on the top of a cat"}
+{"prompt_id": "T2IX-spatial-train-0645", "prompt": "a boy near a painting"}
+{"prompt_id": "T2IX-spatial-train-0646", "prompt": "a giraffe on the bottom of a woman"}
+{"prompt_id": "T2IX-spatial-train-0648", "prompt": "a couch on the bottom of a horse"}
+{"prompt_id": "T2IX-spatial-train-0657", "prompt": "a candle on the right of a fish"}
+{"prompt_id": "T2IX-spatial-train-0661", "prompt": "a horse on the bottom of a airplane"}
+{"prompt_id": "T2IX-spatial-train-0665", "prompt": "a person next to a cup"}
+{"prompt_id": "T2IX-spatial-train-0667", "prompt": "a butterfly on the right of a clock"}
+{"prompt_id": "T2IX-spatial-train-0672", "prompt": "a fish next to a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0677", "prompt": "a wallet on the bottom of a sheep"}
+{"prompt_id": "T2IX-spatial-train-0678", "prompt": "a mouse near a balloon"}
+{"prompt_id": "T2IX-spatial-train-0689", "prompt": "a person on the bottom of a bicycle"}
+{"prompt_id": "T2IX-spatial-train-0690", "prompt": "a boy on the right of a chair"}
+{"prompt_id": "T2IX-spatial-train-0692", "prompt": "a couch on the top of a woman"}
+{"prompt_id": "T2IX-spatial-train-0693", "prompt": "a refrigerator on the top of a girl"}
+{"prompt_id": "T2IX-spatial-train-0697", "prompt": "a mouse on the left of a suitcase"}
+{"prompt_id": "T2IX-spatial-train-0698", "prompt": "a pig on side of a cup"}
+{"prompt_id": "T2IX-spatial-val-0006", "prompt": "a cat on the top of a sofa"}
+{"prompt_id": "T2IX-spatial-val-0018", "prompt": "a woman on the left of a balloon"}
+{"prompt_id": "T2IX-spatial-val-0021", "prompt": "a plate on the bottom of a fish"}
+{"prompt_id": "T2IX-spatial-val-0027", "prompt": "a mouse near a bag"}
+{"prompt_id": "T2IX-spatial-val-0028", "prompt": "a bicycle on the top of a turtle"}
+{"prompt_id": "T2IX-spatial-val-0037", "prompt": "a bee on side of a couch"}
+{"prompt_id": "T2IX-spatial-val-0040", "prompt": "a cup on the right of a dog"}
+{"prompt_id": "T2IX-spatial-val-0050", "prompt": "a man on the right of a lamp"}
+{"prompt_id": "T2IX-spatial-val-0051", "prompt": "a horse on the left of a car"}
+{"prompt_id": "T2IX-spatial-val-0057", "prompt": "a bird on the left of a phone"}
+{"prompt_id": "T2IX-spatial-val-0060", "prompt": "a dog on the bottom of a refrigerator"}
+{"prompt_id": "T2IX-spatial-val-0066", "prompt": "a candle on the left of a mouse"}
+{"prompt_id": "T2IX-spatial-val-0067", "prompt": "a man on the left of a lamp"}
+{"prompt_id": "T2IX-spatial-val-0069", "prompt": "a frog on the bottom of a bowl"}
+{"prompt_id": "T2IX-spatial-val-0073", "prompt": "a butterfly on the left of a candle"}
+{"prompt_id": "T2IX-spatial-val-0074", "prompt": "a desk on the top of a butterfly"}
+{"prompt_id": "T2IX-spatial-val-0078", "prompt": "a painting on the bottom of a chicken"}
+{"prompt_id": "T2IX-spatial-val-0081", "prompt": "a giraffe on the left of a balloon"}
+{"prompt_id": "T2IX-spatial-val-0083", "prompt": "a giraffe next to a suitcase"}
+{"prompt_id": "T2IX-spatial-val-0085", "prompt": "a woman on the left of a cup"}
+{"prompt_id": "T2IX-spatial-val-0095", "prompt": "a chair on the bottom of a turtle"}
+{"prompt_id": "T2IX-spatial-val-0097", "prompt": "a bird on the top of a balloon"}
+{"prompt_id": "T2IX-spatial-val-0101", "prompt": "a turtle next to a television"}
+{"prompt_id": "T2IX-spatial-val-0102", "prompt": "a pig near a cup"}
+{"prompt_id": "T2IX-spatial-val-0104", "prompt": "a painting on the bottom of a horse"}
+{"prompt_id": "T2IX-spatial-val-0111", "prompt": "a man near a pig"}
+{"prompt_id": "T2IX-spatial-val-0113", "prompt": "a giraffe near a wallet"}
+{"prompt_id": "T2IX-spatial-val-0118", "prompt": "a cup on the top of a butterfly"}
+{"prompt_id": "T2IX-spatial-val-0121", "prompt": "a woman near a bag"}
+{"prompt_id": "T2IX-spatial-val-0122", "prompt": "a woman on the right of a television"}
+{"prompt_id": "T2IX-spatial-val-0128", "prompt": "a girl next to a cow"}
+{"prompt_id": "T2IX-spatial-val-0138", "prompt": "a table on the left of a girl"}
+{"prompt_id": "T2IX-spatial-val-0154", "prompt": "a butterfly on the right of a balloon"}
+{"prompt_id": "T2IX-spatial-val-0155", "prompt": "a horse on the bottom of a plate"}
+{"prompt_id": "T2IX-spatial-val-0156", "prompt": "a turtle next to a airplane"}
+{"prompt_id": "T2IX-spatial-val-0160", "prompt": "a frog on the right of a bag"}
+{"prompt_id": "T2IX-spatial-val-0164", "prompt": "a rabbit near a train"}
+{"prompt_id": "T2IX-spatial-val-0169", "prompt": "a train on the bottom of a girl"}
+{"prompt_id": "T2IX-spatial-val-0180", "prompt": "a butterfly next to a train"}
+{"prompt_id": "T2IX-spatial-val-0190", "prompt": "a person on the right of a train"}
+{"prompt_id": "T2IX-spatial-val-0198", "prompt": "a horse on the top of a wallet"}
+{"prompt_id": "T2IX-spatial-val-0200", "prompt": "a person on the left of a couch"}
+{"prompt_id": "T2IX-spatial-val-0205", "prompt": "a rabbit on side of a suitcase"}
+{"prompt_id": "T2IX-spatial-val-0212", "prompt": "a woman on the top of a desk"}
+{"prompt_id": "T2IX-spatial-val-0216", "prompt": "a horse near a wallet"}
+{"prompt_id": "T2IX-spatial-val-0217", "prompt": "a cow on the top of a painting"}
+{"prompt_id": "T2IX-spatial-val-0234", "prompt": "a computer on the bottom of a boy"}
+{"prompt_id": "T2IX-spatial-val-0248", "prompt": "a giraffe on the bottom of a bag"}
+{"prompt_id": "T2IX-spatial-val-0259", "prompt": "a cat on the top of a candle"}
+{"prompt_id": "T2IX-spatial-val-0264", "prompt": "a horse on the top of a man"}
+{"prompt_id": "T2IX-spatial-val-0265", "prompt": "a dog on side of a computer"}
+{"prompt_id": "T2IX-spatial-val-0268", "prompt": "a cat on the left of a lamp"}
+{"prompt_id": "T2IX-spatial-val-0270", "prompt": "a mouse on side of a phone"}
+{"prompt_id": "T2IX-spatial-val-0276", "prompt": "a mouse on the bottom of a backpack"}
+{"prompt_id": "T2IX-spatial-val-0277", "prompt": "a desk on the top of a cat"}
+{"prompt_id": "T2IX-spatial-val-0286", "prompt": "a woman on side of a frog"}
+{"prompt_id": "T2IX-spatial-val-0287", "prompt": "a girl near a book"}
+{"prompt_id": "T2IX-spatial-val-0293", "prompt": "a giraffe on the right of a bowl"}
+{"prompt_id": "T2I-non_spatial-001", "prompt": "A person is looking at a rainbow and marveling at its beauty."}
+{"prompt_id": "T2I-non_spatial-003", "prompt": "A woman is holding a yoga mat and heading to a class."}
+{"prompt_id": "T2I-non_spatial-009", "prompt": "A group of people are enjoying a barbecue in the backyard."}
+{"prompt_id": "T2I-non_spatial-012", "prompt": "A group of activists are marching in protest, chanting slogans and waving signs."}
+{"prompt_id": "T2I-non_spatial-020", "prompt": "A man is holding a book and reading on a park bench."}
+{"prompt_id": "T2I-non_spatial-029", "prompt": "A person is practicing their juggling skills at the circus."}
+{"prompt_id": "T2I-non_spatial-032", "prompt": "A man is holding a soldering iron and repairing a broken electronic device."}
+{"prompt_id": "T2I-non_spatial-037", "prompt": "A group of friends is having a picnic under a big oak tree."}
+{"prompt_id": "T2I-non_spatial-038", "prompt": "A child is playing with a toy airplane and pretending to fly."}
+{"prompt_id": "T2I-non_spatial-042", "prompt": "A woman is speaking in sign language and communicating with a deaf friend."}
+{"prompt_id": "T2I-non_spatial-044", "prompt": "A person is standing on a skateboard and performing tricks."}
+{"prompt_id": "T2I-non_spatial-045", "prompt": "A person is jumping over a hurdle and competing in a track and field event."}
+{"prompt_id": "T2I-non_spatial-048", "prompt": "A man is holding a map and navigating a boat on a lake."}
+{"prompt_id": "T2I-non_spatial-049", "prompt": "A dog is playing fetch with its owner and bringing back a ball."}
+{"prompt_id": "T2I-non_spatial-055", "prompt": "A dog is chasing its tail and having a playful moment."}
+{"prompt_id": "T2I-non_spatial-056", "prompt": "A man is sitting on a park bench feeding pigeons."}
+{"prompt_id": "T2I-non_spatial-061", "prompt": "A student is typing on a laptop at a coffee shop."}
+{"prompt_id": "T2I-non_spatial-063", "prompt": "A chef is carefully seasoning a dish, tasting it over and over until it's just right."}
+{"prompt_id": "T2I-non_spatial-064", "prompt": "A man is playing the drums in his garage band."}
+{"prompt_id": "T2I-non_spatial-065", "prompt": "A person is playing guitar on the beach."}
+{"prompt_id": "T2I-non_spatial-066", "prompt": "The sushi chef is slicing fresh fish for sashimi."}
+{"prompt_id": "T2I-non_spatial-067", "prompt": "A woman is holding a bouquet of flowers and smiling with happiness."}
+{"prompt_id": "T2I-non_spatial-068", "prompt": "A child is playing with a hula hoop and perfecting their moves."}
+{"prompt_id": "T2I-non_spatial-069", "prompt": "A dog is chasing after a ball and wagging its tail."}
+{"prompt_id": "T2I-non_spatial-070", "prompt": "A person is looking at a map and planning a road trip."}
+{"prompt_id": "T2I-non_spatial-071", "prompt": "A person is holding a glass of wine and enjoying a sunset."}
+{"prompt_id": "T2I-non_spatial-072", "prompt": "A dog is panting and resting after a long walk."}
+{"prompt_id": "T2I-non_spatial-073", "prompt": "A person is looking at a work of art and analyzing its meaning."}
+{"prompt_id": "T2I-non_spatial-078", "prompt": "A horse is galloping in a meadow."}
+{"prompt_id": "T2I-non_spatial-080", "prompt": "A person is walking with a friend and enjoying a conversation."}
+{"prompt_id": "T2I-non_spatial-081", "prompt": "A bartender is mixing drinks behind the bar."}
+{"prompt_id": "T2I-non_spatial-082", "prompt": "A person is looking at a display of vintage clothing and admiring the fashion."}
+{"prompt_id": "T2I-non_spatial-085", "prompt": "A woman is holding a rolling pin and making pie crust."}
+{"prompt_id": "T2I-non_spatial-088", "prompt": "A person is looking at a full moon and feeling inspired."}
+{"prompt_id": "T2I-non_spatial-089", "prompt": "A group of friends is playing frisbee on the beach."}
+{"prompt_id": "T2I-non_spatial-094", "prompt": "A person is standing on a rooftop and enjoying the view."}
+{"prompt_id": "T2I-non_spatial-099", "prompt": "A child is blowing bubbles in the park."}
+{"prompt_id": "T2I-non_spatial-102", "prompt": "A man is running his hand over a smooth rock at the beach."}
+{"prompt_id": "T2I-non_spatial-106", "prompt": "A man is holding a leash and taking his dog for a walk."}
+{"prompt_id": "T2I-non_spatial-109", "prompt": "A person is wearing a chef's hat and cooking a meal."}
+{"prompt_id": "T2I-non_spatial-115", "prompt": "A couple is enjoying a picnic in the park."}
+{"prompt_id": "T2I-non_spatial-117", "prompt": "The wind is whistling through the trees."}
+{"prompt_id": "T2I-non_spatial-122", "prompt": "A child is playing with a toy train and creating a miniature world."}
+{"prompt_id": "T2I-non_spatial-123", "prompt": "A couple is watching a movie on the couch."}
+{"prompt_id": "T2I-non_spatial-125", "prompt": "The skater gracefully glided across the ice, performing intricate moves and jumps."}
+{"prompt_id": "T2I-non_spatial-126", "prompt": "A dancer is practicing their routine, perfecting each step and movement."}
+{"prompt_id": "T2I-non_spatial-134", "prompt": "The writer is brainstorming ideas for a new book."}
+{"prompt_id": "T2I-non_spatial-136", "prompt": "A couple is relaxing in a hammock under the shade of a tree."}
+{"prompt_id": "T2I-non_spatial-138", "prompt": "A couple is taking a romantic bike ride through the countryside."}
+{"prompt_id": "T2I-non_spatial-140", "prompt": "A child is playing with a jump ball and bouncing it up and down."}
+{"prompt_id": "T2I-non_spatial-141", "prompt": "A person is nodding in agreement."}
+{"prompt_id": "T2I-non_spatial-146", "prompt": "A dog is wagging its tail and greeting a visitor."}
+{"prompt_id": "T2I-non_spatial-147", "prompt": "A person is holding a piece of fruit and taking a bite."}
+{"prompt_id": "T2I-non_spatial-149", "prompt": "A person is jumping on a trampoline and having a blast."}
+{"prompt_id": "T2I-non_spatial-150", "prompt": "A dog is jumping over a hurdle and competing in an agility course."}
+{"prompt_id": "T2I-non_spatial-153", "prompt": "A dog is cuddling with its owner and showing affection."}
+{"prompt_id": "T2I-non_spatial-154", "prompt": "A couple is cuddled up in front of a cozy fireplace."}
+{"prompt_id": "T2I-non_spatial-157", "prompt": "The artist painted a stunning landscape of a waterfall cascading into a pool."}
+{"prompt_id": "T2I-non_spatial-158", "prompt": "The boxer is training with a punching bag at the gym."}
+{"prompt_id": "T2I-non_spatial-160", "prompt": "A book is lying open on a coffee table, waiting to be read."}
+{"prompt_id": "T2I-non_spatial-161", "prompt": "A man is holding a violin and playing a beautiful melody."}
+{"prompt_id": "T2I-non_spatial-165", "prompt": "A child is holding a balloon at a birthday party."}
+{"prompt_id": "T2I-non_spatial-171", "prompt": "The calligrapher is writing in beautiful script with a quill pen."}
+{"prompt_id": "T2I-non_spatial-172", "prompt": "The magician is performing a trick with cards."}
+{"prompt_id": "T2I-non_spatial-174", "prompt": "The mountain biker is navigating a rocky trail."}
+{"prompt_id": "T2I-non_spatial-176", "prompt": "A man is holding a rake and raking leaves in the yard."}
+{"prompt_id": "T2I-non_spatial-178", "prompt": "A musician is composing a new song, experimenting with melodies and lyrics."}
+{"prompt_id": "T2I-non_spatial-180", "prompt": "A person is wearing sunglasses on a sunny day."}
+{"prompt_id": "T2I-non_spatial-181", "prompt": "A woman is holding a basket of laundry and heading to the washing machine."}
+{"prompt_id": "T2I-non_spatial-182", "prompt": "A person is jumping over a hurdle and training for a race."}
+{"prompt_id": "T2I-non_spatial-183", "prompt": "A child is playing with a toy robot and making it move around."}
+{"prompt_id": "T2I-non_spatial-184", "prompt": "A couple is watching a movie and snuggled up on the couch."}
+{"prompt_id": "T2I-non_spatial-187", "prompt": "The painter is putting a fresh coat of paint on the walls."}
+{"prompt_id": "T2I-non_spatial-189", "prompt": "A child is playing with a kite and watching it soar high in the sky."}
+{"prompt_id": "T2I-non_spatial-192", "prompt": "The florist is arranging a bouquet of flowers."}
+{"prompt_id": "T2I-non_spatial-198", "prompt": "A dog is chasing a ball and having fun in the park."}
+{"prompt_id": "T2I-non_spatial-199", "prompt": "A child is playing with a toy building set and creating a tower."}
+{"prompt_id": "T2I-non_spatial-201", "prompt": "A child is jumping rope in the schoolyard."}
+{"prompt_id": "T2I-non_spatial-208", "prompt": "A skier is gliding down a snow-covered mountain."}
+{"prompt_id": "T2I-non_spatial-210", "prompt": "A child is playing with a frisbee and throwing it back and forth."}
+{"prompt_id": "T2I-non_spatial-212", "prompt": "The climber is scaling a rock face with ropes and gear."}
+{"prompt_id": "T2I-non_spatial-213", "prompt": "A woman is practicing her violin in her music room."}
+{"prompt_id": "T2I-non_spatial-214", "prompt": "A person is looking at a sunset and feeling peaceful."}
+{"prompt_id": "T2I-non_spatial-215", "prompt": "The customer is trying on shoes at the store."}
+{"prompt_id": "T2I-non_spatial-218", "prompt": "A child is playing with a Frisbee and trying to catch it."}
+{"prompt_id": "T2I-non_spatial-221", "prompt": "A man is raking leaves in the front yard."}
+{"prompt_id": "T2I-non_spatial-228", "prompt": "A train is passing through a station."}
+{"prompt_id": "T2I-non_spatial-231", "prompt": "A woman is holding a bouquet of flowers on her wedding day."}
+{"prompt_id": "T2I-non_spatial-233", "prompt": "A person is wearing a chef's hat and cooking a gourmet meal."}
+{"prompt_id": "T2I-non_spatial-235", "prompt": "A dog is sitting next to its owner and listening to commands."}
+{"prompt_id": "T2I-non_spatial-237", "prompt": "A toddler clumsily chased after a ball, giggling with delight."}
+{"prompt_id": "T2I-non_spatial-239", "prompt": "A group of friends is playing board games on a rainy day."}
+{"prompt_id": "T2I-non_spatial-242", "prompt": "A woman is holding a plate of food and serving it to guests."}
+{"prompt_id": "T2I-non_spatial-243", "prompt": "A cat is wearing a collar with a bell on it."}
+{"prompt_id": "T2I-non_spatial-246", "prompt": "The dancer is performing a ballet on pointe."}
+{"prompt_id": "T2I-non_spatial-248", "prompt": "A woman is holding a yoga pose and breathing deeply."}
+{"prompt_id": "T2I-non_spatial-252", "prompt": "A person is bungee jumping off a bridge."}
+{"prompt_id": "T2I-non_spatial-253", "prompt": "A dog is playing with a tennis ball and running after it."}
+{"prompt_id": "T2I-non_spatial-255", "prompt": "A couple is enjoying a candlelit dinner at a restaurant."}
+{"prompt_id": "T2I-non_spatial-256", "prompt": "A child is playing with a toy airplane and making it fly."}
+{"prompt_id": "T2I-non_spatial-262", "prompt": "A father is teaching his son how to ride a bike in the park."}
+{"prompt_id": "T2I-non_spatial-264", "prompt": "A woman is sitting on a bench and writing in a journal."}
+{"prompt_id": "T2I-non_spatial-265", "prompt": "A woman is watching her child play at the playground."}
+{"prompt_id": "T2I-non_spatial-266", "prompt": "A dog is running after a frisbee in the park."}
+{"prompt_id": "T2I-non_spatial-276", "prompt": "A man is running a marathon and crossing the finish line."}
+{"prompt_id": "T2I-non_spatial-288", "prompt": "A woman is holding a guitar and strumming a tune."}
+{"prompt_id": "T2I-non_spatial-289", "prompt": "The sun is setting over the mountains."}
+{"prompt_id": "T2IX-non_spatial-train-0002", "prompt": "A butterfly is fluttering in the garden."}
+{"prompt_id": "T2IX-non_spatial-train-0003", "prompt": "A child is playing with a toy train set and creating a mini world."}
+{"prompt_id": "T2IX-non_spatial-train-0006", "prompt": "A person is looking at a meteor shower and feeling wonderstruck."}
+{"prompt_id": "T2IX-non_spatial-train-0013", "prompt": "A person is walking with an umbrella in the rain."}
+{"prompt_id": "T2IX-non_spatial-train-0014", "prompt": "A musician is playing guitar on a street corner for tips."}
+{"prompt_id": "T2IX-non_spatial-train-0015", "prompt": "A person is standing on a scale and checking their weight."}
+{"prompt_id": "T2IX-non_spatial-train-0016", "prompt": "A person is jumping rope and getting in a workout."}
+{"prompt_id": "T2IX-non_spatial-train-0017", "prompt": "A person is looking at a tropical beach and feeling relaxed."}
+{"prompt_id": "T2IX-non_spatial-train-0018", "prompt": "A woman is doing aerobics in her living room."}
+{"prompt_id": "T2IX-non_spatial-train-0019", "prompt": "A child is playing with a toy train and making choo-choo sounds."}
+{"prompt_id": "T2IX-non_spatial-train-0022", "prompt": "A baby is cooing and giggling in their crib."}
+{"prompt_id": "T2IX-non_spatial-train-0034", "prompt": "A person is tapping their foot impatiently."}
+{"prompt_id": "T2IX-non_spatial-train-0037", "prompt": "A person is holding a guitar and playing a song for a loved one."}
+{"prompt_id": "T2IX-non_spatial-train-0045", "prompt": "A dog is barking at a squirrel and chasing it up a tree."}
+{"prompt_id": "T2IX-non_spatial-train-0049", "prompt": "A group of colleagues are bonding over lunch, chatting and joking with each other."}
+{"prompt_id": "T2IX-non_spatial-train-0054", "prompt": "A person is looking at a full moon and feeling awe-inspired."}
+{"prompt_id": "T2IX-non_spatial-train-0062", "prompt": "A person is birdwatching in the woods."}
+{"prompt_id": "T2IX-non_spatial-train-0068", "prompt": "A woman is holding an umbrella and walking in the snow."}
+{"prompt_id": "T2IX-non_spatial-train-0072", "prompt": "A person is holding a calculator and doing some math problems."}
+{"prompt_id": "T2IX-non_spatial-train-0074", "prompt": "A dog is snuggling with a blanket and taking a nap."}
+{"prompt_id": "T2IX-non_spatial-train-0078", "prompt": "A person is holding a pencil and drawing a sketch."}
+{"prompt_id": "T2IX-non_spatial-train-0084", "prompt": "A dog is barking at a squirrel in a tree."}
+{"prompt_id": "T2IX-non_spatial-train-0102", "prompt": "A man is repairing a fence in the backyard."}
+{"prompt_id": "T2IX-non_spatial-train-0105", "prompt": "A group of friends are playing beach volleyball."}
+{"prompt_id": "T2IX-non_spatial-train-0106", "prompt": "The chef is plating a gourmet dish with precision and artistry."}
+{"prompt_id": "T2IX-non_spatial-train-0113", "prompt": "A man is holding a fishing rod and trying to catch a fish."}
+{"prompt_id": "T2IX-non_spatial-train-0115", "prompt": "A child is playing with a toy doctor's kit and checking their stuffed animals' health."}
+{"prompt_id": "T2IX-non_spatial-train-0118", "prompt": "A man is playing the drums in a band."}
+{"prompt_id": "T2IX-non_spatial-train-0120", "prompt": "A mountain is towering in the distance."}
+{"prompt_id": "T2IX-non_spatial-train-0124", "prompt": "A person is looking at a sculpture and appreciating its artistry."}
+{"prompt_id": "T2IX-non_spatial-train-0126", "prompt": "A person is standing on a balance beam and practicing their gymnastics."}
+{"prompt_id": "T2IX-non_spatial-train-0129", "prompt": "A woman is wearing a scarf and talking on the phone."}
+{"prompt_id": "T2IX-non_spatial-train-0134", "prompt": "The baker is kneading dough for bread."}
+{"prompt_id": "T2IX-non_spatial-train-0137", "prompt": "A woman is picking flowers in a meadow."}
+{"prompt_id": "T2IX-non_spatial-train-0139", "prompt": "A woman is practicing photography in the city."}
+{"prompt_id": "T2IX-non_spatial-train-0144", "prompt": "A person is standing on a balance beam and practicing gymnastics."}
+{"prompt_id": "T2IX-non_spatial-train-0145", "prompt": "A woman is holding a bouquet of flowers while standing by a lake."}
+{"prompt_id": "T2IX-non_spatial-train-0147", "prompt": "A man is holding a guitar and strumming a tune."}
+{"prompt_id": "T2IX-non_spatial-train-0149", "prompt": "A man is sitting on a bench reading a book."}
+{"prompt_id": "T2IX-non_spatial-train-0159", "prompt": "A construction worker is hammering nails into a new building."}
+{"prompt_id": "T2IX-non_spatial-train-0166", "prompt": "A cow is mooing in the pasture."}
+{"prompt_id": "T2IX-non_spatial-train-0169", "prompt": "A family is roasting marshmallows over a campfire."}
+{"prompt_id": "T2IX-non_spatial-train-0174", "prompt": "A dog is rolling around in the grass and having fun."}
+{"prompt_id": "T2IX-non_spatial-train-0175", "prompt": "A person is holding a book and reading a thrilling novel."}
+{"prompt_id": "T2IX-non_spatial-train-0176", "prompt": "A dog is sitting on a park bench and watching people pass by."}
+{"prompt_id": "T2IX-non_spatial-train-0179", "prompt": "A woman is holding a baby and rocking it to sleep."}
+{"prompt_id": "T2IX-non_spatial-train-0187", "prompt": "The seamstress carefully sewed the fabric together, creating a beautiful garment."}
+{"prompt_id": "T2IX-non_spatial-train-0189", "prompt": "A bird is singing in the morning."}
+{"prompt_id": "T2IX-non_spatial-train-0191", "prompt": "A person is looking at a beautiful garden and feeling relaxed."}
+{"prompt_id": "T2IX-non_spatial-train-0195", "prompt": "A man is holding a drill and fixing a shelf."}
+{"prompt_id": "T2IX-non_spatial-train-0196", "prompt": "A person is taking a scenic drive through the mountains."}
+{"prompt_id": "T2IX-non_spatial-train-0202", "prompt": "The interior designer is creating a beautiful living room for a client."}
+{"prompt_id": "T2IX-non_spatial-train-0208", "prompt": "A dog is running alongside its owner and enjoying the fresh air."}
+{"prompt_id": "T2IX-non_spatial-train-0216", "prompt": "The swimmer is diving into the pool for a race."}
+{"prompt_id": "T2IX-non_spatial-train-0220", "prompt": "A waterfall is cascading down a cliff."}
+{"prompt_id": "T2IX-non_spatial-train-0221", "prompt": "A person is holding a microphone and delivering a speech to an audience."}
+{"prompt_id": "T2IX-non_spatial-train-0226", "prompt": "The skater is doing tricks on the halfpipe."}
+{"prompt_id": "T2IX-non_spatial-train-0227", "prompt": "A baby is taking their first steps with the help of their parents."}
+{"prompt_id": "T2IX-non_spatial-train-0229", "prompt": "A person is wearing sunglasses and people-watching at a café."}
+{"prompt_id": "T2IX-non_spatial-train-0234", "prompt": "A person is holding a magnifying glass and examining a bug."}
+{"prompt_id": "T2IX-non_spatial-train-0241", "prompt": "A man is holding a basketball and shooting hoops."}
+{"prompt_id": "T2IX-non_spatial-train-0245", "prompt": "A dog is lying on a cushion and wagging its tail."}
+{"prompt_id": "T2IX-non_spatial-train-0248", "prompt": "A couple is dancing at a wedding reception."}
+{"prompt_id": "T2IX-non_spatial-train-0253", "prompt": "The geologist is studying rock formations in a canyon."}
+{"prompt_id": "T2IX-non_spatial-train-0256", "prompt": "The poet scribbled down thoughts and emotions in their journal, preparing for their next piece."}
+{"prompt_id": "T2IX-non_spatial-train-0258", "prompt": "A person is holding a pen and writing in a journal."}
+{"prompt_id": "T2IX-non_spatial-train-0259", "prompt": "A person is looking at a hot air balloon and feeling curious."}
+{"prompt_id": "T2IX-non_spatial-train-0263", "prompt": "A child is feeding ducks at the pond."}
+{"prompt_id": "T2IX-non_spatial-train-0269", "prompt": "A group of coworkers are brainstorming ideas for a new project, bouncing suggestions off each other."}
+{"prompt_id": "T2IX-non_spatial-train-0281", "prompt": "A group of volunteers are cleaning up a beach, picking up litter and debris."}
+{"prompt_id": "T2IX-non_spatial-train-0283", "prompt": "A child is building a sandcastle on the beach."}
+{"prompt_id": "T2IX-non_spatial-train-0284", "prompt": "A woman is holding a paintbrush and creating a masterpiece."}
+{"prompt_id": "T2IX-non_spatial-train-0285", "prompt": "The bartender is pouring a drink for the customer."}
+{"prompt_id": "T2IX-non_spatial-train-0286", "prompt": "A person is looking at a cloud formation and seeing different shapes."}
+{"prompt_id": "T2IX-non_spatial-train-0296", "prompt": "A woman is wearing a scarf and hat while walking in the snow."}
+{"prompt_id": "T2IX-non_spatial-train-0303", "prompt": "A person is holding a bottle of water and taking a sip."}
+{"prompt_id": "T2IX-non_spatial-train-0304", "prompt": "A man is holding a microphone and singing on stage."}
+{"prompt_id": "T2IX-non_spatial-train-0306", "prompt": "The cyclist took a sip of water from their bottle, feeling re-energized."}
+{"prompt_id": "T2IX-non_spatial-train-0308", "prompt": "A dog is running through a field of flowers."}
+{"prompt_id": "T2IX-non_spatial-train-0317", "prompt": "A woman is holding a microphone and interviewing a celebrity."}
+{"prompt_id": "T2IX-non_spatial-train-0319", "prompt": "A dog is lounging in the sun and enjoying a lazy afternoon."}
+{"prompt_id": "T2IX-non_spatial-train-0323", "prompt": "A flower is blooming in the field."}
+{"prompt_id": "T2IX-non_spatial-train-0327", "prompt": "A cat is purring on a lap."}
+{"prompt_id": "T2IX-non_spatial-train-0330", "prompt": "A person is meditating under a tree in the woods."}
+{"prompt_id": "T2IX-non_spatial-train-0333", "prompt": "A fish is swimming in a pond."}
+{"prompt_id": "T2IX-non_spatial-train-0341", "prompt": "A couple is watching the sunset and holding hands on the beach."}
+{"prompt_id": "T2IX-non_spatial-train-0349", "prompt": "A scientist is conducting an experiment in the lab, carefully measuring and recording data."}
+{"prompt_id": "T2IX-non_spatial-train-0357", "prompt": "A man is holding a chainsaw and cutting down a tree."}
+{"prompt_id": "T2IX-non_spatial-train-0360", "prompt": "The photographer framed the shot carefully, making sure everything was in focus."}
+{"prompt_id": "T2IX-non_spatial-train-0365", "prompt": "The little girl giggled as she blew bubbles into the air."}
+{"prompt_id": "T2IX-non_spatial-train-0369", "prompt": "The musician is playing a guitar solo on stage."}
+{"prompt_id": "T2IX-non_spatial-train-0370", "prompt": "The yoga practitioner is holding a challenging pose."}
+{"prompt_id": "T2IX-non_spatial-train-0371", "prompt": "A person is holding a basketball and shooting hoops at the court."}
+{"prompt_id": "T2IX-non_spatial-train-0374", "prompt": "The voice actor is recording lines for an animated movie."}
+{"prompt_id": "T2IX-non_spatial-train-0380", "prompt": "A couple is watching a movie and cuddling on the couch."}
+{"prompt_id": "T2IX-non_spatial-train-0383", "prompt": "A dog is howling at a distant siren."}
+{"prompt_id": "T2IX-non_spatial-train-0391", "prompt": "A train is chugging along a scenic countryside."}
+{"prompt_id": "T2IX-non_spatial-train-0392", "prompt": "A woman is standing on a ladder to change a light bulb."}
+{"prompt_id": "T2IX-non_spatial-train-0394", "prompt": "A butterfly is fluttering by a bed of flowers."}
+{"prompt_id": "T2IX-non_spatial-train-0399", "prompt": "A man is playing a video game in the living room."}
+{"prompt_id": "T2IX-non_spatial-train-0401", "prompt": "A man is holding a camera and capturing a beautiful landscape."}
+{"prompt_id": "T2IX-non_spatial-train-0405", "prompt": "A butterfly is emerging from its cocoon, spreading its wings for the first time."}
+{"prompt_id": "T2IX-non_spatial-train-0411", "prompt": "A man is holding a wrench and fixing a leaky faucet."}
+{"prompt_id": "T2IX-non_spatial-train-0412", "prompt": "A frog is croaking by a pond."}
+{"prompt_id": "T2IX-non_spatial-train-0416", "prompt": "A person is jumping rope and getting a good cardio workout."}
+{"prompt_id": "T2IX-non_spatial-train-0418", "prompt": "A person is holding a hose and watering plants in a garden."}
+{"prompt_id": "T2IX-non_spatial-train-0421", "prompt": "A man is walking his horse along a country road."}
+{"prompt_id": "T2IX-non_spatial-train-0425", "prompt": "A child is running through a sprinkler and laughing."}
+{"prompt_id": "T2IX-non_spatial-train-0426", "prompt": "A child is playing with a remote control car and making it do tricks."}
+{"prompt_id": "T2IX-non_spatial-train-0427", "prompt": "A person is scratching their head in confusion."}
+{"prompt_id": "T2IX-non_spatial-train-0429", "prompt": "The sun is setting behind a row of palm trees on the beach."}
+{"prompt_id": "T2IX-non_spatial-train-0436", "prompt": "A child is playing with a toy kitchen set and cooking up imaginary meals."}
+{"prompt_id": "T2IX-non_spatial-train-0441", "prompt": "A man is holding a golf club and getting ready to tee off."}
+{"prompt_id": "T2IX-non_spatial-train-0443", "prompt": "A group of coworkers is brainstorming in a meeting room."}
+{"prompt_id": "T2IX-non_spatial-train-0449", "prompt": "A child is playing with a toy telescope and gazing at the stars."}
+{"prompt_id": "T2IX-non_spatial-train-0451", "prompt": "The farmer is milking a cow in the barn."}
+{"prompt_id": "T2IX-non_spatial-train-0458", "prompt": "A child is playing with a toy airplane and making airplane noises."}
+{"prompt_id": "T2IX-non_spatial-train-0460", "prompt": "A person is looking at a collection of vintage records and reminiscing about their youth."}
+{"prompt_id": "T2IX-non_spatial-train-0463", "prompt": "A person is standing on a chair and reaching for a high shelf."}
+{"prompt_id": "T2IX-non_spatial-train-0465", "prompt": "A man is jogging through the city streets."}
+{"prompt_id": "T2IX-non_spatial-train-0466", "prompt": "A swimmer is diving into a pool, feeling the cool water rush over them."}
+{"prompt_id": "T2IX-non_spatial-train-0467", "prompt": "A parent is teaching their child to swim, helping them gain confidence in the water."}
+{"prompt_id": "T2IX-non_spatial-train-0468", "prompt": "A snake is slithering in the grass."}
+{"prompt_id": "T2IX-non_spatial-train-0481", "prompt": "The seamstress is sewing a dress on a mannequin."}
+{"prompt_id": "T2IX-non_spatial-train-0487", "prompt": "A woman is holding a bouquet of flowers and walking down the aisle."}
+{"prompt_id": "T2IX-non_spatial-train-0489", "prompt": "A chef is tossing a pizza in the air before putting it in the oven."}
+{"prompt_id": "T2IX-non_spatial-train-0498", "prompt": "A child is playing with a kite on a windy day."}
+{"prompt_id": "T2IX-non_spatial-train-0499", "prompt": "A woman is reading a book under a tree in the park."}
+{"prompt_id": "T2IX-non_spatial-train-0504", "prompt": "A group of coworkers are attending a conference, learning new skills and networking."}
+{"prompt_id": "T2IX-non_spatial-train-0507", "prompt": "A person is wearing a swimsuit and lounging by the pool."}
+{"prompt_id": "T2IX-non_spatial-train-0513", "prompt": "A spider is crawling up a wall."}
+{"prompt_id": "T2IX-non_spatial-train-0515", "prompt": "A couple is holding hands while walking along the river."}
+{"prompt_id": "T2IX-non_spatial-train-0520", "prompt": "A spider is hanging from a thread."}
+{"prompt_id": "T2IX-non_spatial-train-0522", "prompt": "The lifeguard scanned the beach, making sure everyone was safe in the water."}
+{"prompt_id": "T2IX-non_spatial-train-0527", "prompt": "A child is playing with a kite at the park."}
+{"prompt_id": "T2IX-non_spatial-train-0528", "prompt": "The runner felt the wind in their hair as they sprinted down the track."}
+{"prompt_id": "T2IX-non_spatial-train-0529", "prompt": "A person is looking at a lightning storm and feeling amazed."}
+{"prompt_id": "T2IX-non_spatial-train-0538", "prompt": "A woman is holding a pen and drafting a letter to a loved one."}
+{"prompt_id": "T2IX-non_spatial-train-0549", "prompt": "The bartender is mixing a cocktail at the bar."}
+{"prompt_id": "T2IX-non_spatial-train-0557", "prompt": "A dog is wagging its tail and greeting its owner."}
+{"prompt_id": "T2IX-non_spatial-train-0559", "prompt": "A person is holding a pen and writing a heartfelt letter."}
+{"prompt_id": "T2IX-non_spatial-train-0560", "prompt": "A person is waving hello to a stranger."}
+{"prompt_id": "T2IX-non_spatial-train-0564", "prompt": "The athlete is training at the gym."}
+{"prompt_id": "T2IX-non_spatial-train-0568", "prompt": "A person is wearing a winter coat and walking through the snow."}
+{"prompt_id": "T2IX-non_spatial-train-0590", "prompt": "A person is practicing martial arts in the gym."}
+{"prompt_id": "T2IX-non_spatial-train-0591", "prompt": "A person is holding a book and losing themselves in a novel."}
+{"prompt_id": "T2IX-non_spatial-train-0592", "prompt": "A spider is spinning a web on a window."}
+{"prompt_id": "T2IX-non_spatial-train-0593", "prompt": "A bird is perched on a tree branch, singing a beautiful melody."}
+{"prompt_id": "T2IX-non_spatial-train-0596", "prompt": "A dog is sniffing around a fire hydrant."}
+{"prompt_id": "T2IX-non_spatial-train-0599", "prompt": "A woman is doing pottery in her studio."}
+{"prompt_id": "T2IX-non_spatial-train-0600", "prompt": "A woman is holding a chef's knife and chopping vegetables for a salad."}
+{"prompt_id": "T2IX-non_spatial-train-0604", "prompt": "A child is playing with a toy microscope and examining tiny objects."}
+{"prompt_id": "T2IX-non_spatial-train-0607", "prompt": "A person is standing on a balance board and practicing their balance."}
+{"prompt_id": "T2IX-non_spatial-train-0609", "prompt": "A child is playing with a jump rope and trying to do tricks."}
+{"prompt_id": "T2IX-non_spatial-train-0611", "prompt": "The construction worker is drilling a hole in the wall."}
+{"prompt_id": "T2IX-non_spatial-train-0625", "prompt": "A person is taking a hot air balloon ride over a canyon."}
+{"prompt_id": "T2IX-non_spatial-train-0626", "prompt": "A person is looking at a stained glass window and marveling at its beauty."}
+{"prompt_id": "T2IX-non_spatial-train-0639", "prompt": "A person is standing on a ladder and changing a light bulb."}
+{"prompt_id": "T2IX-non_spatial-train-0640", "prompt": "A teenager is skateboarding in a skate park."}
+{"prompt_id": "T2IX-non_spatial-train-0641", "prompt": "A man is holding a laptop and typing an important document."}
+{"prompt_id": "T2IX-non_spatial-train-0642", "prompt": "A woman is holding a baby and soothing it to sleep."}
+{"prompt_id": "T2IX-non_spatial-train-0649", "prompt": "A woman is practicing ballet in a studio."}
+{"prompt_id": "T2IX-non_spatial-train-0655", "prompt": "A puppy is chewing on a bone, contentedly wagging its tail."}
+{"prompt_id": "T2IX-non_spatial-train-0661", "prompt": "A person is holding a telescope and looking at the moon."}
+{"prompt_id": "T2IX-non_spatial-train-0664", "prompt": "A dog is sniffing around a garden and exploring new smells."}
+{"prompt_id": "T2IX-non_spatial-train-0665", "prompt": "The ocean waves are crashing on the shore."}
+{"prompt_id": "T2IX-non_spatial-train-0666", "prompt": "A person is wearing a swimsuit and splashing in a pool."}
+{"prompt_id": "T2IX-non_spatial-train-0669", "prompt": "A person is looking at a work of art and feeling moved."}
+{"prompt_id": "T2IX-non_spatial-train-0673", "prompt": "A woman is holding a baby in her arms and rocking them to sleep."}
+{"prompt_id": "T2IX-non_spatial-train-0679", "prompt": "A woman is admiring a painting at the museum."}
+{"prompt_id": "T2IX-non_spatial-train-0680", "prompt": "A man is playing basketball at the court."}
+{"prompt_id": "T2IX-non_spatial-train-0683", "prompt": "A man is holding a clipboard and taking notes."}
+{"prompt_id": "T2IX-non_spatial-train-0691", "prompt": "A person is looking at a painting in a museum."}
+{"prompt_id": "T2IX-non_spatial-train-0692", "prompt": "The shopper carefully examined each item on the shelf before making a purchase."}
+{"prompt_id": "T2IX-non_spatial-train-0698", "prompt": "A woman is holding a laptop and working from home."}
+{"prompt_id": "T2IX-non_spatial-val-0007", "prompt": "A child is running around a playground and playing with friends."}
+{"prompt_id": "T2IX-non_spatial-val-0016", "prompt": "A person is getting a relaxing massage, feeling tension melt away from their muscles."}
+{"prompt_id": "T2IX-non_spatial-val-0022", "prompt": "A woman is holding a paint can and redecorating a room."}
+{"prompt_id": "T2IX-non_spatial-val-0030", "prompt": "A man is holding a briefcase and rushing to catch a train."}
+{"prompt_id": "T2IX-non_spatial-val-0039", "prompt": "A woman is shopping for fresh produce at the farmer's market."}
+{"prompt_id": "T2IX-non_spatial-val-0041", "prompt": "The textile artist is weaving a tapestry on a loom."}
+{"prompt_id": "T2IX-non_spatial-val-0057", "prompt": "A person is standing on a ladder and fixing a leaky roof."}
+{"prompt_id": "T2IX-non_spatial-val-0062", "prompt": "A couple is holding hands and walking through a park."}
+{"prompt_id": "T2IX-non_spatial-val-0074", "prompt": "A woman is holding a slice of pizza and taking a bite."}
+{"prompt_id": "T2IX-non_spatial-val-0075", "prompt": "A person is holding a calculator and working on a math problem."}
+{"prompt_id": "T2IX-non_spatial-val-0091", "prompt": "A boat is sailing on a lake."}
+{"prompt_id": "T2IX-non_spatial-val-0096", "prompt": "A couple is cuddled up together on a park bench."}
+{"prompt_id": "T2IX-non_spatial-val-0097", "prompt": "A person is jumping on a trampoline and feeling exhilarated."}
+{"prompt_id": "T2IX-non_spatial-val-0108", "prompt": "A man is building a birdhouse in his workshop."}
+{"prompt_id": "T2IX-non_spatial-val-0110", "prompt": "A person is running on a treadmill and working up a sweat."}
+{"prompt_id": "T2IX-non_spatial-val-0119", "prompt": "The model is posing for a fashion photoshoot."}
+{"prompt_id": "T2IX-non_spatial-val-0127", "prompt": "A child is playing with a toy kitchen and making imaginary meals."}
+{"prompt_id": "T2IX-non_spatial-val-0128", "prompt": "A child is holding a book and reading it in bed."}
+{"prompt_id": "T2IX-non_spatial-val-0132", "prompt": "A woman is practicing her painting skills in an art studio."}
+{"prompt_id": "T2IX-non_spatial-val-0156", "prompt": "A woman is holding a baby and cooing to soothe them."}
+{"prompt_id": "T2IX-non_spatial-val-0167", "prompt": "A dog is playing tug-of-war with its owner and wagging its tail."}
+{"prompt_id": "T2IX-non_spatial-val-0168", "prompt": "A woman is holding a hammer and nailing a picture to the wall."}
+{"prompt_id": "T2IX-non_spatial-val-0185", "prompt": "A dog is walking on a leash with its owner."}
+{"prompt_id": "T2IX-non_spatial-val-0191", "prompt": "A person is looking at a map and trying to find their way."}
+{"prompt_id": "T2IX-non_spatial-val-0194", "prompt": "A gardener is pruning a beautiful bonsai tree."}
+{"prompt_id": "T2IX-non_spatial-val-0200", "prompt": "A child is playing with a bubble wand and creating a sea of bubbles."}
+{"prompt_id": "T2IX-non_spatial-val-0222", "prompt": "A couple is stargazing on a hill."}
+{"prompt_id": "T2IX-non_spatial-val-0224", "prompt": "A person is wearing a graduation cap and gown and receiving their diploma."}
+{"prompt_id": "T2IX-non_spatial-val-0247", "prompt": "A person is holding a backpack sprayer and spraying weeds in a garden."}
+{"prompt_id": "T2IX-non_spatial-val-0259", "prompt": "A person is holding a pencil and sketching a portrait."}
+{"prompt_id": "T2IX-non_spatial-val-0261", "prompt": "A person is holding a megaphone and leading a protest."}
+{"prompt_id": "T2IX-non_spatial-val-0270", "prompt": "A man is playing pool at the local bar."}
+{"prompt_id": "T2IX-non_spatial-val-0271", "prompt": "The painter is creating a landscape painting on canvas."}
+{"prompt_id": "T2IX-non_spatial-val-0274", "prompt": "A person is walking with a colleague and discussing a project."}
+{"prompt_id": "T2IX-non_spatial-val-0278", "prompt": "A woman is doing yoga on the beach at sunrise."}
+{"prompt_id": "T2IX-non_spatial-val-0284", "prompt": "A man is kayaking on a lake."}
+{"prompt_id": "T2IX-non_spatial-val-0294", "prompt": "A man is holding a telescope and observing the night sky."}
+{"prompt_id": "T2IX-non_spatial-val-0300", "prompt": "A child is playing with a toy construction set and building a tower."}
+{"prompt_id": "T2I-complex-003", "prompt": "The black phone was resting on the brown charger."}
+{"prompt_id": "T2I-complex-011", "prompt": "The rectangular mirror was hung above the white sink."}
+{"prompt_id": "T2I-complex-012", "prompt": "The black chair is on top of the blue rug."}
+{"prompt_id": "T2I-complex-013", "prompt": "The black chair was on the left of the white table."}
+{"prompt_id": "T2I-complex-018", "prompt": "The red apple was on top of the black plate."}
+{"prompt_id": "T2I-complex-019", "prompt": "The striped rug was on top of the tiled floor."}
+{"prompt_id": "T2I-complex-020", "prompt": "The striped rug was on top of the wooden floor."}
+{"prompt_id": "T2I-complex-026", "prompt": "The rectangular mirror was hung above the wooden dresser."}
+{"prompt_id": "T2I-complex-028", "prompt": "The brown boots were on top of the wooden shoe rack."}
+{"prompt_id": "T2I-complex-029", "prompt": "The green plant was on the left of the yellow lamp."}
+{"prompt_id": "T2I-complex-031", "prompt": "The fluffy cat was lying on the soft blanket."}
+{"prompt_id": "T2I-complex-032", "prompt": "The soft towel was on top of the hard counter."}
+{"prompt_id": "T2I-complex-033", "prompt": "The white book was on top of the blue shelf."}
+{"prompt_id": "T2I-complex-034", "prompt": "The white mug is on top of the black coaster."}
+{"prompt_id": "T2I-complex-036", "prompt": "The round clock was on the right of the wooden picture frame."}
+{"prompt_id": "T2I-complex-037", "prompt": "The round clock was on the left of the rectangular picture frame."}
+{"prompt_id": "T2I-complex-040", "prompt": "The red apple was next to the oval plate."}
+{"prompt_id": "T2I-complex-046", "prompt": "The green plant was on the left of the white lamp."}
+{"prompt_id": "T2I-complex-048", "prompt": "The oval mirror is hung above the white sink."}
+{"prompt_id": "T2I-complex-050", "prompt": "The rectangular mirror was hung above the blue sink."}
+{"prompt_id": "T2I-complex-057", "prompt": "The red apple was next to the yellow pear."}
+{"prompt_id": "T2I-complex-064", "prompt": "The square book was on top of the blue table."}
+{"prompt_id": "T2I-complex-067", "prompt": "The silver fork was resting on the brown napkin."}
+{"prompt_id": "T2I-complex-071", "prompt": "The white shirt was on the black hanger."}
+{"prompt_id": "T2I-complex-074", "prompt": "The soft pillow was on top of the wooden chair."}
+{"prompt_id": "T2I-complex-076", "prompt": "The warm yellow light shone down on the cozy red armchair."}
+{"prompt_id": "T2I-complex-079", "prompt": "The soft pink petals of the cherry blossom contrasted with the rough brown bark."}
+{"prompt_id": "T2I-complex-082", "prompt": "The sleek black briefcase sat on the clean white sofa."}
+{"prompt_id": "T2I-complex-084", "prompt": "The sleek black laptop sat on the clean white desk."}
+{"prompt_id": "T2I-complex-085", "prompt": "The shiny silver watch ticked on the rough wooden table."}
+{"prompt_id": "T2I-complex-087", "prompt": "The striped black and white cat lay next to the soft grey blanket."}
+{"prompt_id": "T2I-complex-091", "prompt": "The rough brown bark of the tree contrasted with the smooth green leaves."}
+{"prompt_id": "T2I-complex-093", "prompt": "The warm yellow light shone down on the colorful fruit market."}
+{"prompt_id": "T2I-complex-094", "prompt": "The warm yellow light shone down on the colorful fall leaves."}
+{"prompt_id": "T2I-complex-098", "prompt": "The soft white feathers of the owl contrasted with the sharp black talons."}
+{"prompt_id": "T2I-complex-100", "prompt": "The soft pink pillow leaned against the hard wooden chair."}
+{"prompt_id": "T2I-complex-101", "prompt": "The colorful hot air balloon floated near the dark grey storm clouds."}
+{"prompt_id": "T2I-complex-106", "prompt": "The fluffy white cat snuggled up next to the warm brown blanket."}
+{"prompt_id": "T2I-complex-107", "prompt": "The sleek black dress hung on the clean white hanger."}
+{"prompt_id": "T2I-complex-111", "prompt": "The shiny silver ring sparkled on the rough wooden table."}
+{"prompt_id": "T2I-complex-116", "prompt": "The colorful parrot sat next to the sleek black cage."}
+{"prompt_id": "T2I-complex-117", "prompt": "The juicy red tomato lay next to the ripe orange pepper."}
+{"prompt_id": "T2I-complex-118", "prompt": "The sweet red strawberry lay next to the tart green apple."}
+{"prompt_id": "T2I-complex-119", "prompt": "The bright blue bird perched on the rough brown branch."}
+{"prompt_id": "T2I-complex-120", "prompt": "The fluffy white cat slept on the warm fuzzy blanket."}
+{"prompt_id": "T2I-complex-123", "prompt": "The rough brown bark of the tree contrasted with the soft green leaves."}
+{"prompt_id": "T2I-complex-124", "prompt": "The crunchy brown leaves covered the damp grey sidewalk."}
+{"prompt_id": "T2I-complex-129", "prompt": "The shiny blue car drove past the dusty brown barn."}
+{"prompt_id": "T2I-complex-132", "prompt": "The prickly green cactus contrasted with the smooth white sand."}
+{"prompt_id": "T2I-complex-133", "prompt": "The fluffy white clouds floated above the jagged mountain peaks."}
+{"prompt_id": "T2I-complex-134", "prompt": "The soft blue blanket contrasted with the rough wooden floor."}
+{"prompt_id": "T2I-complex-138", "prompt": "The fluffy white clouds floated above the dark grey city skyline."}
+{"prompt_id": "T2I-complex-139", "prompt": "The rough brown boots contrasted with the soft white snow."}
+{"prompt_id": "T2I-complex-141", "prompt": "The rough brown hiking boots contrasted with the smooth white snow."}
+{"prompt_id": "T2I-complex-142", "prompt": "The soft pink petals of the flower contrasted with the rough grey sidewalk."}
+{"prompt_id": "T2I-complex-145", "prompt": "The rough brown boots contrasted with the smooth white snow."}
+{"prompt_id": "T2I-complex-146", "prompt": "The hot yellow sunflower leaned next to the cool blue vase."}
+{"prompt_id": "T2I-complex-152", "prompt": "The cracked rectangle was leaning against the glossy cylinder and the peeling triangle."}
+{"prompt_id": "T2I-complex-153", "prompt": "The delicate butterfly fluttered near the fragrant flower and the rustling leaves."}
+{"prompt_id": "T2I-complex-154", "prompt": "The fresh vegetables grew in the rich soil and the rocky terrain."}
+{"prompt_id": "T2I-complex-156", "prompt": "The flickering candle flame danced on the smooth wax and the textured holder."}
+{"prompt_id": "T2I-complex-157", "prompt": "The soft fur coat draped over the hard armor and the sharp claws."}
+{"prompt_id": "T2I-complex-167", "prompt": "The cozy blanket covered the cold body and the hard floor."}
+{"prompt_id": "T2I-complex-168", "prompt": "The flickering torch lit the dark cave and the dim tunnel."}
+{"prompt_id": "T2I-complex-169", "prompt": "The fluffy marshmallow melted over the warm cocoa and the crunchy graham cracker."}
+{"prompt_id": "T2I-complex-174", "prompt": "The translucent crescent was hovering above the shimmering rhombus and the rough-edged pentagon."}
+{"prompt_id": "T2I-complex-175", "prompt": "The crisp apple lay beside the rough stone and the silky fabric."}
+{"prompt_id": "T2I-complex-179", "prompt": "The fresh omelet cooked the fluffy eggs and the crisp vegetables."}
+{"prompt_id": "T2I-complex-180", "prompt": "The comfortable recliner cradled the tired body and the hard floor."}
+{"prompt_id": "T2I-complex-184", "prompt": "The fragrant candle burned on the smooth table and the textured shelf."}
+{"prompt_id": "T2I-complex-186", "prompt": "The heavy traffic clogged the busy street and the quiet alleyway."}
+{"prompt_id": "T2I-complex-188", "prompt": "The flickering candle cast shadows on the smooth wall and the textured rug."}
+{"prompt_id": "T2I-complex-190", "prompt": "The juicy burger sat on the soft bun and the crispy lettuce."}
+{"prompt_id": "T2I-complex-195", "prompt": "The flickering light bulb brightened the dark room and the dim hallway."}
+{"prompt_id": "T2I-complex-198", "prompt": "The soft bed sheets embraced the tired body and the hard mattress."}
+{"prompt_id": "T2I-complex-201", "prompt": "The sizzling bacon cooked in the greasy pan and the crispy toast."}
+{"prompt_id": "T2I-complex-204", "prompt": "The fragrant perfume lingered on the soft skin and the rough fabric."}
+{"prompt_id": "T2I-complex-214", "prompt": "The smooth silk gown flowed over the delicate skin and the rough floor."}
+{"prompt_id": "T2I-complex-217", "prompt": "The soft cotton candy melted on the warm tongue and the cool hand."}
+{"prompt_id": "T2I-complex-221", "prompt": "The flickering fire lit up the cozy room and the dark night sky."}
+{"prompt_id": "T2I-complex-223", "prompt": "The rough bark scraped against the soft skin and the delicate flower."}
+{"prompt_id": "T2I-complex-224", "prompt": "The flickering candle illuminated the cozy room and the dark corner."}
+{"prompt_id": "T2I-complex-225", "prompt": "The fluffy snowflakes fell on the icy ground and the slushy pavement."}
+{"prompt_id": "T2I-complex-226", "prompt": "The fiery, blazing sun sank below the horizon, painting the sky with a spectrum of orange and red hues, a stunning display of natural beauty."}
+{"prompt_id": "T2I-complex-227", "prompt": "The soft, gentle touch of the therapist's hands provided healing relief to the injured athlete, a therapeutic massage of body and soul."}
+{"prompt_id": "T2I-complex-228", "prompt": "The sharp, pungent aroma of the freshly brewed coffee woke up the senses, a daily ritual of energy and comfort."}
+{"prompt_id": "T2I-complex-233", "prompt": "The intricate, delicate web of the spider shimmered in the early morning dew, a natural masterpiece of geometry and design."}
+{"prompt_id": "T2I-complex-238", "prompt": "The smooth, polished surface of the marble countertop gleamed in the sunlight, a luxurious material of beauty and sophistication."}
+{"prompt_id": "T2I-complex-239", "prompt": "The soft, warm glow of the candle created a cozy ambiance, a gentle flicker of light in the darkness."}
+{"prompt_id": "T2I-complex-242", "prompt": "The smooth, glossy surface of the lake reflected the fiery colors of the sunset, a serene oasis of tranquility and reflection."}
+{"prompt_id": "T2I-complex-246", "prompt": "The sleek, aerodynamic shape of the fighter jet sliced through the air, a machine of power and precision."}
+{"prompt_id": "T2I-complex-249", "prompt": "The gentle, soothing melody of the piano filled the concert hall, as the pianist's fingers danced over the keys."}
+{"prompt_id": "T2I-complex-253", "prompt": "The smooth, glossy finish of the ceramic vase accentuated the vibrant colors of the flowers, a stunning centerpiece of beauty."}
+{"prompt_id": "T2I-complex-266", "prompt": "The bright, glowing embers of the bonfire cast a warm, inviting light, perfect for storytelling."}
+{"prompt_id": "T2I-complex-268", "prompt": "The warm, gooey cheese melted deliciously over the pizza, a savory delight."}
+{"prompt_id": "T2I-complex-269", "prompt": "The soft, billowing curtains fluttered in the gentle breeze, adding a touch of elegance to the room."}
+{"prompt_id": "T2I-complex-274", "prompt": "The smooth, cool marble floors of the museum echoed with the footsteps of the visitors, as they admired the priceless works of art."}
+{"prompt_id": "T2I-complex-276", "prompt": "The sparkling, crystal chandeliers hung from the ornate ceiling of the grand ballroom, casting a warm, romantic glow."}
+{"prompt_id": "T2I-complex-277", "prompt": "The soft, fluffy snow blanketed the ground, creating a winter wonderland of icy beauty."}
+{"prompt_id": "T2I-complex-278", "prompt": "The silky, flowing fabric of the ballgown swirled around the dancer's feet, as she glided across the ballroom floor."}
+{"prompt_id": "T2I-complex-282", "prompt": "The smooth, polished surface of the marble statue gleamed in the sunlight, a symbol of timeless beauty and artistry."}
+{"prompt_id": "T2I-complex-283", "prompt": "The sharp, angular lines of the modern architecture contrasted with the natural landscape, a melding of human innovation and natural beauty."}
+{"prompt_id": "T2I-complex-284", "prompt": "The warm, welcoming glow of the lanterns illuminated the bustling night market, as the vendors hawked their wares and the crowds swarmed."}
+{"prompt_id": "T2I-complex-285", "prompt": "The smooth, curved lines of the sculpture flowed effortlessly from one form to the next, a beautiful expression of artistic vision."}
+{"prompt_id": "T2I-complex-287", "prompt": "The smooth, cool surface of the ice rink was perfect for the graceful figure skater, as she twirled and glided across the ice."}
+{"prompt_id": "T2I-complex-289", "prompt": "The soft, plush texture of the teddy bear was a comforting companion for the child at bedtime."}
+{"prompt_id": "T2I-complex-296", "prompt": "The jagged, rocky cliffs jutted out from the sea, battered by the crashing waves below."}
+{"prompt_id": "T2I-complex-297", "prompt": "The sparkling, crystal-clear waters of the lake beckoned to the swimmers, the cool waves lapping at the shore."}
+{"prompt_id": "T2I-complex-300", "prompt": "The towering, majestic elephants strode through the savanna, their powerful trunks reaching for the leaves of the trees."}
+{"prompt_id": "T2IX-complex-train-0001", "prompt": "The rectangular mirror was hung above the marble sink."}
+{"prompt_id": "T2IX-complex-train-0020", "prompt": "The square mirror was hung above the black vanity."}
+{"prompt_id": "T2IX-complex-train-0022", "prompt": "The silver watch is resting on the white nightstand."}
+{"prompt_id": "T2IX-complex-train-0024", "prompt": "The circular mirror was hung above the black nightstand."}
+{"prompt_id": "T2IX-complex-train-0026", "prompt": "The green plant is on the left of the gray vase."}
+{"prompt_id": "T2IX-complex-train-0032", "prompt": "The rectangular mirror was hung above the black sink."}
+{"prompt_id": "T2IX-complex-train-0046", "prompt": "The striped rug is on top of the gray carpet."}
+{"prompt_id": "T2IX-complex-train-0049", "prompt": "The rectangular painting was hung above the beige couch."}
+{"prompt_id": "T2IX-complex-train-0055", "prompt": "The brown boots were next to the round hat."}
+{"prompt_id": "T2IX-complex-train-0059", "prompt": "The black phone was on top of the white charging dock."}
+{"prompt_id": "T2IX-complex-train-0061", "prompt": "The black phone was resting on the green charger."}
+{"prompt_id": "T2IX-complex-train-0063", "prompt": "The green plant was on the right of the window."}
+{"prompt_id": "T2IX-complex-train-0064", "prompt": "The green plant is on top of the white bookshelf."}
+{"prompt_id": "T2IX-complex-train-0072", "prompt": "The hardcover book was on top of the brown nightstand."}
+{"prompt_id": "T2IX-complex-train-0074", "prompt": "The rectangular painting was hung above the black couch."}
+{"prompt_id": "T2IX-complex-train-0086", "prompt": "The black chair is on the right of the wooden table."}
+{"prompt_id": "T2IX-complex-train-0087", "prompt": "The white lamp is on the left of the black nightstand."}
+{"prompt_id": "T2IX-complex-train-0090", "prompt": "The rectangular mirror was hung above the white vanity."}
+{"prompt_id": "T2IX-complex-train-0092", "prompt": "The black phone was next to the white charger."}
+{"prompt_id": "T2IX-complex-train-0093", "prompt": "The round clock was on top of the white nightstand."}
+{"prompt_id": "T2IX-complex-train-0094", "prompt": "The green plant was on top of the round table."}
+{"prompt_id": "T2IX-complex-train-0098", "prompt": "The green plant was on top of the white dresser."}
+{"prompt_id": "T2IX-complex-train-0100", "prompt": "The red apple was on top of the yellow bowl."}
+{"prompt_id": "T2IX-complex-train-0101", "prompt": "The striped rug is next to the wooden table."}
+{"prompt_id": "T2IX-complex-train-0103", "prompt": "The blue pen was resting on the yellow notepad."}
+{"prompt_id": "T2IX-complex-train-0104", "prompt": "The rectangular mirror was next to the blue sink."}
+{"prompt_id": "T2IX-complex-train-0109", "prompt": "The rectangular painting was hung above the blue couch."}
+{"prompt_id": "T2IX-complex-train-0110", "prompt": "The round clock was on top of the blue dresser."}
+{"prompt_id": "T2IX-complex-train-0111", "prompt": "The brown cat was lying on the green rug."}
+{"prompt_id": "T2IX-complex-train-0112", "prompt": "The brown boots were next to the black sandals."}
+{"prompt_id": "T2IX-complex-train-0116", "prompt": "The rectangular book was next to the blue notebook."}
+{"prompt_id": "T2IX-complex-train-0118", "prompt": "The green plant was on top of the black nightstand."}
+{"prompt_id": "T2IX-complex-train-0120", "prompt": "The silver laptop is on top of the wooden table."}
+{"prompt_id": "T2IX-complex-train-0129", "prompt": "The brown dog was lying on the blue blanket."}
+{"prompt_id": "T2IX-complex-train-0133", "prompt": "The red vase was on top of the wooden shelf."}
+{"prompt_id": "T2IX-complex-train-0135", "prompt": "The black chair was next to the silver lamp."}
+{"prompt_id": "T2IX-complex-train-0143", "prompt": "The smooth glass was on top of the rough wooden table."}
+{"prompt_id": "T2IX-complex-train-0150", "prompt": "The circular mirror was hung above the white sink."}
+{"prompt_id": "T2IX-complex-train-0153", "prompt": "The rectangular mirror was hung above the green sink."}
+{"prompt_id": "T2IX-complex-train-0159", "prompt": "The rectangular painting was hung above the silver couch."}
+{"prompt_id": "T2IX-complex-train-0165", "prompt": "The blue pillow was on top of the round bed."}
+{"prompt_id": "T2IX-complex-train-0169", "prompt": "The soft blanket was on top of the hard ottoman."}
+{"prompt_id": "T2IX-complex-train-0172", "prompt": "The red apple was next to the green pear."}
+{"prompt_id": "T2IX-complex-train-0174", "prompt": "The fluffy pillow was on the left of the striped blanket."}
+{"prompt_id": "T2IX-complex-train-0181", "prompt": "The smooth white snow glistened under the bright yellow sun."}
+{"prompt_id": "T2IX-complex-train-0186", "prompt": "The fluffy white clouds floated above the deep blue ocean."}
+{"prompt_id": "T2IX-complex-train-0195", "prompt": "The prickly green thorns contrasted with the smooth pink petals of the rose."}
+{"prompt_id": "T2IX-complex-train-0197", "prompt": "The colorful flowers bloomed next to the sleek black fence."}
+{"prompt_id": "T2IX-complex-train-0198", "prompt": "The crisp green lettuce sat next to the juicy red tomatoes."}
+{"prompt_id": "T2IX-complex-train-0201", "prompt": "The colorful balloons floated near the sleek black limousine."}
+{"prompt_id": "T2IX-complex-train-0202", "prompt": "The round yellow tennis ball bounced off the green tennis court."}
+{"prompt_id": "T2IX-complex-train-0205", "prompt": "The sharp black knife lay next to the smooth wooden cutting board."}
+{"prompt_id": "T2IX-complex-train-0208", "prompt": "The smooth black marble countertop contrasted with the rough brown wooden cabinets."}
+{"prompt_id": "T2IX-complex-train-0209", "prompt": "The shiny silver jewelry box sat on the sleek black dresser."}
+{"prompt_id": "T2IX-complex-train-0214", "prompt": "The warm yellow light shone down on the cool blue ocean waves."}
+{"prompt_id": "T2IX-complex-train-0215", "prompt": "The colorful flowers bloomed next to the dark brown fence."}
+{"prompt_id": "T2IX-complex-train-0216", "prompt": "The shiny silver teapot sat on the rough wooden table."}
+{"prompt_id": "T2IX-complex-train-0219", "prompt": "The rough brown bark of the tree contrasted with the soft green moss."}
+{"prompt_id": "T2IX-complex-train-0227", "prompt": "The sleek black limousine pulled up next to the colorful party balloons."}
+{"prompt_id": "T2IX-complex-train-0229", "prompt": "The colorful parrot perched on the prickly green tree branch."}
+{"prompt_id": "T2IX-complex-train-0233", "prompt": "The bright red sports car drove past the dull grey sedan."}
+{"prompt_id": "T2IX-complex-train-0237", "prompt": "The smooth brown leather couch sat next to the soft white throw pillow."}
+{"prompt_id": "T2IX-complex-train-0243", "prompt": "The shiny silver trophy sat on the clean white shelf."}
+{"prompt_id": "T2IX-complex-train-0244", "prompt": "The sleek black laptop sat on top of the clean white desk."}
+{"prompt_id": "T2IX-complex-train-0245", "prompt": "The warm yellow light shone down on the colorful flower garden."}
+{"prompt_id": "T2IX-complex-train-0246", "prompt": "The sparkling blue ocean contrasted with the soft white sand."}
+{"prompt_id": "T2IX-complex-train-0247", "prompt": "The fluffy white clouds floated above the tall green trees."}
+{"prompt_id": "T2IX-complex-train-0248", "prompt": "The sleek black sports car sped past the bright green trees."}
+{"prompt_id": "T2IX-complex-train-0250", "prompt": "The sharp red scissors lay next to the blunt grey ruler."}
+{"prompt_id": "T2IX-complex-train-0252", "prompt": "The bumpy green broccoli lay next to the smooth yellow squash."}
+{"prompt_id": "T2IX-complex-train-0253", "prompt": "The fluffy grey cat napped on the warm beige carpet."}
+{"prompt_id": "T2IX-complex-train-0254", "prompt": "The fluffy white clouds drifted across the deep blue sky."}
+{"prompt_id": "T2IX-complex-train-0257", "prompt": "The bright red rose contrasted with the dull grey pavement."}
+{"prompt_id": "T2IX-complex-train-0263", "prompt": "The bright red fire truck drove past the dull grey building."}
+{"prompt_id": "T2IX-complex-train-0267", "prompt": "The fluffy white snow covered the hard grey pavement."}
+{"prompt_id": "T2IX-complex-train-0282", "prompt": "The smooth brown leather couch sat next to the plush white pillow."}
+{"prompt_id": "T2IX-complex-train-0284", "prompt": "The soft pink petals of the cherry blossom contrasted with the rough brown branches."}
+{"prompt_id": "T2IX-complex-train-0286", "prompt": "The soft white feathers of the swan contrasted with the deep black water."}
+{"prompt_id": "T2IX-complex-train-0287", "prompt": "The textured brown bark of the tree contrasted with the smooth green leaves."}
+{"prompt_id": "T2IX-complex-train-0290", "prompt": "The twisted green vines climbed up the sturdy brown fence."}
+{"prompt_id": "T2IX-complex-train-0294", "prompt": "The sharp black knife cut through the juicy red steak."}
+{"prompt_id": "T2IX-complex-train-0295", "prompt": "The rectangular orange book lay next to the oval black picture frame."}
+{"prompt_id": "T2IX-complex-train-0298", "prompt": "The warm yellow light shone down on the rough grey pavement."}
+{"prompt_id": "T2IX-complex-train-0300", "prompt": "The plump purple grapes lay next to the tart green apple."}
+{"prompt_id": "T2IX-complex-train-0305", "prompt": "The vibrant yellow sunflower stood tall next to the deep green foliage."}
+{"prompt_id": "T2IX-complex-train-0307", "prompt": "The prickly green cactus contrasted with the soft blue sky."}
+{"prompt_id": "T2IX-complex-train-0309", "prompt": "The fluffy white clouds floated in the clear blue sky."}
+{"prompt_id": "T2IX-complex-train-0310", "prompt": "The soft white pillow contrasted with the rough grey blanket."}
+{"prompt_id": "T2IX-complex-train-0311", "prompt": "The soft white clouds contrasted with the sharp blue sky."}
+{"prompt_id": "T2IX-complex-train-0316", "prompt": "The shiny silver pen glided on the rough brown paper."}
+{"prompt_id": "T2IX-complex-train-0319", "prompt": "The bright yellow sun contrasted with the deep blue sky."}
+{"prompt_id": "T2IX-complex-train-0321", "prompt": "The round yellow cheese wheel sat next to the rectangular cracker box."}
+{"prompt_id": "T2IX-complex-train-0326", "prompt": "The rough brown hiking trail contrasted with the smooth white snow."}
+{"prompt_id": "T2IX-complex-train-0327", "prompt": "The sleek black briefcase sat on top of the rough wooden desk."}
+{"prompt_id": "T2IX-complex-train-0329", "prompt": "The furry brown teddy bear sat on top of the soft blue blanket."}
+{"prompt_id": "T2IX-complex-train-0333", "prompt": "The jagged yellow rock rested on top of the rough brown log."}
+{"prompt_id": "T2IX-complex-train-0335", "prompt": "The bright orange sunset painted the deep blue sky."}
+{"prompt_id": "T2IX-complex-train-0337", "prompt": "The soft pink petals of the rose contrasted with the rough brown stem."}
+{"prompt_id": "T2IX-complex-train-0340", "prompt": "The rough brown paper bag leaned against the hard black briefcase."}
+{"prompt_id": "T2IX-complex-train-0344", "prompt": "The fluffy white clouds floated above the tall white buildings."}
+{"prompt_id": "T2IX-complex-train-0346", "prompt": "The smooth white marble statue stood next to the colorful flowers."}
+{"prompt_id": "T2IX-complex-train-0347", "prompt": "The smooth brown chocolate melted on the warm white marshmallow."}
+{"prompt_id": "T2IX-complex-train-0349", "prompt": "The sleek black pen wrote on the crisp white paper."}
+{"prompt_id": "T2IX-complex-train-0350", "prompt": "The colorful flowers bloomed near the tall green grass."}
+{"prompt_id": "T2IX-complex-train-0355", "prompt": "The flickering fire warmed the cozy room and the chilly night."}
+{"prompt_id": "T2IX-complex-train-0359", "prompt": "The smooth marble staircase led to the bright light and the dark room."}
+{"prompt_id": "T2IX-complex-train-0366", "prompt": "The colorful parrot perched on the leafy branch and the rugged cliff."}
+{"prompt_id": "T2IX-complex-train-0372", "prompt": "The fluffy clouds cast shadows on the tranquil lake and the rolling hills."}
+{"prompt_id": "T2IX-complex-train-0377", "prompt": "The heavy dumbbell lifted the strong arm and the weak leg."}
+{"prompt_id": "T2IX-complex-train-0379", "prompt": "The shiny coin rolled under the dusty book and the wooden shelf."}
+{"prompt_id": "T2IX-complex-train-0380", "prompt": "The shiny ball rested atop the rough cube and the smooth cylinder."}
+{"prompt_id": "T2IX-complex-train-0384", "prompt": "The smooth peanut butter spread on the crunchy toast and the soft banana."}
+{"prompt_id": "T2IX-complex-train-0386", "prompt": "The heavy hammer struck the solid nail and the brittle glass."}
+{"prompt_id": "T2IX-complex-train-0388", "prompt": "The sweet chocolate chip cookie crumbled on the crunchy crust and the soft ice cream."}
+{"prompt_id": "T2IX-complex-train-0390", "prompt": "The juicy watermelon sat next to the sweet pineapple and the spiky durian."}
+{"prompt_id": "T2IX-complex-train-0396", "prompt": "The flickering candle created a warm atmosphere in the cozy room and the dark hallway."}
+{"prompt_id": "T2IX-complex-train-0399", "prompt": "The flickering lantern illuminated the dark cave and the dim tunnel."}
+{"prompt_id": "T2IX-complex-train-0406", "prompt": "The heavy rain fell on the smooth pavement and the bumpy gravel."}
+{"prompt_id": "T2IX-complex-train-0411", "prompt": "The buzzing bee flew around the vibrant flower and the prickly cactus."}
+{"prompt_id": "T2IX-complex-train-0415", "prompt": "The fuzzy heart was nestled between the spiky star and the bumpy sphere."}
+{"prompt_id": "T2IX-complex-train-0418", "prompt": "The slimy slug crawled over the slimy rock and the damp leaf."}
+{"prompt_id": "T2IX-complex-train-0424", "prompt": "The sweet ice cream melted on the crunchy cone and the sticky fingers."}
+{"prompt_id": "T2IX-complex-train-0426", "prompt": "The cold snowflake landed on the warm hand and the icy ground."}
+{"prompt_id": "T2IX-complex-train-0436", "prompt": "The sturdy chair supported the heavy weight and the delicate vase."}
+{"prompt_id": "T2IX-complex-train-0441", "prompt": "The cold snowman stood on the icy lawn and the wet pavement."}
+{"prompt_id": "T2IX-complex-train-0445", "prompt": "The smooth marble floor reflected the bright light and the dark shadow."}
+{"prompt_id": "T2IX-complex-train-0447", "prompt": "The fresh herbs added flavor to the savory soup and the bland rice."}
+{"prompt_id": "T2IX-complex-train-0448", "prompt": "The sweet blueberry pie crumbled on the crunchy crust and the soft whipped cream."}
+{"prompt_id": "T2IX-complex-train-0453", "prompt": "The prickly cactus stood tall on the dry sand and the rocky terrain."}
+{"prompt_id": "T2IX-complex-train-0454", "prompt": "The bitter coffee sat next to the sweet donut and the savory bagel."}
+{"prompt_id": "T2IX-complex-train-0456", "prompt": "The delicious pizza melted on the crispy crust and the soft cheese."}
+{"prompt_id": "T2IX-complex-train-0458", "prompt": "The sweet honey tea soothed the sore throat and the achy body."}
+{"prompt_id": "T2IX-complex-train-0460", "prompt": "The heavy rock weighed down on the delicate scale and the rough ground."}
+{"prompt_id": "T2IX-complex-train-0464", "prompt": "The fresh fruit salad mixed the juicy berries and the crisp apples."}
+{"prompt_id": "T2IX-complex-train-0484", "prompt": "The fluffy snow fell onto the icy road and the frosty windowpane."}
+{"prompt_id": "T2IX-complex-train-0485", "prompt": "The metallic sphere was nestled between the textured cube and the wooden rectangle."}
+{"prompt_id": "T2IX-complex-train-0486", "prompt": "The sour lemon lay next to the sweet orange and the fuzzy peach."}
+{"prompt_id": "T2IX-complex-train-0487", "prompt": "The fluttering flag waved in the strong wind and the gentle breeze."}
+{"prompt_id": "T2IX-complex-train-0492", "prompt": "The fragrant lavender filled the cozy room and the fresh air."}
+{"prompt_id": "T2IX-complex-train-0493", "prompt": "The sturdy table held up the heavy books and the delicate vase."}
+{"prompt_id": "T2IX-complex-train-0494", "prompt": "The tiny ant crawled beneath the rusty pipe and the peeling paint."}
+{"prompt_id": "T2IX-complex-train-0496", "prompt": "The soft scarf wrapped around the cold neck and the warm coat."}
+{"prompt_id": "T2IX-complex-train-0498", "prompt": "The fresh flowers bloomed on the lush greenery and the barren soil."}
+{"prompt_id": "T2IX-complex-train-0503", "prompt": "The fresh lettuce leaves mixed the crisp greens and the juicy tomatoes."}
+{"prompt_id": "T2IX-complex-train-0504", "prompt": "The fiery sun set behind the towering skyscraper and the lush park."}
+{"prompt_id": "T2IX-complex-train-0505", "prompt": "The smooth glass surface reflected the bright light and the dark shadow."}
+{"prompt_id": "T2IX-complex-train-0510", "prompt": "The shiny coin rolled on the smooth table and the textured rug."}
+{"prompt_id": "T2IX-complex-train-0514", "prompt": "The fluffy snow covered the icy ground and the frosty windowpane."}
+{"prompt_id": "T2IX-complex-train-0521", "prompt": "The rustling leaves whispered in the cool breeze and the warm sun."}
+{"prompt_id": "T2IX-complex-train-0524", "prompt": "The golden ring sparkled on the delicate finger and the calloused hand."}
+{"prompt_id": "T2IX-complex-train-0534", "prompt": "The smooth, glassy surface of the ocean reflected the endless expanse of the sky, a natural wonder of reflection and beauty."}
+{"prompt_id": "T2IX-complex-train-0539", "prompt": "The sleek, aerodynamic design of the sports car hugged the curves of the road, a thrilling ride of speed and precision."}
+{"prompt_id": "T2IX-complex-train-0541", "prompt": "The tall, slender birch trees swayed gently in the cool autumn breeze, their golden leaves rustling softly."}
+{"prompt_id": "T2IX-complex-train-0546", "prompt": "The intricate, handwoven tapestry adorned the wall of the cozy, dimly lit cottage, its warm colors and intricate designs creating a cozy atmosphere."}
+{"prompt_id": "T2IX-complex-train-0548", "prompt": "The smooth, polished surface of the marble steps gleamed in the sunlight, a symbol of grandeur and opulence."}
+{"prompt_id": "T2IX-complex-train-0553", "prompt": "The sparkling, crystal-clear waters of the mountain stream tumbled over the rocks, creating a soothing melody."}
+{"prompt_id": "T2IX-complex-train-0557", "prompt": "The delicate, translucent jellyfish floated gracefully in the turquoise waters, their long, trailing tentacles swaying gently with the currents."}
+{"prompt_id": "T2IX-complex-train-0561", "prompt": "The rugged, rocky terrain of the mountain trail was a challenge for even the most experienced hikers."}
+{"prompt_id": "T2IX-complex-train-0562", "prompt": "The jagged, rocky terrain of the mountain range stretched out before them, a rugged landscape of natural beauty and adventure."}
+{"prompt_id": "T2IX-complex-train-0564", "prompt": "The gentle, soothing touch of the massage therapist melted away the stress and tension, a therapeutic release."}
+{"prompt_id": "T2IX-complex-train-0574", "prompt": "The sleek, modern skyscrapers rose high into the sky, their shining windows reflecting the bright city lights."}
+{"prompt_id": "T2IX-complex-train-0578", "prompt": "The sleek, modern skyscrapers rose high into the city skyline, gleaming in the bright sunlight."}
+{"prompt_id": "T2IX-complex-train-0589", "prompt": "The deep, earthy scent of the freshly brewed coffee filled the air of the cozy, quaint cafe, tempting the patrons to linger over their cups."}
+{"prompt_id": "T2IX-complex-train-0605", "prompt": "The delicate, intricate lace of the wedding dress flowed gracefully around the bride, a symbol of love and commitment."}
+{"prompt_id": "T2IX-complex-train-0622", "prompt": "The sleek, aerodynamic design of the racecar made it a formidable contender on the track."}
+{"prompt_id": "T2IX-complex-train-0623", "prompt": "The sharp, angular edges of the diamond refracted the light into a dazzling display of brilliance and clarity, a gemstone of unparalleled beauty."}
+{"prompt_id": "T2IX-complex-train-0624", "prompt": "The soft, silky texture of the satin sheets provided a luxurious resting place, a dreamy escape into comfort and ease."}
+{"prompt_id": "T2IX-complex-train-0625", "prompt": "The intricate, elaborate patterns of the stained glass windows were a stunning display of artistry and craftsmanship."}
+{"prompt_id": "T2IX-complex-train-0626", "prompt": "The towering, majestic redwoods soared high into the sky, their branches reaching toward the heavens."}
+{"prompt_id": "T2IX-complex-train-0630", "prompt": "The soft, plush texture of the carpet cushioned every step, a cozy and inviting floor covering."}
+{"prompt_id": "T2IX-complex-train-0631", "prompt": "The twisting, winding roads of the mountain pass were treacherous, but the views were breathtaking."}
+{"prompt_id": "T2IX-complex-train-0634", "prompt": "The bumpy, rugged terrain of the mountain trail challenged the hikers, as they climbed higher and higher toward the summit."}
+{"prompt_id": "T2IX-complex-train-0643", "prompt": "The sleek, aerodynamic shape of the speedboat sliced through the water, a thrilling ride of power and speed."}
+{"prompt_id": "T2IX-complex-train-0654", "prompt": "The cool, crisp air of the mountaintop invigorated the hikers, as they gazed out over the sweeping vista below."}
+{"prompt_id": "T2IX-complex-train-0658", "prompt": "The glittering, multicolored beads adorned the elaborate headdress, shimmering in the bright, hot sun."}
+{"prompt_id": "T2IX-complex-train-0677", "prompt": "The gentle, soothing rhythm of the ocean waves lapping at the shore was a symphony."}
+{"prompt_id": "T2IX-complex-train-0678", "prompt": "The soft, warm fur of the kitten was a comforting presence as it snuggled into the lap of its owner."}
+{"prompt_id": "T2IX-complex-train-0681", "prompt": "The intricate, web-like patterns of the frost coated the windows, creating a delicate and ephemeral artwork."}
+{"prompt_id": "T2IX-complex-train-0682", "prompt": "The bright, lively colors of the carnival games beckoned the players, as they tried their luck for prizes."}
+{"prompt_id": "T2IX-complex-train-0696", "prompt": "The towering, ominous storm clouds loomed on the horizon, threatening to unleash their fury upon the unsuspecting countryside."}
+{"prompt_id": "T2IX-complex-val-0004", "prompt": "The leather wallet was inside the brown purse."}
+{"prompt_id": "T2IX-complex-val-0005", "prompt": "The fluffy cat is on the left of the soft pillow."}
+{"prompt_id": "T2IX-complex-val-0009", "prompt": "The green plant was on the right of the white wall."}
+{"prompt_id": "T2IX-complex-val-0024", "prompt": "The silver watch was resting on the brown nightstand."}
+{"prompt_id": "T2IX-complex-val-0047", "prompt": "The green plant was next to the white vase."}
+{"prompt_id": "T2IX-complex-val-0054", "prompt": "The white shirt was on top of the black pants."}
+{"prompt_id": "T2IX-complex-val-0059", "prompt": "The hardcover book was next to the brown notebook."}
+{"prompt_id": "T2IX-complex-val-0070", "prompt": "The red hat was on top of the brown coat."}
+{"prompt_id": "T2IX-complex-val-0077", "prompt": "The bright red fire engine sped past the dull grey building."}
+{"prompt_id": "T2IX-complex-val-0078", "prompt": "The soft pink rose petal fell onto the rough grey sidewalk."}
+{"prompt_id": "T2IX-complex-val-0088", "prompt": "The smooth purple vase sat next to the tall white candlestick."}
+{"prompt_id": "T2IX-complex-val-0099", "prompt": "The crisp white sheet covered the lumpy blue mattress."}
+{"prompt_id": "T2IX-complex-val-0103", "prompt": "The hot pink lipstick lay next to the shiny gold compact mirror."}
+{"prompt_id": "T2IX-complex-val-0108", "prompt": "The sleek black cat sat next to the fluffy white pillow."}
+{"prompt_id": "T2IX-complex-val-0109", "prompt": "The soft white snow contrasted with the sharp green pine needles."}
+{"prompt_id": "T2IX-complex-val-0125", "prompt": "The soft pink blanket draped over the hard wooden chair."}
+{"prompt_id": "T2IX-complex-val-0126", "prompt": "The sleek black sports bike sped past the bright green trees."}
+{"prompt_id": "T2IX-complex-val-0130", "prompt": "The warm yellow light shone down on the colorful flower bouquet."}
+{"prompt_id": "T2IX-complex-val-0143", "prompt": "The soft blue sky contrasted with the sharp white clouds."}
+{"prompt_id": "T2IX-complex-val-0149", "prompt": "The smooth black leather jacket hung next to the rugged brown boots."}
+{"prompt_id": "T2IX-complex-val-0151", "prompt": "The spicy curry simmered on the hot stove and the cool plate."}
+{"prompt_id": "T2IX-complex-val-0161", "prompt": "The fresh flowers bloomed in the colorful garden and the gray vase."}
+{"prompt_id": "T2IX-complex-val-0162", "prompt": "The sleek fish swam through the murky water and the jagged coral."}
+{"prompt_id": "T2IX-complex-val-0172", "prompt": "The sleek bike zoomed down the smooth road and the bumpy trail."}
+{"prompt_id": "T2IX-complex-val-0194", "prompt": "The smooth lotion moisturized the dry skin and the rough calluses."}
+{"prompt_id": "T2IX-complex-val-0230", "prompt": "The vibrant, multicolored feathers of the peacock fanned out in a brilliant display of natural elegance and grandeur."}
+{"prompt_id": "T2IX-complex-val-0263", "prompt": "The soft, cozy comfort of the wool blanket provided a warm refuge on a chilly night."}
+{"prompt_id": "T2IX-complex-val-0267", "prompt": "The sharp, angular lines of the skyscrapers jutted up into the sky, a towering testament to human ingenuity and ambition."}
+{"prompt_id": "T2IX-complex-val-0271", "prompt": "The sleek, black sports car sped down the winding country road, leaving a trail of dust in its wake."}
+{"prompt_id": "T2IX-complex-val-0272", "prompt": "The fluffy, white clouds floated lazily in the blue sky, like cotton candy in a fairytale."}
+{"prompt_id": "T2IX-complex-val-0280", "prompt": "The bold, dynamic brushstrokes of the painting created a vibrant explosion of color and movement, a masterpiece of artistic expression."}

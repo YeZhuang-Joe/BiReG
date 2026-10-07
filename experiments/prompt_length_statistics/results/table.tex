@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\caption{Prompt-length statistics for the development and main-experiment collections. Chinese lengths are measured in characters excluding whitespace and punctuation; English lengths count whitespace-delimited tokens containing letters or numbers.}
+\label{tab:prompt_length_statistics}
+\footnotesize
+\setlength{\tabcolsep}{2pt}
+\renewcommand{\arraystretch}{1.12}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lrrrr@{}}
+\toprule
+\textbf{Collection} & \textbf{$N$} & \textbf{Mean} & \textbf{Median} & \textbf{Range} \\
+\midrule
+Development (zh) & 50 & 56.68 & 47.5 & 7--184 \\
+Development (en) & 50 & 46.06 & 37 & 5--153 \\
+English main & 1,920 & 9.07 & 8 & 5--25 \\
+Chinese main & 150 & 43.85 & 43 & 28--61 \\
+English translations & 150 & 27.59 & 27 & 15--43 \\
+\bottomrule
+\end{tabular*}
+\end{table}

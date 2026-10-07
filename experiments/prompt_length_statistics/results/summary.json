@@ -1,0 +1,76 @@
+{
+  "schema_version": "bireg-prompt-length-statistics-v1",
+  "source_repository": "YeZhuang-Joe/BiReG",
+  "source_commit": "d7ef2546eb5b6a4c3a19582a388505922ca30951",
+  "unicode_database_version": "15.0.0",
+  "counting_rules": {
+    "characters": "Count Unicode code points other than whitespace or punctuation (Unicode General Category beginning with P); no text normalization.",
+    "words": "Split on Unicode whitespace and count tokens containing at least one Unicode letter or number (str.isalnum); no text normalization. Hyphenated or apostrophized forms without whitespace count as one token."
+  },
+  "input_files": {
+    "development": {
+      "path": "data/development_prompts/bireg_development_pairs_50_v1.jsonl",
+      "sha256": "fc1001be9b66da1a0f440fd1f88b92b73305ee6e522400119e6d4105a2cf84af"
+    },
+    "english": {
+      "path": "experiments/main_experiment/en1920/data/prompts.frozen.jsonl",
+      "sha256": "8f3b4b6d6cb47b1e00bd3f8c28e6979c3bd663c8a7d9a244e0cd065710b3e974"
+    },
+    "chinese": {
+      "path": "experiments/main_experiment/zh150/data/prompts.frozen.jsonl",
+      "sha256": "168a8eb8c0da611b4bdb055ca684762a196e8aba688c6216adfc65b50160a696"
+    }
+  },
+  "summary": [
+    {
+      "collection": "development_zh",
+      "label": "Development (zh)",
+      "n": 50,
+      "unit": "characters",
+      "mean": 56.68,
+      "median": 47.5,
+      "min": 7,
+      "max": 184
+    },
+    {
+      "collection": "development_en",
+      "label": "Development (en)",
+      "n": 50,
+      "unit": "words",
+      "mean": 46.06,
+      "median": 37.0,
+      "min": 5,
+      "max": 153
+    },
+    {
+      "collection": "main_en",
+      "label": "English main",
+      "n": 1920,
+      "unit": "words",
+      "mean": 9.071354166666667,
+      "median": 8.0,
+      "min": 5,
+      "max": 25
+    },
+    {
+      "collection": "main_zh",
+      "label": "Chinese main",
+      "n": 150,
+      "unit": "characters",
+      "mean": 43.846666666666664,
+      "median": 43.0,
+      "min": 28,
+      "max": 61
+    },
+    {
+      "collection": "main_zh_translation_en",
+      "label": "English translations",
+      "n": 150,
+      "unit": "words",
+      "mean": 27.586666666666666,
+      "median": 27.0,
+      "min": 15,
+      "max": 43
+    }
+  ]
+}
