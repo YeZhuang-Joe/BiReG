@@ -100,94 +100,19 @@ BiReG/
 │   ├── full/
 ```
 ## ⚙️ Installation
-```text
+## ⚙️ Installation and Environment Records
+
+```bash
 git clone https://github.com/YeZhuang-Joe/BiReG.git
 cd BiReG
-pip install -r requirements.txt
-```
-## 📥 Model Preparation
-Prepare pretrained Kolors weights:
-```text
-<MODEL_ROOT>/Kolors/
-├── text_encoder/
-├── vae/
-├── scheduler/
-├── unet/
-```
-Set environment variable:
-```text
-export KOLORS_PATH=/path/to/Kolors
-```
-## 🔑 API Configuration
-Create:
-```text
-config/api_config.json
-```
-Example:
-```text
-{
-  "deepseek_api_key": "your_key",
-  "openai_api_key": "your_key"
-}
-```
-## 🔍 Demo (Stage 1:Fixed Region-Controlled Generation)
-We provide a set of **fixed demo cases** to illustrate the effectiveness of BiReG in spatially controllable text-to-image generation.
-
-Unlike stochastic prompt-based generation, each demo case includes:
-- a fixed input prompt
-- a predefined spatial layout (split ratio)
-- region-specific prompts
-- a fixed inference configuration
-This ensures **fully reproducible results**.
-
----
-### 📦 Available Demo Cases
-
-Run the following command to list all demo cases:
-```bash
-python demo_infer.py --list
 ```
 
-Example output:
-```text
-[INFO] Available demo cases:
-  - palace_two_maids: Dual-subject palace corridor scene with explicit foreground-background separation.
-  - scholar_squirrel_bamboo: 
-  - maoniu: 
-  - yumin: 
-```
----
+Choose the entry point appropriate for your task:
 
-### ▶️ Run Demo Case
-To generate an image:
-```bash
-python demo_infer.py --case palace_two_maids
+- [Prompt-to-image workflow](generation/README.md): language routing, API-based regional planning, and Kolors generation.
+- [Frozen main-experiment generation](experiments/main_experiment/generation/README.md): six-pipeline generation using the retained prompts, configurations, and saved plans.
 
-```
-### 📁 Output Structure
-Generated results are automatically saved to:
-```text
-outputs/demo/
-```
-Each run produces:
-```text
-<case_name>_<timestamp>.png   # generated image
-<case_name>_<timestamp>.json  # metadata
-```
-### 🧾 Metadata (Reproducibility)
-Each .json file records:
-- input prompt
-- split ratio (layout)
-- regional prompts
-- inference configuration (steps, resolution, guidance scale, seed)
-- output path
-### 🧠 Example Case: 
-<p align="center">
-  <img src="/assets/宫女-背影.png" width="1200"/>
-</p>
-<p align="center">
-  <img src="/assets/松鼠-读书人.png" width="1200"/>
-</p>
+Follow the environment, model preparation, and validation instructions in the corresponding guide. The entry points have separate recorded environments. The root `requirements.txt` is a historical dependency list, not a verified clean-install lock for all pipelines. The exact source revision of the recorded Diffusers development build remains to be identified.
 
 ## 🚀 Full Pipeline (Stage 2: Method Demonstration)
 ---
