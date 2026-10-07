@@ -231,6 +231,11 @@ If you find this code useful for your research, please consider citing the corre
 
 ---
 
+## License
+
+Author-created BiReG software contributions are licensed under the [Apache License 2.0](LICENSE). Third-party code retains its original license conditions and copyright notices; see [NOTICE](NOTICE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The software license does not grant additional permissions to external model weights, benchmark datasets, generated images, or API services, which remain subject to their applicable terms.
+
+
 ## 📬 Contact
 For questions, please contact the authors.
 - **Zhuang Ye** – yj20242054@stud.tjut.edu.cn  
