@@ -1,0 +1,32 @@
+{
+  "entry_sha256": "ae6f03da947783e803adb831c906dab49ddbee2118e875d61d98b31dff0656be",
+  "input_provenance": {
+    "configuration_sha256": {
+      "ragd": "9c8bbb5331e6ed65b106d2d4f0cc7f275973d8482321b8c1a007fa6f3feb4d48",
+      "rpg": "5aa1cce12f185103555ef5440fef6ab973fc255c7e27011bd592a5cb2764cafb",
+      "sdxl": "e36cd64a7872902d2248a9406275eeea9d83ba39e5dc822e6a23a3ec6308d1e0"
+    },
+    "generation_package_sha256": "83dc1b614e5ba09489092051928d841c3b46c4a8dc80543704c65fe76def3f90",
+    "image_manifest_sha256": "36f5a782ee86b88715245a8f8270c7a30ea6c41d44c8c418a9e6a93f1f6e22f3",
+    "images": 1350,
+    "prompts": 150,
+    "translation_sha256": "1634d4286b111f7c18aa4e6040ef60fbb7f9465211f722d4c7fd96e641268423"
+  },
+  "judge": {
+    "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+    "max_retries": 2,
+    "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+    "source_sha256": {
+      "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+      "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+    }
+  },
+  "official_csv_sha256": "7ff2d2131e68e6182f43a28ecf03d070f7735788f3c5420db3f83141492e8cb3",
+  "package_manifest_sha256": "05d8596adf2ad475ecf92ecc9ce5b84197dd15ec5f2d860bbb38fae4413e52de",
+  "schema": "bireg_zh1350_eval_v1",
+  "scope": "Local historical evaluator; original Chinese prompts and checkpoints; no planner API calls",
+  "source_hashes": {
+    "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+    "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+  }
+}

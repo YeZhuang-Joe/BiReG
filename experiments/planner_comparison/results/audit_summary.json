@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "english_prompts": 102,
+  "chinese_prompts": 50,
+  "english_images": 1224,
+  "chinese_images": 600,
+  "planners": [
+    "deepseek-flash",
+    "deepseek-v4-pro",
+    "qwen3.8-flash",
+    "gpt-5.5"
+  ],
+  "generation_seeds_per_prompt": 3,
+  "API_calls": 0,
+  "GPU_calls": 0,
+  "scope": "Stored score aggregation and bindings; no image re-evaluation or PNG-byte verification."
+}

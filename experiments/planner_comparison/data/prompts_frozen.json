@@ -1,0 +1,3444 @@
+[
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A white carpet in a bathroom with red fixtures.",
+    "prompt_id": "T2I-color-280",
+    "sampling_hash": "00ee085c49aabb363341479a5b4ac7a78503a819347e60e9dcaa96ee5b063a13",
+    "sampling_rank": 1,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 280,
+    "source_ordinal": 104
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a brown banana and a green bear",
+    "prompt_id": "T2I-color-095",
+    "sampling_hash": "01899838bd6544453bd19b47605378f8df3781e02379f257fcdaccb2582dfc81",
+    "sampling_rank": 2,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 95,
+    "source_ordinal": 38
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a red cup and a blue suitcase",
+    "prompt_id": "T2IX-color-train-0308",
+    "sampling_hash": "0287e155b732965b2cd233c7b7440878d4d5154813a727f66cdc8445b7eef357",
+    "sampling_rank": 3,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 308,
+    "source_ordinal": 189
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a red elephant and a brown suitcase",
+    "prompt_id": "T2I-color-022",
+    "sampling_hash": "0335997c0041a0ed030e1bfbd64009ca5f0a5372460c02f404ca3c937bd3283d",
+    "sampling_rank": 4,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 22,
+    "source_ordinal": 9
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "Bathroom scene with tan background and white accents.",
+    "prompt_id": "T2I-color-260",
+    "sampling_hash": "03396750fb62b33f89aceddc1690b2022b609f086bfca11af1741a0a062a949e",
+    "sampling_rank": 5,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 260,
+    "source_ordinal": 97
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a green banana and a pink cake",
+    "prompt_id": "T2IX-color-train-0227",
+    "sampling_hash": "037476739b22470143e691ae98235810550caee86ac2235a131f996ab6591e11",
+    "sampling_rank": 6,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 227,
+    "source_ordinal": 169
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.",
+    "prompt_id": "T2IX-color-val-0262",
+    "sampling_hash": "0380bc3dfcb0954e0d5abd875a06851a8c772e0cc6414ae5b05e6c66ab440b8b",
+    "sampling_rank": 7,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 262,
+    "source_ordinal": 316
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a blue backpack and a red book",
+    "prompt_id": "T2IX-color-val-0009",
+    "sampling_hash": "03de04735430d57c7b64685d564f338c52d8880ba0e88cdc3d1e439f88446a38",
+    "sampling_rank": 8,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 9,
+    "source_ordinal": 285
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a red bicycle and a blue helmet",
+    "prompt_id": "T2I-color-227",
+    "sampling_hash": "054b8a4bdb837cf8a91c029219a1cd57e0b13527259466da626708e73f4c2413",
+    "sampling_rank": 9,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 227,
+    "source_ordinal": 84
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a brown cup and a blue elephant",
+    "prompt_id": "T2I-color-125",
+    "sampling_hash": "05cbab6ca36b5ad6521f409da8a6a401555fa7ff59d8ab1dbff591473a73dd50",
+    "sampling_rank": 10,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 125,
+    "source_ordinal": 52
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a yellow cow and a brown dog",
+    "prompt_id": "T2IX-color-train-0092",
+    "sampling_hash": "06141f96db5fa7f6b94a236f32c561335b2e2154df8e180649db8f767cb8d823",
+    "sampling_rank": 11,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 92,
+    "source_ordinal": 136
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a pink flower and a yellow butterfly",
+    "prompt_id": "T2IX-color-train-0341",
+    "sampling_hash": "092a3113c920bc9725d6c5e9e0dd1ea96962eeee1cb84143e9206c736b5e44b2",
+    "sampling_rank": 12,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 341,
+    "source_ordinal": 203
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a brown guitar and a black amplifier",
+    "prompt_id": "T2I-color-222",
+    "sampling_hash": "09c0b078493947d411f5e7848c1a99d25c9bebca4a0946cd3727928d8f1873f2",
+    "sampling_rank": 13,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 222,
+    "source_ordinal": 80
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a red book and a gold clock",
+    "prompt_id": "T2IX-color-train-0075",
+    "sampling_hash": "0a57ff3a646bed56b7586f1393915ef1d7bc0dcdca0064337da1706927cd0c7d",
+    "sampling_rank": 14,
+    "sampling_stratum": "color",
+    "source_cohort": "extension1800",
+    "source_index": 75,
+    "source_ordinal": 132
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a red apple and a green suitcase",
+    "prompt_id": "T2I-color-071",
+    "sampling_hash": "0a7a9bd888f857cf0801c2a16970114d52bf1c30db8dc8ed4d1c069ebea024f8",
+    "sampling_rank": 15,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 71,
+    "source_ordinal": 27
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a brown bowl and a blue elephant",
+    "prompt_id": "T2I-color-034",
+    "sampling_hash": "0aac8b08e502d7ef7d623cad9cce7c8cf55758bc2a5da90227b218bce43c2f20",
+    "sampling_rank": 16,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 34,
+    "source_ordinal": 13
+  },
+  {
+    "category": "color",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a green apple and a blue vase",
+    "prompt_id": "T2I-color-029",
+    "sampling_hash": "0aee1910c42f26077e788a694f271a1fdfda99c3331beae3490af23331b93660",
+    "sampling_rank": 17,
+    "sampling_stratum": "color",
+    "source_cohort": "original900",
+    "source_index": 29,
+    "source_ordinal": 11
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a cubic box of chocolates and a teardrop chocolate truffle",
+    "prompt_id": "T2I-shape-207",
+    "sampling_hash": "00a664277cd08acab246a407103ce221b4d088a0fd9553b4cf602757c8a93ce9",
+    "sampling_rank": 1,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 207,
+    "source_ordinal": 403
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit.",
+    "prompt_id": "T2IX-shape-val-0289",
+    "sampling_hash": "00f63eca9edaef9f152e93412b9a9ee87a94911f160bc24e56c62370f3720181",
+    "sampling_rank": 2,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 289,
+    "source_ordinal": 640
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a pyramidal pyramid and a pentagonal base",
+    "prompt_id": "T2IX-shape-train-0285",
+    "sampling_hash": "0366f4434649aa6da7f6a5853947d0f92053451c9becd983b6722403cc8a50f2",
+    "sampling_rank": 3,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 285,
+    "source_ordinal": 517
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a pentagonal handbag and a spherical keychain charm",
+    "prompt_id": "T2I-shape-221",
+    "sampling_hash": "039deb4c68bb9138667b40d34787eec478a1dd3d2e02ecd7280b29093aada58e",
+    "sampling_rank": 4,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 221,
+    "source_ordinal": 410
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a round pancake and a rectangular piece of toast",
+    "prompt_id": "T2IX-shape-train-0363",
+    "sampling_hash": "03b05172cb54a5cc8a336bbf0efd0c37410fb722ffe7837fc6a9aa8e8540a9bc",
+    "sampling_rank": 5,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 363,
+    "source_ordinal": 536
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a circular plate and a triangular placemat",
+    "prompt_id": "T2IX-shape-train-0480",
+    "sampling_hash": "05a4d830b43c7bfa0f7fd2aedebbe1df316c45c10438f786348b47c37452e5f6",
+    "sampling_rank": 6,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 480,
+    "source_ordinal": 572
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a pentagonal parking sign and a pyramidal trophy",
+    "prompt_id": "T2IX-shape-val-0124",
+    "sampling_hash": "065eaf8cff5527d4fce97977f96276be982cf4853500f5d4261bfc193d99816c",
+    "sampling_rank": 7,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 124,
+    "source_ordinal": 619
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a spherical snowball and a conical snowman hat",
+    "prompt_id": "T2IX-shape-val-0108",
+    "sampling_hash": "0685978e92467366c574280e6d8b4b8b9621fb2d9538776adc0d660b6906dfde",
+    "sampling_rank": 8,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 108,
+    "source_ordinal": 615
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The tall tree and the short shrub created a contrast in the garden.",
+    "prompt_id": "T2I-shape-293",
+    "sampling_hash": "082f6eb78e24d61bb6ef00ac6b9c2facccfa78751f76797b16a58db9c82b7e30",
+    "sampling_rank": 9,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 293,
+    "source_ordinal": 431
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a circular dining table and a triangular table runner",
+    "prompt_id": "T2I-shape-128",
+    "sampling_hash": "092f8e590f96e6b51e95d08b570b6d809bc6db2c3d6da2ec8af7e9320335cc9d",
+    "sampling_rank": 10,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 128,
+    "source_ordinal": 372
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a cubic dice and a cylindrical pencil holder",
+    "prompt_id": "T2I-shape-179",
+    "sampling_hash": "09ae2890e84667f684057375fa98af993e59584fe2e332fdb5fcccea8dbb96ff",
+    "sampling_rank": 11,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 179,
+    "source_ordinal": 393
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a long scarf and a short tie",
+    "prompt_id": "T2IX-shape-train-0200",
+    "sampling_hash": "0b09505ee859629855266ce4652ed3da12b097304c9dd523f27908b6aad4d871",
+    "sampling_rank": 12,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 200,
+    "source_ordinal": 490
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a pentagonal stop sign and a spherical traffic light",
+    "prompt_id": "T2I-shape-002",
+    "sampling_hash": "0ba1032d99031eeec3acb38a4016af8ffb6a886978ce5df19c1fd2b0951fbabf",
+    "sampling_rank": 13,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 2,
+    "source_ordinal": 321
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a diamond ring and a round watch",
+    "prompt_id": "T2IX-shape-train-0018",
+    "sampling_hash": "0c1a0ece62246384dfee5cb5cfe24fe3aae855225a36abfbb3b84eaa6c0cf8cd",
+    "sampling_rank": 14,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 18,
+    "source_ordinal": 437
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "an oblong sweet potato and a teardrop pear",
+    "prompt_id": "T2IX-shape-train-0380",
+    "sampling_hash": "0d4b9e643d16d5d4199f33bdf0c52f7f2324a456baba96a05473ab2e507162bb",
+    "sampling_rank": 15,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 380,
+    "source_ordinal": 543
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a circular pendant light and a triangular wall hook",
+    "prompt_id": "T2I-shape-139",
+    "sampling_hash": "0d51e271de10f11cf08883fc861e3749c54739bf1ac2a8e786118661f7782de3",
+    "sampling_rank": 16,
+    "sampling_stratum": "shape",
+    "source_cohort": "original900",
+    "source_index": 139,
+    "source_ordinal": 379
+  },
+  {
+    "category": "shape",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a tall redwood tree and a short shrub",
+    "prompt_id": "T2IX-shape-train-0524",
+    "sampling_hash": "0dcf53807633c6296755c2a39181722bd7d6b5eaf941cfa2270cc978c983db5d",
+    "sampling_rank": 17,
+    "sampling_stratum": "shape",
+    "source_cohort": "extension1800",
+    "source_index": 524,
+    "source_ordinal": 585
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden spoon and a fabric pants",
+    "prompt_id": "T2IX-texture-train-0550",
+    "sampling_hash": "024dfdb97002e9381049836b1680934c218801c47c0b359c3c15497df549e5cf",
+    "sampling_rank": 1,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 550,
+    "source_ordinal": 898
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a metallic jewelry and a fabric dress",
+    "prompt_id": "T2I-texture-094",
+    "sampling_hash": "038c45abcb676d7c729b7811d3deee0d2b1b95d058396da829ff4d31933b2de3",
+    "sampling_rank": 2,
+    "sampling_stratum": "texture",
+    "source_cohort": "original900",
+    "source_index": 94,
+    "source_ordinal": 679
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a plastic toy and a glass bottle",
+    "prompt_id": "T2I-texture-001",
+    "sampling_hash": "039fe86c28098de00a4a68af64ba1cb8f1f1aba8450cec74ef6c1ab9422dfa45",
+    "sampling_rank": 3,
+    "sampling_stratum": "texture",
+    "source_cohort": "original900",
+    "source_index": 1,
+    "source_ordinal": 641
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden picture frame and a fabric curtain",
+    "prompt_id": "T2IX-texture-train-0258",
+    "sampling_hash": "03b733ba85b101d82b5c608603f8f61250d3eef707caaa13f51fa19643856d79",
+    "sampling_rank": 4,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 258,
+    "source_ordinal": 816
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a metallic watch and a fabric blanket",
+    "prompt_id": "T2IX-texture-train-0024",
+    "sampling_hash": "052357ac06f9a16a40eb594caffe2a6320514bf847448ec811fa1a214f2f6e8e",
+    "sampling_rank": 5,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 24,
+    "source_ordinal": 755
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a fabric bag and a leather chair",
+    "prompt_id": "T2IX-texture-val-0048",
+    "sampling_hash": "0639a2163849547e5f4abc3970e78b9f04e16cdcb8e3154c4cf5554508f32c4f",
+    "sampling_rank": 6,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 48,
+    "source_ordinal": 935
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a leather wallet and a glass mirror",
+    "prompt_id": "T2IX-texture-train-0129",
+    "sampling_hash": "07300c2dcf6528df6b4b4df1fa6e130a4f3f814df680e38415740253e1e98b0b",
+    "sampling_rank": 7,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 129,
+    "source_ordinal": 779
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a rubber band and a wooden toy",
+    "prompt_id": "T2I-texture-110",
+    "sampling_hash": "07ad5e5e1d09c59a232f688f327f71f320bab421b65c11bbff76c61cf9e37881",
+    "sampling_rank": 8,
+    "sampling_stratum": "texture",
+    "source_cohort": "original900",
+    "source_index": 110,
+    "source_ordinal": 685
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a fluffy blanket and a glass table",
+    "prompt_id": "T2IX-texture-train-0070",
+    "sampling_hash": "07ee5eeaeb5374debac1749266d329efbfe9807af5af2683e0791e871f4f1b55",
+    "sampling_rank": 9,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 70,
+    "source_ordinal": 762
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden floor and a fluffy rug",
+    "prompt_id": "T2I-texture-152",
+    "sampling_hash": "08500343ab1db50fdbf33e28143a7a1aeb8bfb5fb124799bb6c5104217689ae0",
+    "sampling_rank": 10,
+    "sampling_stratum": "texture",
+    "source_cohort": "original900",
+    "source_index": 152,
+    "source_ordinal": 702
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden door and a glass mirror",
+    "prompt_id": "T2IX-texture-val-0157",
+    "sampling_hash": "08ac5b582703d26d52ebfcc0a8519d00117889d3795cd7d40fa3eca53a1f5418",
+    "sampling_rank": 11,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 157,
+    "source_ordinal": 949
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden fork and a leather sofa",
+    "prompt_id": "T2I-texture-208",
+    "sampling_hash": "09230dbb5ecea6bb0d46cf30ccd0704616108b8318d5ea704fda457c91edb4fb",
+    "sampling_rank": 12,
+    "sampling_stratum": "texture",
+    "source_cohort": "original900",
+    "source_index": 208,
+    "source_ordinal": 723
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a metallic key and fluffy clouds",
+    "prompt_id": "T2IX-texture-val-0063",
+    "sampling_hash": "093a89b9fad7ee3b1a34059e23f62e885f4b514589957a45174cd9b281a63172",
+    "sampling_rank": 13,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 63,
+    "source_ordinal": 938
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a metallic car and a glass table",
+    "prompt_id": "T2IX-texture-train-0066",
+    "sampling_hash": "094e42a8f07e0e7823effffa6d88836d5801450f83bbedfbfe7a5bee2d0a5731",
+    "sampling_rank": 14,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 66,
+    "source_ordinal": 761
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden chair and a glass window",
+    "prompt_id": "T2IX-texture-train-0266",
+    "sampling_hash": "0ac2f1a6e7d43baf54489e13c81c619d0ed3659c80868ea120b433ba84d87f52",
+    "sampling_rank": 15,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 266,
+    "source_ordinal": 818
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a rubber ball and a wooden toy",
+    "prompt_id": "T2IX-texture-train-0410",
+    "sampling_hash": "0c9529c44608ef089c06d0edaaf5d29dd40668fbf40d09ed038e2768d110a900",
+    "sampling_rank": 16,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 410,
+    "source_ordinal": 856
+  },
+  {
+    "category": "texture",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wooden spoon and a glass vase",
+    "prompt_id": "T2IX-texture-train-0108",
+    "sampling_hash": "0d5856638e51bcc0f7584fff7d3f164286a95dce9bc83688a1cab10b835e3452",
+    "sampling_rank": 17,
+    "sampling_stratum": "texture",
+    "source_cohort": "extension1800",
+    "source_index": 108,
+    "source_ordinal": 774
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a turtle on the right of a wallet",
+    "prompt_id": "T2IX-spatial-train-0606",
+    "sampling_hash": "0033933f4171520374eceb160147085bdb90d4123972374607efe26826d9a2fb",
+    "sampling_rank": 1,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 606,
+    "source_ordinal": 1195
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a bee on the bottom of a plate",
+    "prompt_id": "T2IX-spatial-train-0311",
+    "sampling_hash": "006267ab5137c919bf8e12ecea7ec5c2d13e3d8058814d135e24a6c8f1707d3f",
+    "sampling_rank": 2,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 311,
+    "source_ordinal": 1086
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a wallet on the bottom of a horse",
+    "prompt_id": "T2IX-spatial-train-0420",
+    "sampling_hash": "009daf61156c7d04d8f839f2d1872f0638b84fbbb1038acfb46314575615c596",
+    "sampling_rank": 3,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 420,
+    "source_ordinal": 1131
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a dog on the bottom of a balloon",
+    "prompt_id": "T2I-spatial-115",
+    "sampling_hash": "00d3cf45fbecff2b479f60af45957a83f9e32b8e0f5b34eafca075889b56ff78",
+    "sampling_rank": 4,
+    "sampling_stratum": "spatial",
+    "source_cohort": "original900",
+    "source_index": 115,
+    "source_ordinal": 983
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a person near a cup",
+    "prompt_id": "T2IX-spatial-train-0300",
+    "sampling_hash": "01c863abea1495ab9b54684a89d6d071766c3eccdcf97593af231f07fe194e13",
+    "sampling_rank": 5,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 300,
+    "source_ordinal": 1081
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a mouse on side of a plate",
+    "prompt_id": "T2IX-spatial-train-0603",
+    "sampling_hash": "033c07ea62d5d7048289217d6eeeeac1cc42ac4e51dd5b1dbca53c843654062c",
+    "sampling_rank": 6,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 603,
+    "source_ordinal": 1194
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a giraffe next to a balloon",
+    "prompt_id": "T2IX-spatial-train-0480",
+    "sampling_hash": "06094b51c1f8c718c8d69342820cef752fee38d6ce0097742aa79c435bd52c7f",
+    "sampling_rank": 7,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 480,
+    "source_ordinal": 1148
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a turtle next to a television",
+    "prompt_id": "T2IX-spatial-val-0101",
+    "sampling_hash": "06ffcd98096cd0ed8be6e12954134513089e71768d1ca72eaf9a2b9d531522b0",
+    "sampling_rank": 8,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 101,
+    "source_ordinal": 1245
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a mouse on the left of a suitcase",
+    "prompt_id": "T2IX-spatial-train-0697",
+    "sampling_hash": "07025d09c9cdb67e1c072425a96c981d4442079c468c8f9bc2fd9a58bdc11e83",
+    "sampling_rank": 9,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 697,
+    "source_ordinal": 1221
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a chicken on side of a candle",
+    "prompt_id": "T2I-spatial-201",
+    "sampling_hash": "075cb4dcdebea9050cef7ec4ac2c5d4a76e057340f7b51f22b710889e781a737",
+    "sampling_rank": 10,
+    "sampling_stratum": "spatial",
+    "source_cohort": "original900",
+    "source_index": 201,
+    "source_ordinal": 1003
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a girl near a book",
+    "prompt_id": "T2IX-spatial-val-0287",
+    "sampling_hash": "0780a3f7bc15a1263510e765255f92f5a82eb2940bfb89e63eaf3c5ede8aed57",
+    "sampling_rank": 11,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 287,
+    "source_ordinal": 1279
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a bee on the right of a painting",
+    "prompt_id": "T2IX-spatial-train-0285",
+    "sampling_hash": "07b4bacc8a9a4c749f55e6cb696fa6e3cf1dd04311722cca06d9364d00908a23",
+    "sampling_rank": 12,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 285,
+    "source_ordinal": 1073
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a vase on the right of a cat",
+    "prompt_id": "T2I-spatial-079",
+    "sampling_hash": "0840b59fd03638a1dfa9e502e1e685fb47bf8579422a60a7f93eeeaaaa8f20b5",
+    "sampling_rank": 13,
+    "sampling_stratum": "spatial",
+    "source_cohort": "original900",
+    "source_index": 79,
+    "source_ordinal": 976
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a cup on the right of a dog",
+    "prompt_id": "T2IX-spatial-val-0040",
+    "sampling_hash": "085fcb60796f3f1dec420dd171f3aa80d38e6d961bc1a042da62f6e7ac92c618",
+    "sampling_rank": 14,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 40,
+    "source_ordinal": 1229
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a woman on the top of a microwave",
+    "prompt_id": "T2I-spatial-223",
+    "sampling_hash": "098351315298b77c5dd17e450716feb2a37f5b4eeacf4ee77946bee80354df44",
+    "sampling_rank": 15,
+    "sampling_stratum": "spatial",
+    "source_cohort": "original900",
+    "source_index": 223,
+    "source_ordinal": 1008
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a table on the top of a frog",
+    "prompt_id": "T2IX-spatial-train-0358",
+    "sampling_hash": "0bd3a68c2a15c461de2f5e19c213f7adfe8ab7d89a0fe2d0825cbb836dcfb387",
+    "sampling_rank": 16,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 358,
+    "source_ordinal": 1111
+  },
+  {
+    "category": "spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "a rabbit on the right of a chair",
+    "prompt_id": "T2IX-spatial-train-0395",
+    "sampling_hash": "0bde936568c80da5cc56dab8de2a71eb5e11a3c0824add683920d2a4bde0939e",
+    "sampling_rank": 17,
+    "sampling_stratum": "spatial",
+    "source_cohort": "extension1800",
+    "source_index": 395,
+    "source_ordinal": 1122
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A person is scratching their head in confusion.",
+    "prompt_id": "T2IX-non_spatial-train-0427",
+    "sampling_hash": "00af445257e772ec898f4a19268fc38232d1159e64bc635266983d4f25476151",
+    "sampling_rank": 1,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 427,
+    "source_ordinal": 1497
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A mountain is towering in the distance.",
+    "prompt_id": "T2IX-non_spatial-train-0120",
+    "sampling_hash": "00f09c48c22580ee1cb72e1545f72e6946344b06cdc2afb8ed29bccbea03d7d5",
+    "sampling_rank": 2,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 120,
+    "source_ordinal": 1416
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A woman is wearing a scarf and hat while walking in the snow.",
+    "prompt_id": "T2IX-non_spatial-train-0296",
+    "sampling_hash": "02280840f03c12b68fef75b1ef4e312be589629dd1dc32a36efeaab86081a508",
+    "sampling_rank": 3,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 296,
+    "source_ordinal": 1462
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A person is looking at a work of art and analyzing its meaning.",
+    "prompt_id": "T2I-non_spatial-073",
+    "sampling_hash": "02618752dda9d130835403c828d8df7608d309b154ce6f95dc3c3c941404b8d3",
+    "sampling_rank": 4,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "original900",
+    "source_index": 73,
+    "source_ordinal": 1308
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A construction worker is hammering nails into a new building.",
+    "prompt_id": "T2IX-non_spatial-train-0159",
+    "sampling_hash": "026ad111f4871790c50500ce69d7a9b2d2bfbb697c4c2d988c6cb6435c14b529",
+    "sampling_rank": 5,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 159,
+    "source_ordinal": 1427
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The seamstress is sewing a dress on a mannequin.",
+    "prompt_id": "T2IX-non_spatial-train-0481",
+    "sampling_hash": "026faba8242f70adf097295d280feb222c2a9eefc5cb376ff9ba3e6c485a9d39",
+    "sampling_rank": 6,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 481,
+    "source_ordinal": 1511
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A man is holding a chainsaw and cutting down a tree.",
+    "prompt_id": "T2IX-non_spatial-train-0357",
+    "sampling_hash": "032699ef8ce1672ae463cf8a078a85388e4348ef80dca395178b6dc9da2f521f",
+    "sampling_rank": 7,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 357,
+    "source_ordinal": 1475
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A man is building a birdhouse in his workshop.",
+    "prompt_id": "T2IX-non_spatial-val-0108",
+    "sampling_hash": "0434e0d69ef8d7bdff85d0dc7b45c8351e5506f05be38a0e08f3f4d7debfca10",
+    "sampling_rank": 8,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 108,
+    "source_ordinal": 1576
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A person is tapping their foot impatiently.",
+    "prompt_id": "T2IX-non_spatial-train-0034",
+    "sampling_hash": "04f0ec5c60b789e58a20981536d6dfdef93970cdf2eb16e1736a60475704bb3c",
+    "sampling_rank": 9,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 34,
+    "source_ordinal": 1399
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A person is getting a relaxing massage, feeling tension melt away from their muscles.",
+    "prompt_id": "T2IX-non_spatial-val-0016",
+    "sampling_hash": "059b12bc8b194a9a72554b7fb9415cd597a96c911e57ed38cd07f98b046f6b03",
+    "sampling_rank": 10,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 16,
+    "source_ordinal": 1564
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A dog is howling at a distant siren.",
+    "prompt_id": "T2IX-non_spatial-train-0383",
+    "sampling_hash": "05ad245dda50db1db5534eaf0fa6301f02143795b81a1d345f3cc3b02bc37c21",
+    "sampling_rank": 11,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 383,
+    "source_ordinal": 1483
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A dog is sniffing around a garden and exploring new smells.",
+    "prompt_id": "T2IX-non_spatial-train-0664",
+    "sampling_hash": "068dacbe23dbf92a0ebf811f0871f5efa743e55eeee2428f7078efaafb6136bf",
+    "sampling_rank": 12,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 664,
+    "source_ordinal": 1552
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A child is running around a playground and playing with friends.",
+    "prompt_id": "T2IX-non_spatial-val-0007",
+    "sampling_hash": "0711609461e1b0e44e666aa06b02f10a66cd25c3fed961cb780208f14c65bff3",
+    "sampling_rank": 13,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 7,
+    "source_ordinal": 1563
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The sushi chef is slicing fresh fish for sashimi.",
+    "prompt_id": "T2I-non_spatial-066",
+    "sampling_hash": "0778aed0928b0722edc2268d32e5f5d7dcb6c96e08c8b09323c1aebcf658649e",
+    "sampling_rank": 14,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "original900",
+    "source_index": 66,
+    "source_ordinal": 1301
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A group of coworkers are brainstorming ideas for a new project, bouncing suggestions off each other.",
+    "prompt_id": "T2IX-non_spatial-train-0269",
+    "sampling_hash": "085d3007503c87369fcda0d796aabe1b927fc9e7be54ff535e3cbd0bea89b14c",
+    "sampling_rank": 15,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 269,
+    "source_ordinal": 1456
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A child is playing with a toy airplane and making airplane noises.",
+    "prompt_id": "T2IX-non_spatial-train-0458",
+    "sampling_hash": "086418fef9403e48e944a07e93ad163b90d831f63824fe5e3a80dae92a2c541b",
+    "sampling_rank": 16,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 458,
+    "source_ordinal": 1504
+  },
+  {
+    "category": "non_spatial",
+    "complex_kind": null,
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "A man is repairing a fence in the backyard.",
+    "prompt_id": "T2IX-non_spatial-train-0102",
+    "sampling_hash": "086863c7a5cb0fa4a051acd7fda166db78dfdab8e99a456958b02861de91d390",
+    "sampling_rank": 17,
+    "sampling_stratum": "non_spatial",
+    "source_cohort": "extension1800",
+    "source_index": 102,
+    "source_ordinal": 1410
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The rustling leaves whispered in the cool breeze and the warm sun.",
+    "prompt_id": "T2IX-complex-train-0521",
+    "sampling_hash": "005fa6609a8a01da03e3a3c670a2d080c40765fe8c5db1f43cf2e8e2d1b3a4d2",
+    "sampling_rank": 1,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 521,
+    "source_ordinal": 1858
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The bright red rose contrasted with the dull grey pavement.",
+    "prompt_id": "T2IX-complex-train-0257",
+    "sampling_hash": "01223bae8b758e96fa3f822cf06d979e5803b21cbd1bb9da17a7175eb97d7142",
+    "sampling_rank": 2,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 257,
+    "source_ordinal": 1782
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The fluffy white clouds floated above the tall green trees.",
+    "prompt_id": "T2IX-complex-train-0247",
+    "sampling_hash": "0452fa8bddc4b025d1c5023d68ba78f040408f25c2c5dbaede3feace7141fd74",
+    "sampling_rank": 3,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 247,
+    "source_ordinal": 1776
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The jagged, rocky cliffs jutted out from the sea, battered by the crashing waves below.",
+    "prompt_id": "T2I-complex-296",
+    "sampling_hash": "05ec70cbd1ac519a99e87e778aa23552559bf561413b8fce14b50156ffdfde4b",
+    "sampling_rank": 4,
+    "sampling_stratum": "complex",
+    "source_cohort": "original900",
+    "source_index": 296,
+    "source_ordinal": 1707
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The rectangular mirror was hung above the green sink.",
+    "prompt_id": "T2IX-complex-train-0153",
+    "sampling_hash": "06504de8bff75f0437fde121338c6cf6a18864283332ad00351b8e824ae60941",
+    "sampling_rank": 5,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 153,
+    "source_ordinal": 1748
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The towering, ominous storm clouds loomed on the horizon, threatening to unleash their fury upon the unsuspecting countryside.",
+    "prompt_id": "T2IX-complex-train-0696",
+    "sampling_hash": "06df3832192b432112fdfb175e240d4989f4aced71cc5a1344515c0452379fdc",
+    "sampling_rank": 6,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 696,
+    "source_ordinal": 1889
+  },
+  {
+    "category": "complex",
+    "complex_kind": "spatial",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The smooth glass was on top of the rough wooden table.",
+    "prompt_id": "T2IX-complex-train-0143",
+    "sampling_hash": "0749fbf82dc756447d4dc4bb7a3505d1edcb1714385a1f0462454a9d1d3ed24b",
+    "sampling_rank": 7,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 143,
+    "source_ordinal": 1746
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The smooth glass surface reflected the bright light and the dark shadow.",
+    "prompt_id": "T2IX-complex-train-0505",
+    "sampling_hash": "07f45d999bc85f5b816db9d8874466bb91a339aa06188698841a1dca53aa6591",
+    "sampling_rank": 8,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 505,
+    "source_ordinal": 1855
+  },
+  {
+    "category": "complex",
+    "complex_kind": "spatial",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The green plant was on top of the white dresser.",
+    "prompt_id": "T2IX-complex-train-0098",
+    "sampling_hash": "081af08ceb59cdc8adf223ed2dcb37cea1d67fb3383110916a5c04e4970e9e0b",
+    "sampling_rank": 9,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 98,
+    "source_ordinal": 1731
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The fluffy white clouds floated above the deep blue ocean.",
+    "prompt_id": "T2IX-complex-train-0186",
+    "sampling_hash": "0837bc864e3b9a827833d5a91ed287fd33e8f026aaa5516b616834944d790fa1",
+    "sampling_rank": 10,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 186,
+    "source_ordinal": 1755
+  },
+  {
+    "category": "complex",
+    "complex_kind": "spatial",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The black chair was next to the silver lamp.",
+    "prompt_id": "T2IX-complex-train-0135",
+    "sampling_hash": "088f2b9323429a49350bb70ddae11cc7d7d95c1770c3d6f1fcb7e729f42e958f",
+    "sampling_rank": 11,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 135,
+    "source_ordinal": 1745
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The rectangular painting was hung above the beige couch.",
+    "prompt_id": "T2IX-complex-train-0049",
+    "sampling_hash": "0947efb956498101683f648ad63942903f13f3ca63a6ab1eb6744a47088f7932",
+    "sampling_rank": 12,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 49,
+    "source_ordinal": 1717
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The prickly green cactus contrasted with the smooth white sand.",
+    "prompt_id": "T2I-complex-132",
+    "sampling_hash": "0975b2851367830accd4e2e0d7f5a94473193a15008a174f109da4565b3084e6",
+    "sampling_rank": 13,
+    "sampling_stratum": "complex",
+    "source_cohort": "original900",
+    "source_index": 132,
+    "source_ordinal": 1649
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The bumpy, rugged terrain of the mountain trail challenged the hikers, as they climbed higher and higher toward the summit.",
+    "prompt_id": "T2IX-complex-train-0634",
+    "sampling_hash": "0a0fead9390483db5812d52f926c3697f68d0d90704a14b84862792bfcf1bfbe",
+    "sampling_rank": 14,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 634,
+    "source_ordinal": 1881
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The soft pink petals of the cherry blossom contrasted with the rough brown bark.",
+    "prompt_id": "T2I-complex-079",
+    "sampling_hash": "0aa31d0c2ac151d5e1b12fcbd8ef0d8114248ed9604a0ea03360e82bc9c2d33c",
+    "sampling_rank": 15,
+    "sampling_stratum": "complex",
+    "source_cohort": "original900",
+    "source_index": 79,
+    "source_ordinal": 1627
+  },
+  {
+    "category": "complex",
+    "complex_kind": "both",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The bitter coffee sat next to the sweet donut and the savory bagel.",
+    "prompt_id": "T2IX-complex-train-0454",
+    "sampling_hash": "0aa6e01fe619c51bdfee0c605f7227f407c70aa274b2214cb6cad8b0922bd8ad",
+    "sampling_rank": 16,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 454,
+    "source_ordinal": 1839
+  },
+  {
+    "category": "complex",
+    "complex_kind": "action",
+    "generation_seeds": [
+      2026,
+      3407,
+      5678
+    ],
+    "language": "en",
+    "prompt": "The bright, lively colors of the carnival games beckoned the players, as they tried their luck for prizes.",
+    "prompt_id": "T2IX-complex-train-0682",
+    "sampling_hash": "0abf8086e22ed1e43138dd7f1b5a1b384cd7cc945031cd61f13730f3ab51863c",
+    "sampling_rank": 17,
+    "sampling_stratum": "complex",
+    "source_cohort": "extension1800",
+    "source_index": 682,
+    "source_ordinal": 1888
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "场景",
+      "二级垂类": "软件界面设计",
+      "句式": "指令式",
+      "考点": [
+        "属性-数量",
+        "属性-形状",
+        "风格"
+      ],
+      "考点对应描述": [
+        "五个圆形的颜色选择按钮",
+        "圆形的颜色选择按钮",
+        "明亮的扁平化风格"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "请设计一个电商应用的商品详情页界面，图片展示区下方需要有五个圆形的颜色选择按钮，整体是明亮的扁平化风格。",
+    "prompt_id": "UGB-ZH-501",
+    "sampling_hash": "01ced7844c061825428933a90b6d520ee388d1b9540c14e73190db130bd3c251",
+    "sampling_rank": 1,
+    "sampling_stratum": "属性",
+    "source_index": 501,
+    "source_ordinal": 135
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "拟人",
+      "二级垂类": "服装设计",
+      "句式": "描述式",
+      "考点": [
+        "属性-形状",
+        "动作-实体间有接触互动"
+      ],
+      "考点对应描述": [
+        "三角形的领子",
+        "(狐狸)将(领子)别在(兔子的马甲)上"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "拟人化的狐狸裁缝，正在为一只兔子试穿新衣，他小心翼翼地将一枚三角形的领子别在兔子的马甲上。",
+    "prompt_id": "UGB-ZH-437",
+    "sampling_hash": "19a2757bcb2658a97cde279c5e0d9371b5d989629dd6339e650a687df24b4c39",
+    "sampling_rank": 2,
+    "sampling_stratum": "属性",
+    "source_index": 437,
+    "source_ordinal": 120
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "其他实体",
+      "二级垂类": "内容配图",
+      "句式": "指令式句式",
+      "考点": [
+        "属性-大小",
+        "世界知识"
+      ],
+      "考点对应描述": [
+        "巨大的草莓蛋糕",
+        "埃菲尔铁塔"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图像：一个巨大的草莓蛋糕放在埃菲尔铁塔旁边，蛋糕几乎和铁塔一样高，超现实主义风格。",
+    "prompt_id": "UGB-ZH-180",
+    "sampling_hash": "1ead32e26ffe7510161fa3b0f4d84de661e0eaeb9e6fcad8837be78d8f6abad5",
+    "sampling_rank": 3,
+    "sampling_stratum": "属性",
+    "source_index": 180,
+    "source_ordinal": 59
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "动物",
+      "二级垂类": "游戏设计",
+      "句式": "描述式",
+      "考点": [
+        "属性-形状",
+        "属性-材质",
+        "风格"
+      ],
+      "考点对应描述": [
+        "尖锐三角形",
+        "机械",
+        "低多边形风格"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "游戏角色设计，一只身体由多个尖锐三角形拼接而成的机械战狼，关节处散发着蓝色光芒，低多边形风格。",
+    "prompt_id": "UGB-ZH-360",
+    "sampling_hash": "37f4d06181ac4dfe3d3908eec879ccb55eccf4bd22164bdd580963ebfbd2d8f5",
+    "sampling_rank": 4,
+    "sampling_stratum": "属性",
+    "source_index": 360,
+    "source_ordinal": 100
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "动物",
+      "二级垂类": "立体艺术",
+      "句式": "指令式",
+      "考点": [
+        "属性-颜色",
+        "动作-动物动作",
+        "属性-材质",
+        "关系-构成关系"
+      ],
+      "考点对应描述": [
+        "渐变蓝色，透明",
+        "从水面跃起",
+        "琉璃",
+        "由琉璃制成"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成一个立体艺术品：一只由渐变蓝色琉璃制成的海豚雕塑，它正在从水面跃起，姿态优雅，身上溅起点点透明的水花。",
+    "prompt_id": "UGB-ZH-332",
+    "sampling_hash": "3a81052a89222409f5979b2a38e4fda6b4bb4624a1efa9ef2c4bd390c7c7770c",
+    "sampling_rank": 5,
+    "sampling_stratum": "属性",
+    "source_index": 332,
+    "source_ordinal": 97
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "动物",
+      "二级垂类": "ip设计",
+      "句式": "描述式",
+      "考点": [
+        "动作-人物/拟人手部动作",
+        "动作-实体间有接触互动",
+        "语法-代词指代",
+        "世界知识"
+      ],
+      "考点对应描述": [
+        "用前爪调整着单片眼镜",
+        "（狐狸）用前爪调整着（单片眼镜）",
+        "它",
+        "福尔摩斯"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一只化身成福尔摩斯的狐狸，它正用前爪调整着鼻梁上的单片眼镜，仔细观察着案发现场留下的一个脚印。",
+    "prompt_id": "UGB-ZH-197",
+    "sampling_hash": "02c6ad6866ffc7338c1b07c264c5fe5645a212744799473db4e2243d18e80ae9",
+    "sampling_rank": 1,
+    "sampling_stratum": "动作",
+    "source_index": 197,
+    "source_ordinal": 64
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "其他实体",
+      "二级垂类": "广告/电商设计",
+      "句式": "描述式",
+      "考点": [
+        "动作-状态",
+        "关系-相似关系",
+        "语法-代词指代",
+        "实体布局-三维空间"
+      ],
+      "考点对应描述": [
+        "\"悬浮着\"",
+        "\"一模一样的台灯\"",
+        "\"它\"",
+        "\"在它的后面悬浮着\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一张深色木桌上，一盏打开的台灯散发着光芒，在它的后面悬浮着另一盏一模一样的台灯。",
+    "prompt_id": "UGB-ZH-473",
+    "sampling_hash": "0c4ca79b30eaaa4dd4d9a383682a91dbf8c83c194150197c5e52656e4465dd9b",
+    "sampling_rank": 2,
+    "sampling_stratum": "动作",
+    "source_index": 473,
+    "source_ordinal": 127
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "动物",
+      "二级垂类": "艺术-平面艺术",
+      "句式": "描述式",
+      "考点": [
+        "动作-动物动作",
+        "语法-代词指代",
+        "世界知识"
+      ],
+      "考点对应描述": [
+        "（狗）从舷窗向外凝视着（蓝色的地球）",
+        "它",
+        "莱卡"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "油画风格，一只名叫莱卡的狗在太空舱中，它正从舷窗向外凝视着蓝色的地球。",
+    "prompt_id": "UGB-ZH-303",
+    "sampling_hash": "0f2ca9a2577a2619eb5458874f18952712a9baf3b10db1bc253f11474e128201",
+    "sampling_rank": 3,
+    "sampling_stratum": "动作",
+    "source_index": 303,
+    "source_ordinal": 91
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "动物",
+      "二级垂类": "摄影艺术",
+      "句式": "描述式",
+      "考点": [
+        "动作-动物动作",
+        "属性-颜色",
+        "动作-实体间无接触互动"
+      ],
+      "考点对应描述": [
+        "\"跳跃\"",
+        "\"金色的，翠绿的，彩虹光芒\"",
+        "\"（拉布拉多犬）追逐着（肥皂泡泡）\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一只金色的拉布拉多犬在翠绿的草地上兴奋地跳跃，追逐着一个在阳光下闪着彩虹光芒的肥皂泡泡，国家地理摄影风格。",
+    "prompt_id": "UGB-ZH-371",
+    "sampling_hash": "1355c9d5bdc2ec95cb321c8202750720057dd8f749ea786208129ff2c2874450",
+    "sampling_rank": 4,
+    "sampling_stratum": "动作",
+    "source_index": 371,
+    "source_ordinal": 104
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "其他实体",
+      "二级垂类": "文案配图",
+      "句式": "描述式",
+      "考点": [
+        "动作-实体间无接触互动",
+        "动作-状态"
+      ],
+      "考点对应描述": [
+        "（枫叶）正要触碰到（水面）",
+        "旋转飘落"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一枚边缘卷曲的红色枫叶，在空中缓缓旋转飘落，正要触碰到倒映着天空的平静水面。",
+    "prompt_id": "UGB-ZH-178",
+    "sampling_hash": "2446e960bbe71b10801ced8f7ab088fa6ae18e3e1a4444d4ead45b6f824fe3ca",
+    "sampling_rank": 5,
+    "sampling_stratum": "动作",
+    "source_index": 178,
+    "source_ordinal": 57
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "人物",
+      "二级垂类": "摄影艺术",
+      "句式": "描述式",
+      "考点": [
+        "关系-比较关系",
+        "风格",
+        "世界知识",
+        "属性-材质",
+        "动作-状态"
+      ],
+      "考点对应描述": [
+        "（年轻学徒）比（工匠）高大",
+        "纪实摄影风格",
+        "意大利佛罗伦萨",
+        "木雕",
+        "凝视"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "纪实摄影风格，在意大利佛罗伦萨的一间作坊里，一位年迈的工匠正凝视手中光滑的木雕，他身旁比他高大的年轻学徒也专注地看着。",
+    "prompt_id": "UGB-ZH-213",
+    "sampling_hash": "3015c2961768a951b990c66f629d2b2d30663e0dc283eeba5cf770e691fbf118",
+    "sampling_rank": 1,
+    "sampling_stratum": "关系",
+    "source_index": 213,
+    "source_ordinal": 67
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "场景",
+      "二级垂类": "摄影艺术",
+      "句式": "描述式",
+      "考点": [
+        "关系-构成关系",
+        "语法-否定",
+        "动作-人物/拟人手部动作",
+        "世界知识"
+      ],
+      "考点对应描述": [
+        "在埃及金字塔前，一位老人",
+        "骆驼不在身边",
+        "用手指向远方",
+        "埃及金字塔"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "在埃及金字塔前，一位老人用手指向远方，他的骆驼不在身边，画面充满孤独感。",
+    "prompt_id": "UGB-ZH-294",
+    "sampling_hash": "36c96c48ef55641eadfee82b4145deec3baad70aadfb417093be0550526666b5",
+    "sampling_rank": 2,
+    "sampling_stratum": "关系",
+    "source_index": 294,
+    "source_ordinal": 88
+  },
+  {
+    "annotations": {
+      "一级垂类": "创意发散",
+      "主体": "其他实体",
+      "二级垂类": "想象力发散",
+      "句式": "描述式",
+      "考点": [
+        "关系-包含关系",
+        "风格",
+        "世界知识",
+        "关系-相似关系"
+      ],
+      "考点对应描述": [
+        "（温室）内部包含着一个亚马逊雨林生态系统",
+        "超现实主义风格",
+        "吉萨大金字塔",
+        "（温室）形似吉萨大金字塔"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一座形似吉萨大金字塔的巨大玻璃温室，其内部包含着一个完整的、微缩的亚马逊雨林生态系统，整体呈现超现实主义风格。",
+    "prompt_id": "UGB-ZH-008",
+    "sampling_hash": "471bb2295f12eb8503ae4751798d1fa7c863069fe58d7045047e55dc5d5e7700",
+    "sampling_rank": 3,
+    "sampling_stratum": "关系",
+    "source_index": 8,
+    "source_ordinal": 3
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "场景",
+      "二级垂类": "海报设计",
+      "句式": "描述式",
+      "考点": [
+        "关系-比较关系",
+        "关系-构成关系"
+      ],
+      "考点对应描述": [
+        "左边是干涸龟裂的土地和枯萎的树木，右边是生机盎然的绿洲和清澈的湖水",
+        "（画面左边由）干涸龟裂的土地和枯萎的树木（构成）"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一张公益海报，画面中间有一条清晰的分割线，左边是干涸龟裂的土地和枯萎的树木，右边是生机盎然的绿洲和清澈的湖水。",
+    "prompt_id": "UGB-ZH-056",
+    "sampling_hash": "550a7cb0caebf5dc14f753620dfd2289d903850f149901c1cf6b17bbf362e417",
+    "sampling_rank": 4,
+    "sampling_stratum": "关系",
+    "source_index": 56,
+    "source_ordinal": 13
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "场景",
+      "二级垂类": "写实",
+      "句式": "指令式",
+      "考点": [
+        "关系-包含关系",
+        "关系-构成关系",
+        "风格"
+      ],
+      "考点对应描述": [
+        "一个古老教堂的内部",
+        "穹顶由无数彩色玻璃片构成",
+        "庄严的电影感写实风格"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图像：一个古老教堂的内部，穹顶由无数彩色玻璃片构成，画面呈现出庄严的电影感写实风格。",
+    "prompt_id": "UGB-ZH-086",
+    "sampling_hash": "5c870592a0369a43205480024d6785c3b7ddabe4feaaf036c2c2596a5397555a",
+    "sampling_rank": 5,
+    "sampling_stratum": "关系",
+    "source_index": 86,
+    "source_ordinal": 28
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "动物",
+      "二级垂类": "科幻",
+      "句式": "描述式",
+      "考点": [
+        "实体布局-二维空间",
+        "文本生成",
+        "动作-人物/拟人全身动作",
+        "关系-构成关系",
+        "逻辑推理"
+      ],
+      "考点对应描述": [
+        "黑猩猩站在控制台前，前方是屏幕",
+        "屏幕上显示出‘访问授权成功’的绿色字样",
+        "（黑猩猩）正站在控制台前",
+        "拥有机械臂的黑猩猩",
+        "因为它成功输入了密码，前方的屏幕上显示出‘ACCESS GRANTED’的绿色字样"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一只拥有机械臂的黑猩猩，正站在控制台前，因为它成功输入了密码，前方的屏幕上显示出‘访问授权成功’的绿色字样。",
+    "prompt_id": "UGB-ZH-585",
+    "sampling_hash": "1171ed7c9c92ad5f623853d314810101c1b8b6624f71b1da99192c3367cb714c",
+    "sampling_rank": 1,
+    "sampling_stratum": "实体布局",
+    "source_index": 585,
+    "source_ordinal": 146
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "其他实体",
+      "二级垂类": "科幻",
+      "句式": "描述式",
+      "考点": [
+        "实体布局-三维空间",
+        "世界知识",
+        "动作-实体间有接触互动",
+        "语法-代词指代",
+        "复合考点-想象力"
+      ],
+      "考点对应描述": [
+        "\"在埃及金字塔的上方，...下方那块...石碑\"",
+        "\"埃及金字塔\"",
+        "\"（机械臂）抓取（石碑）\"",
+        "\"它\"",
+        "\"一个巨大的外星探测器在埃及金字塔的上方抓取古老石碑\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "在埃及金字塔的上方，一个巨大的外星探测器正用它的机械臂，小心翼翼地抓取下方那块散发着蓝光的古老石碑。",
+    "prompt_id": "UGB-ZH-476",
+    "sampling_hash": "4499deca12c4ce3b59e6245bb19e221460e993c3d276783190900371f54bbfbd",
+    "sampling_rank": 2,
+    "sampling_stratum": "实体布局",
+    "source_index": 476,
+    "source_ordinal": 128
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "人物",
+      "二级垂类": "logo/icon设计",
+      "句式": "描述式句式",
+      "考点": [
+        "实体布局-二维空间",
+        "风格",
+        "语法-统一性",
+        "动作-实体间有接触互动",
+        "属性-表情"
+      ],
+      "考点对应描述": [
+        "宇航员在左侧",
+        "扁平化风格",
+        "都面带微笑",
+        "（宇航员）拥抱着（一颗小星球）",
+        "开心"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一个扁平化风格的徽章设计，一位开心的宇航员在左侧拥抱着一颗小星球，他们都面带微笑，背景是深邃的宇宙。",
+    "prompt_id": "UGB-ZH-244",
+    "sampling_hash": "56340d5a21fc43e982a9a3b2cf8923b82b61464addf2358c36c5b8e49297d87e",
+    "sampling_rank": 3,
+    "sampling_stratum": "实体布局",
+    "source_index": 244,
+    "source_ordinal": 75
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "人物",
+      "二级垂类": "内容配图",
+      "句式": "指令式",
+      "考点": [
+        "实体布局-二维空间",
+        "复合考点-想象力",
+        "风格",
+        "语法-统一性"
+      ],
+      "考点对应描述": [
+        "画面中央是女孩和鲸鱼，她们下方是云海，上方是月亮",
+        "女孩坐在漂浮的鲸鱼背上，她们下方是云海",
+        "日系幻想插画风格",
+        "她们下方是云海"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "请生成一幅画：画面中央，一个女孩坐在漂浮的鲸鱼背上，她们下方是云海，上方是巨大的发光月亮，整体采用日系幻想插画风格。",
+    "prompt_id": "UGB-ZH-405",
+    "sampling_hash": "67bf5d13452359c5cf452e00fdd1234d7b872f6260a894c8c733977693ee76b5",
+    "sampling_rank": 4,
+    "sampling_stratum": "实体布局",
+    "source_index": 405,
+    "source_ordinal": 113
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "人物",
+      "二级垂类": "文案配图",
+      "句式": "指令式",
+      "考点": [
+        "实体布局-二维空间",
+        "关系-相似关系",
+        "属性-形状",
+        "动作-人物/拟人全身动作",
+        "风格"
+      ],
+      "考点对应描述": [
+        "画面左右两侧，各有一位女孩",
+        "姿势相似",
+        "圆形的地毯",
+        "跳舞",
+        "柔和的卡通插画风格"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图片：画面左右两侧，各有一位姿势相似的女孩，她们正在一个巨大的圆形地毯上跳舞，采用柔和的卡通插画风格。",
+    "prompt_id": "UGB-ZH-279",
+    "sampling_hash": "7da30b2ecb6160f1658381edac10b4d4a430fcd3c3f2cabbd1d25e606b6f8d42",
+    "sampling_rank": 5,
+    "sampling_stratum": "实体布局",
+    "source_index": 279,
+    "source_ordinal": 84
+  },
+  {
+    "annotations": {
+      "一级垂类": "创意发散",
+      "主体": "其他实体",
+      "二级垂类": "其他",
+      "句式": "指令式",
+      "考点": [
+        "复合考点-不同实体特征匹配",
+        "属性-表情",
+        "动作-状态",
+        "属性-形状"
+      ],
+      "考点对应描述": [
+        "一个立方体形状的仙人掌，带着痛苦的表情，身体正在慢慢石化，表面布满了裂痕",
+        "痛苦的表情",
+        "正在慢慢石化",
+        "立方体形状"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图片：一个立方体形状的仙人掌，它带着痛苦的表情，身体正在慢慢石化，表面布满了裂痕。",
+    "prompt_id": "UGB-ZH-392",
+    "sampling_hash": "06aabaf37f0d3b359793edd440da164a6f70edee97c6bce8c52b978883f52f22",
+    "sampling_rank": 1,
+    "sampling_stratum": "复合考点",
+    "source_index": 392,
+    "source_ordinal": 109
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "场景",
+      "二级垂类": "软件界面设计",
+      "句式": "指令式",
+      "考点": [
+        "复合考点-想象力",
+        "属性-材质",
+        "风格",
+        "动作-人物/拟人全身动作"
+      ],
+      "考点对应描述": [
+        "穿着宇航服的卡通小熊，漂浮着去触摸由水晶构成的音乐符号",
+        "水晶构成",
+        "玻璃拟物风格",
+        "（卡通小熊）漂浮着去触摸（音乐符号）"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "请设计一个音乐App的播放场景，一个穿着宇航服的卡通小熊，漂浮着去触摸由水晶构成的音乐符号，整体为玻璃拟物风格。",
+    "prompt_id": "UGB-ZH-069",
+    "sampling_hash": "12e05a76267e9bee9071fa06b3c83397c1a664a6662d0b8912b24d7e2323a48f",
+    "sampling_rank": 2,
+    "sampling_stratum": "复合考点",
+    "source_index": 69,
+    "source_ordinal": 19
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "其他实体",
+      "二级垂类": "艺术-平面艺术",
+      "句式": "指令式",
+      "考点": [
+        "复合考点-想象力",
+        "动作-状态",
+        "风格"
+      ],
+      "考点对应描述": [
+        "树枝上结满了各种打开的书本而非叶子",
+        "（书页）在微风中翻动",
+        "奇幻插画风格"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图像：一棵古老的橡树，树枝上结满了各种打开的书本而非叶子，书页在微风中翻动，奇幻插画风格。",
+    "prompt_id": "UGB-ZH-269",
+    "sampling_hash": "1ff15bbe7c063f70bba22a7aa1e05ce02fbd691f8d0da326dc35d1fa823ec536",
+    "sampling_rank": 3,
+    "sampling_stratum": "复合考点",
+    "source_index": 269,
+    "source_ordinal": 81
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "动物",
+      "二级垂类": "动画",
+      "句式": "描述式",
+      "考点": [
+        "复合考点-不同实体特征匹配",
+        "逻辑推理"
+      ],
+      "考点对应描述": [
+        "一只变色龙的皮肤纹理完美匹配了它趴着的复古花纹沙发",
+        "变色龙的皮肤与沙发融为一体，但它吹出的泡泡暴露了它的位置。"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一只变色龙的皮肤纹理完美匹配了它趴着的复古花纹沙发，但它吹出的透明泡泡却暴露了它的藏身之处，皮克斯动画电影截图。",
+    "prompt_id": "UGB-ZH-450",
+    "sampling_hash": "2e00ae2995c488aba44e40ed7e5f83e682d2881d0d4c241d6653218d248a8b39",
+    "sampling_rank": 4,
+    "sampling_stratum": "复合考点",
+    "source_index": 450,
+    "source_ordinal": 123
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "其他实体",
+      "二级垂类": "写实",
+      "句式": "指令式",
+      "考点": [
+        "复合考点-想象力",
+        "关系-相似关系",
+        "语法-代词指代",
+        "关系-构成关系"
+      ],
+      "考点对应描述": [
+        "\"一个由流动金属构成的王座，它的扶手上镶嵌着一颗眼球\"",
+        "\"相似材质\"",
+        "\"它们\"",
+        "\"由流动金属构成\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图片：一个由流动金属构成的王座，它的扶手上镶嵌着一颗相似材质的眼球，它们都在微微发光。",
+    "prompt_id": "UGB-ZH-485",
+    "sampling_hash": "59af0bb0f9cb9ced79f5d2a2d5b12d55020629ffa4106db63448c7b1b16296eb",
+    "sampling_rank": 5,
+    "sampling_stratum": "复合考点",
+    "source_index": 485,
+    "source_ordinal": 130
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "人物",
+      "二级垂类": "立体艺术",
+      "句式": "指令式",
+      "考点": [
+        "风格",
+        "世界知识",
+        "语法-代词指代",
+        "属性-数量",
+        "属性-形状"
+      ],
+      "考点对应描述": [
+        "装饰艺术风格",
+        "埃及艳后",
+        "她",
+        "五个",
+        "螺旋形"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成一件装饰艺术风格的埃及艳后青铜雕塑，她的王冠上有五个螺旋形的装饰物。",
+    "prompt_id": "UGB-ZH-403",
+    "sampling_hash": "0889f31da2a5aabc52f5d6500cd36659fac7c4c11d0817bcddc396fd3f319105",
+    "sampling_rank": 1,
+    "sampling_stratum": "风格",
+    "source_index": 403,
+    "source_ordinal": 112
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "动物",
+      "二级垂类": "动画",
+      "句式": "描述式句式",
+      "考点": [
+        "风格",
+        "实体布局-三维空间"
+      ],
+      "考点对应描述": [
+        "皮克斯动画风格",
+        "前景是狐狸，它身后远处是鸡舍"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "皮克斯动画风格，前景的狐狸嘴里叼着一根羽毛，它身后远处的鸡舍大门敞开，地上有凌乱的脚印。",
+    "prompt_id": "UGB-ZH-353",
+    "sampling_hash": "1b3daa903d0cec187a832a28bb649649c09be1d2c0cf7ab245f11c0f4cc28ccc",
+    "sampling_rank": 2,
+    "sampling_stratum": "风格",
+    "source_index": 353,
+    "source_ordinal": 99
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "动物",
+      "二级垂类": "写实",
+      "句式": "描述式",
+      "考点": [
+        "风格",
+        "动作-状态",
+        "属性-表情"
+      ],
+      "考点对应描述": [
+        "写实电影风格",
+        "凝视远方",
+        "威严的"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "纪录片镜头，一只威严的雄狮在非洲草原上凝视远方，金色的鬃毛在夕阳下闪闪发光，写实电影风格。",
+    "prompt_id": "UGB-ZH-100",
+    "sampling_hash": "201e99e04533c5501bd5a01004021c825d76ca0b05618a975dbadf27bb490d07",
+    "sampling_rank": 3,
+    "sampling_stratum": "风格",
+    "source_index": 100,
+    "source_ordinal": 34
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "人物",
+      "二级垂类": "写实",
+      "句式": "指令式",
+      "考点": [
+        "风格",
+        "逻辑推理"
+      ],
+      "考点对应描述": [
+        "冷色调，悬疑电影风格",
+        "侦探身上的大衣是干燥的，但脚边的地毯上却有一小滩融化的雪水"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "创建一幅画面：侦探站在门口，他身上的大衣是干燥的，但脚边的地毯上却有一小滩融化的雪水，冷色调，悬疑电影风格。",
+    "prompt_id": "UGB-ZH-444",
+    "sampling_hash": "3670688a6a837962bd678b52d94e34228da692afa4dde37c9143a443ff29a95b",
+    "sampling_rank": 4,
+    "sampling_stratum": "风格",
+    "source_index": 444,
+    "source_ordinal": 122
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "动物",
+      "二级垂类": "ip设计",
+      "句式": "指令式",
+      "考点": [
+        "风格",
+        "动作-人物/拟人全身动作",
+        "逻辑推理"
+      ],
+      "考点对应描述": [
+        "黏土定格动画风格",
+        "手忙脚乱地试图清理洒满一地的面粉",
+        "因为打翻了面粉罐，（兔子）正手忙脚乱地试图清理洒满一地的面粉"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "请生成一张图片：一个穿着厨师服的兔子，因为打翻了面粉罐，正手忙脚乱地试图清理洒满一地的面粉，采用黏土定格动画风格。",
+    "prompt_id": "UGB-ZH-160",
+    "sampling_hash": "3dbc833eba72a6176e322714c38d22e06fd7664353490922ebe4ef80ba1626b7",
+    "sampling_rank": 5,
+    "sampling_stratum": "风格",
+    "source_index": 160,
+    "source_ordinal": 52
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "场景",
+      "二级垂类": "软件界面设计",
+      "句式": "描述式",
+      "考点": [
+        "世界知识",
+        "复合考点-不同实体特征匹配"
+      ],
+      "考点对应描述": [
+        "梵高星空",
+        "背景是流动的梵高星空，播放按钮是玻璃拟物风格，专辑封面则采用复古黑胶唱片样式"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一个音乐播放器界面设计，背景是流动的梵高星空，播放按钮是玻璃拟物风格，专辑封面则采用复古黑胶唱片样式。",
+    "prompt_id": "UGB-ZH-022",
+    "sampling_hash": "320e1d526da84c9ad116188bc13022c8801c57c371660d32d78cb36a9c179f48",
+    "sampling_rank": 1,
+    "sampling_stratum": "世界知识",
+    "source_index": 22,
+    "source_ordinal": 7
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "动物",
+      "二级垂类": "写实",
+      "句式": "描述式",
+      "考点": [
+        "世界知识",
+        "动作-动物动作",
+        "风格",
+        "关系-构成关系"
+      ],
+      "考点对应描述": [
+        "\"乞力马扎罗山\"",
+        "\"缓缓走过\"",
+        "\"电影剧照\"",
+        "\"象群\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "电影剧照，非洲象群在乞力马扎罗山下缓缓走过，广角镜头，清晨的金色阳光洒满大地。",
+    "prompt_id": "UGB-ZH-065",
+    "sampling_hash": "33e800ff45a24a75bd1d36c3e7a4f638d5c23e06ec9dff7a07a5ebc35b05e3c0",
+    "sampling_rank": 2,
+    "sampling_stratum": "世界知识",
+    "source_index": 65,
+    "source_ordinal": 17
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "人物",
+      "二级垂类": "内容配图",
+      "句式": "描述式",
+      "考点": [
+        "世界知识",
+        "关系-包含关系",
+        "属性-大小"
+      ],
+      "考点对应描述": [
+        "月球基地",
+        "（宇航员）站在（月球基地玻璃穹顶）下",
+        "巨大的月球基地玻璃穹顶，微缩的地球模型"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一位宇航员站在巨大的月球基地玻璃穹顶下，手中托着一个微缩的、发着蓝光的地球模型，神情十分专注。",
+    "prompt_id": "UGB-ZH-130",
+    "sampling_hash": "3df71631c2a04544008890fa0100afceb49b70b1def79dff7c917a1b3c333d3f",
+    "sampling_rank": 3,
+    "sampling_stratum": "世界知识",
+    "source_index": 130,
+    "source_ordinal": 40
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "其他实体",
+      "二级垂类": "动画",
+      "句式": "描述式",
+      "考点": [
+        "世界知识",
+        "属性-颜色",
+        "属性-数量"
+      ],
+      "考点对应描述": [
+        "埃及金字塔",
+        "亮黄色",
+        "两辆"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "傍晚的埃及金字塔前，停放着两辆亮黄色的复古甲壳虫汽车，车灯明亮。",
+    "prompt_id": "UGB-ZH-237",
+    "sampling_hash": "4850e87c55484fb76cc82070010a1f0b96c58b6bac1d04f84598f9c31102d788",
+    "sampling_rank": 4,
+    "sampling_stratum": "世界知识",
+    "source_index": 237,
+    "source_ordinal": 73
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "其他实体",
+      "二级垂类": "内容配图",
+      "句式": "描述式句式",
+      "考点": [
+        "世界知识",
+        "复合考点-想象力",
+        "实体布局-三维空间"
+      ],
+      "考点对应描述": [
+        "玻璃金字塔",
+        "未来城市、飞行器在摩天大楼之间穿梭",
+        "金字塔坐落在城市中心，飞行器在金字塔与周围摩天大楼之间穿梭"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一座巨大的玻璃金字塔坐落在未来城市的中心，数艘飞行器在其与周围摩天大楼之间穿梭。",
+    "prompt_id": "UGB-ZH-413",
+    "sampling_hash": "54c54af2e388ca281a729ca981d631b9239b91a185ee09a2d474f363ce14112a",
+    "sampling_rank": 5,
+    "sampling_stratum": "世界知识",
+    "source_index": 413,
+    "source_ordinal": 115
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "场景",
+      "二级垂类": "logo/icon设计",
+      "句式": "指令式",
+      "考点": [
+        "语法-代词指代",
+        "逻辑推理"
+      ],
+      "考点对应描述": [
+        "它",
+        "月光很亮，因此它的影子被拉得很长"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "设计一个logo：一只狐狸站在山顶，月光很亮，因此它的影子被拉得很长。",
+    "prompt_id": "UGB-ZH-074",
+    "sampling_hash": "00009b6745e7ffb4e6313bf4de54d661b4706f2a7dd49173ab543f897071efcb",
+    "sampling_rank": 1,
+    "sampling_stratum": "语法",
+    "source_index": 74,
+    "source_ordinal": 23
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "拟人",
+      "二级垂类": "广告/电商设计",
+      "句式": "描述式",
+      "考点": [
+        "语法-统一性",
+        "关系-相似关系",
+        "动作-状态",
+        "关系-构成关系"
+      ],
+      "考点对应描述": [
+        "咖啡豆们都露出满足的微笑",
+        "心形的蒸汽",
+        "懒洋洋地躺在",
+        "由肉桂棒组成的躺椅"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一颗拟人化的咖啡豆懒洋洋地躺在由肉桂棒组成的躺椅上，周围的咖啡豆们都露出满足的微笑，旁边的咖啡杯飘出心形的蒸汽。",
+    "prompt_id": "UGB-ZH-158",
+    "sampling_hash": "220383ef3f33bbe6c746326e16b288bae25b5b8bf33097061b5bd7478a3743c3",
+    "sampling_rank": 2,
+    "sampling_stratum": "语法",
+    "source_index": 158,
+    "source_ordinal": 51
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "其他实体",
+      "二级垂类": "科幻",
+      "句式": "描述式",
+      "考点": [
+        "语法-代词指代",
+        "关系-构成关系",
+        "实体布局-三维空间"
+      ],
+      "考点对应描述": [
+        "它",
+        "由巨大能量晶体构成",
+        "（悬浮城市）的下方是一片深不见底的云海，（悬浮城市）前方有一艘小型飞船"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一座由巨大能量晶体构成的悬浮城市，它的下方是一片深不见底的云海，城市前方有一艘小型飞船正在驶近。",
+    "prompt_id": "UGB-ZH-300",
+    "sampling_hash": "281037f905b4d9fa27b67f599105c1f51683c221ae65ac3158d80f216f14a535",
+    "sampling_rank": 3,
+    "sampling_stratum": "语法",
+    "source_index": 300,
+    "source_ordinal": 90
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "人物",
+      "二级垂类": "动画",
+      "句式": "描述式",
+      "考点": [
+        "语法-统一性",
+        "世界知识",
+        "复合考点-想象力",
+        "风格",
+        "动作-实体间无接触互动"
+      ],
+      "考点对应描述": [
+        "兵马俑书生",
+        "兵马俑，长城",
+        "复活的兵马俑书生，天空中由星辰组成的东方巨龙",
+        "中国水墨动画风格",
+        "（兵马俑书生）指向（天空中由星辰组成的东方巨龙）"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "中国水墨动画风格，复活的兵马俑书生站在长城上，他抬起手，指向天空中由星辰组成的东方巨龙。",
+    "prompt_id": "UGB-ZH-224",
+    "sampling_hash": "2a306a52211994e06e9e911d0a2997df7d60e438fe335085a46790fdae0d3765",
+    "sampling_rank": 4,
+    "sampling_stratum": "语法",
+    "source_index": 224,
+    "source_ordinal": 70
+  },
+  {
+    "annotations": {
+      "一级垂类": "艺术",
+      "主体": "人物",
+      "二级垂类": "摄影艺术",
+      "句式": "描述式",
+      "考点": [
+        "语法-统一性",
+        "属性-大小",
+        "属性-数量",
+        "风格"
+      ],
+      "考点对应描述": [
+        "三个人都穿着厚重的冬衣",
+        "巨大的行李箱，小玩具熊",
+        "两个大人和一个小孩",
+        "纪实黑白摄影"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "纪实黑白摄影，车站月台上，两个大人和一个小孩，三个人都穿着厚重的冬衣，大人提着巨大的行李箱，小孩只抱着一个小玩具熊。",
+    "prompt_id": "UGB-ZH-151",
+    "sampling_hash": "41c4b7f7ba3560e6812297df048065279130c409998a4992a47accca5eeeac11",
+    "sampling_rank": 5,
+    "sampling_stratum": "语法",
+    "source_index": 151,
+    "source_ordinal": 47
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "动物",
+      "二级垂类": "软件界面设计",
+      "句式": "指令式",
+      "考点": [
+        "逻辑推理",
+        "属性-材质",
+        "实体布局-三维空间",
+        "世界知识",
+        "属性-颜色"
+      ],
+      "考点对应描述": [
+        "（猫）弹着空气吉他以响应播放中的摇滚乐",
+        "金属质感",
+        "播放按钮悬浮在猫的正前方",
+        "空气吉他",
+        "深紫色"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "指令：设计音乐播放器界面，一只金属质感的猫正弹着空气吉他，以响应播放中的摇滚乐。界面为深紫色背景，播放按钮悬浮在猫的正前方。",
+    "prompt_id": "UGB-ZH-429",
+    "sampling_hash": "1594ea9d09614a5039b21819f1535cc4c2dcd37f2a3ca0bb1d78a0c20de82bf9",
+    "sampling_rank": 1,
+    "sampling_stratum": "逻辑推理",
+    "source_index": 429,
+    "source_ordinal": 119
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "动物",
+      "二级垂类": "文案配图",
+      "句式": "描述式",
+      "考点": [
+        "逻辑推理",
+        "语法-否定",
+        "风格",
+        "关系-包含关系"
+      ],
+      "考点对应描述": [
+        "脚上缠着毛线，但旁边却没有毛线球",
+        "旁边却没有毛线球",
+        "温馨治愈插画风格",
+        "（橘猫）蜷缩在纸箱里"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "温馨治愈插画风格，一只橘猫蜷缩在纸箱里，脚上缠着毛线，但旁边却没有毛线球。",
+    "prompt_id": "UGB-ZH-063",
+    "sampling_hash": "8e863379b08399da5ef7fd69c0f5b5e61a17afb54016963983b0875e80b78977",
+    "sampling_rank": 2,
+    "sampling_stratum": "逻辑推理",
+    "source_index": 63,
+    "source_ordinal": 16
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "其他实体",
+      "二级垂类": "内容配图",
+      "句式": "描述式",
+      "考点": [
+        "逻辑推理",
+        "属性-表情",
+        "属性-材质",
+        "属性-大小"
+      ],
+      "考点对应描述": [
+        "沙漏因为沙子漏完而表情悲伤，哀叹时间的流逝",
+        "（沙漏）表情悲伤",
+        "金属闹钟，玻璃沙漏",
+        "巨大的金属闹钟，小小的玻璃沙漏"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一个巨大的金属闹钟旁边，一个小小的玻璃沙漏表情悲伤，因为它的沙子已经漏完，似乎在哀叹时间的流逝。",
+    "prompt_id": "UGB-ZH-109",
+    "sampling_hash": "a8dcbf126f9d6a793fbc63332bbedae569cdd5ee275dccd12e7d6be26617b869",
+    "sampling_rank": 3,
+    "sampling_stratum": "逻辑推理",
+    "source_index": 109,
+    "source_ordinal": 36
+  },
+  {
+    "annotations": {
+      "一级垂类": "创意发散",
+      "主体": "其他实体",
+      "二级垂类": "想象力发散",
+      "句式": "描述式",
+      "考点": [
+        "逻辑推理",
+        "属性-大小",
+        "动作-实体间有接触互动"
+      ],
+      "考点对应描述": [
+        "一枚小小的多米诺骨牌碰倒了更大的一块，引发了连锁反应，最终即将撞向一座巨大的骨牌",
+        "小小的多米诺骨牌，更大的一块（骨牌），山一样巨大的骨牌",
+        "（小小的多米诺骨牌）碰倒了（更大的一块），（连锁反应）即将撞向（一座山一样巨大的骨牌）"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一枚小小的多米诺骨牌轻轻碰倒了更大的一块，引发了连锁反应，最终即将撞向一座山一样巨大的骨牌。",
+    "prompt_id": "UGB-ZH-417",
+    "sampling_hash": "b656a7da15f44840bc531cab7ae257cc385b99b1d4973245d940f0069ee53470",
+    "sampling_rank": 4,
+    "sampling_stratum": "逻辑推理",
+    "source_index": 417,
+    "source_ordinal": 117
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "人物",
+      "二级垂类": "配图-内容配图",
+      "句式": "描述式",
+      "考点": [
+        "逻辑推理",
+        "语法-统一性",
+        "动作-人物/拟人手部动作"
+      ],
+      "考点对应描述": [
+        "\"用钢笔写字，但那支透明的笔杆里空空如也\"",
+        "\"修长的手指\"",
+        "\"优雅地握着笔\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一个男人神情专注地用钢笔写字，但那支透明的笔杆里空空如也，他修长的手指依然优雅地握着笔。",
+    "prompt_id": "UGB-ZH-499",
+    "sampling_hash": "b6dfa42588e6795e7b3f77393ba09ba14233f1e7472864b05d538ff4dff10354",
+    "sampling_rank": 5,
+    "sampling_stratum": "逻辑推理",
+    "source_index": 499,
+    "source_ordinal": 134
+  },
+  {
+    "annotations": {
+      "一级垂类": "创意发散",
+      "主体": "其他实体",
+      "二级垂类": "想象力发散",
+      "句式": "描述式",
+      "考点": [
+        "文本生成",
+        "复合考点-不同实体特征匹配",
+        "语法-代词指代",
+        "实体布局-三维空间",
+        "属性-形状"
+      ],
+      "考点对应描述": [
+        "“梦的入口”",
+        "一个方形的金属盒子，一个巨大的肥皂泡，一行发光的文字",
+        "它",
+        "（方形的金属盒子）漂浮在（一个巨大的肥皂泡）前面",
+        "方形"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一个方形的金属盒子漂浮在一个巨大的肥皂泡前面，它正在向肥皂泡的表面投射一行发光的文字：“梦的入口”。",
+    "prompt_id": "UGB-ZH-590",
+    "sampling_hash": "13de07832720966206bc950dc09ecdf56ceb77f20a9bf1ba657066ea5ef45fe6",
+    "sampling_rank": 1,
+    "sampling_stratum": "文本生成",
+    "source_index": 590,
+    "source_ordinal": 147
+  },
+  {
+    "annotations": {
+      "一级垂类": "创意发散",
+      "主体": "其他实体",
+      "二级垂类": "想象力发散",
+      "句式": "指令式",
+      "考点": [
+        "文本生成",
+        "语法-统一性",
+        "动作-人物/拟人全身动作",
+        "复合考点-想象力",
+        "动作-人物/拟人手部动作"
+      ],
+      "考点对应描述": [
+        "古老的石块此刻在我的触碰下苏醒",
+        "由熔岩和黑曜石构成",
+        "（巨人）单膝跪地",
+        "一个由熔岩和黑曜石构成的巨人",
+        "（巨人）用手指在地面上画出"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图像：一个由熔岩和黑曜石构成的巨人，单膝跪地，正用手指在地面上画出复杂的发光符文，同时吟唱着咒语“古老的石块此刻在我的触碰下苏醒”。",
+    "prompt_id": "UGB-ZH-532",
+    "sampling_hash": "1dd1ceb5f02427f0ba6cf6ffc25cdf085bb80f83b068a121315d8e94119846bf",
+    "sampling_rank": 2,
+    "sampling_stratum": "文本生成",
+    "source_index": 532,
+    "source_ordinal": 138
+  },
+  {
+    "annotations": {
+      "一级垂类": "配图",
+      "主体": "场景",
+      "二级垂类": "文案配图",
+      "句式": "描述式",
+      "考点": [
+        "文本生成",
+        "逻辑推理",
+        "复合考点-不同实体特征匹配",
+        "实体布局-三维空间",
+        "关系-相似关系"
+      ],
+      "考点对应描述": [
+        "一张纸写着“未来是一部未写的书，正等待它的作者”",
+        "受其（纸上的文字）鼓舞，沙漏与桌面木纹一起发出光芒",
+        "一张纸写着文字，两个沙漏与桌面木纹发出光芒",
+        "前景的木桌上，背景是书架",
+        "两个相似沙漏"
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "前景的木桌上，一张纸写着“未来是一部未写的书，正等待它的作者”，受其鼓舞，桌上的两个相似沙漏与桌面木纹一起发出柔和的光芒，背景是书架。",
+    "prompt_id": "UGB-ZH-553",
+    "sampling_hash": "3384f2a8456613dc4902643c0e623602238b8f12ffd5a56c17a7c3f5dddf3470",
+    "sampling_rank": 3,
+    "sampling_stratum": "文本生成",
+    "source_index": 553,
+    "source_ordinal": 141
+  },
+  {
+    "annotations": {
+      "一级垂类": "影视故事",
+      "主体": "其他实体",
+      "二级垂类": "科幻",
+      "句式": "指令式",
+      "考点": [
+        "文本生成",
+        "逻辑推理"
+      ],
+      "考点对应描述": [
+        "\"检测到未知文物，系统需要手动接管\"",
+        "\"一个古老的机器人因为无法识别一块神秘的悬浮晶体，（所以）胸前的屏幕上显示出警告\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "生成图像：一个古老的机器人因为无法识别一块神秘的悬浮晶体，胸前的屏幕上显示出中文警告 \"检测到未知文物，系统需要手动接管\"。",
+    "prompt_id": "UGB-ZH-535",
+    "sampling_hash": "b33f2d4aafb529c1173fc51e538a896a86472a5ce9f5126da13b31299fa047c8",
+    "sampling_rank": 4,
+    "sampling_stratum": "文本生成",
+    "source_index": 535,
+    "source_ordinal": 139
+  },
+  {
+    "annotations": {
+      "一级垂类": "设计",
+      "主体": "拟人",
+      "二级垂类": "服装设计",
+      "句式": "描述式",
+      "考点": [
+        "文本生成",
+        "语法-代词指代",
+        "动作-实体间无接触互动",
+        "关系-构成关系",
+        "属性-大小"
+      ],
+      "考点对应描述": [
+        "\"世界是我的T台，而我是耀眼的明星\"",
+        "\"它\"",
+        "\"（夹克）看着（蝴蝶）\"",
+        "\"拟人化的...牛仔夹克\"",
+        "\"巨大的口袋，微小的蝴蝶\""
+      ]
+    },
+    "generation_seeds": [
+      1234,
+      2468,
+      42
+    ],
+    "language": "zh",
+    "prompt": "一个拟人化的时尚牛仔夹克，它的胸前有一个巨大的口袋，它正看着面前一只微小的蝴蝶，夹克背面印着中文 \"世界是我的T台，而我是耀眼的明星\"",
+    "prompt_id": "UGB-ZH-569",
+    "sampling_hash": "b830d3e881fbc8db1f3cd5adf7c60c3f23f2300d812c82e299e72e320610abd0",
+    "sampling_rank": 5,
+    "sampling_stratum": "文本生成",
+    "source_index": 569,
+    "source_ordinal": 144
+  }
+]

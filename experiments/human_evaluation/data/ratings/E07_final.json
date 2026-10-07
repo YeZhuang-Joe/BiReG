@@ -1,0 +1,1963 @@
+{
+  "version": "human-materials-v3-20260930",
+  "rater_id": "E07",
+  "group_id": "G03",
+  "review_sha256": "61383118076f35006d634ceb423aaace6532175d6d260a799d54e32bbb3c4468",
+  "records": [
+    {
+      "task_id": "HE031",
+      "image_code": "HE031_04",
+      "task_order": 1,
+      "image_order": 1,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 1,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE031",
+      "image_code": "HE031_02",
+      "task_order": 1,
+      "image_order": 2,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE031",
+      "image_code": "HE031_05",
+      "task_order": 1,
+      "image_order": 3,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 1,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE031",
+      "image_code": "HE031_03",
+      "task_order": 1,
+      "image_order": 4,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE031",
+      "image_code": "HE031_06",
+      "task_order": 1,
+      "image_order": 5,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE031",
+      "image_code": "HE031_01",
+      "task_order": 1,
+      "image_order": 6,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE024",
+      "image_code": "HE024_04",
+      "task_order": 2,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE024",
+      "image_code": "HE024_03",
+      "task_order": 2,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE024",
+      "image_code": "HE024_01",
+      "task_order": 2,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 5,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE024",
+      "image_code": "HE024_05",
+      "task_order": 2,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE024",
+      "image_code": "HE024_06",
+      "task_order": 2,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE024",
+      "image_code": "HE024_02",
+      "task_order": 2,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE011",
+      "image_code": "HE011_05",
+      "task_order": 3,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE011",
+      "image_code": "HE011_06",
+      "task_order": 3,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE011",
+      "image_code": "HE011_01",
+      "task_order": 3,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE011",
+      "image_code": "HE011_03",
+      "task_order": 3,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE011",
+      "image_code": "HE011_04",
+      "task_order": 3,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE011",
+      "image_code": "HE011_02",
+      "task_order": 3,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE002",
+      "image_code": "HE002_06",
+      "task_order": 4,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE002",
+      "image_code": "HE002_05",
+      "task_order": 4,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE002",
+      "image_code": "HE002_03",
+      "task_order": 4,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE002",
+      "image_code": "HE002_04",
+      "task_order": 4,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE002",
+      "image_code": "HE002_02",
+      "task_order": 4,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE002",
+      "image_code": "HE002_01",
+      "task_order": 4,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 2,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE028",
+      "image_code": "HE028_04",
+      "task_order": 5,
+      "image_order": 1,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE028",
+      "image_code": "HE028_02",
+      "task_order": 5,
+      "image_order": 2,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE028",
+      "image_code": "HE028_03",
+      "task_order": 5,
+      "image_order": 3,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 2,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE028",
+      "image_code": "HE028_05",
+      "task_order": 5,
+      "image_order": 4,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE028",
+      "image_code": "HE028_01",
+      "task_order": 5,
+      "image_order": 5,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE028",
+      "image_code": "HE028_06",
+      "task_order": 5,
+      "image_order": 6,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ030",
+      "image_code": "HZ030_05",
+      "task_order": 6,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ030",
+      "image_code": "HZ030_01",
+      "task_order": 6,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ030",
+      "image_code": "HZ030_03",
+      "task_order": 6,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ030",
+      "image_code": "HZ030_02",
+      "task_order": 6,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ030",
+      "image_code": "HZ030_06",
+      "task_order": 6,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ030",
+      "image_code": "HZ030_04",
+      "task_order": 6,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ004",
+      "image_code": "HZ004_05",
+      "task_order": 7,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ004",
+      "image_code": "HZ004_06",
+      "task_order": 7,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ004",
+      "image_code": "HZ004_03",
+      "task_order": 7,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 2,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ004",
+      "image_code": "HZ004_01",
+      "task_order": 7,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ004",
+      "image_code": "HZ004_04",
+      "task_order": 7,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 5,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ004",
+      "image_code": "HZ004_02",
+      "task_order": 7,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 5,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE051",
+      "image_code": "HE051_02",
+      "task_order": 8,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE051",
+      "image_code": "HE051_06",
+      "task_order": 8,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE051",
+      "image_code": "HE051_05",
+      "task_order": 8,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE051",
+      "image_code": "HE051_01",
+      "task_order": 8,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE051",
+      "image_code": "HE051_04",
+      "task_order": 8,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE051",
+      "image_code": "HE051_03",
+      "task_order": 8,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ006",
+      "image_code": "HZ006_04",
+      "task_order": 9,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ006",
+      "image_code": "HZ006_02",
+      "task_order": 9,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ006",
+      "image_code": "HZ006_03",
+      "task_order": 9,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ006",
+      "image_code": "HZ006_01",
+      "task_order": 9,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ006",
+      "image_code": "HZ006_06",
+      "task_order": 9,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ006",
+      "image_code": "HZ006_05",
+      "task_order": 9,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ015",
+      "image_code": "HZ015_05",
+      "task_order": 10,
+      "image_order": 1,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ015",
+      "image_code": "HZ015_01",
+      "task_order": 10,
+      "image_order": 2,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 2,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ015",
+      "image_code": "HZ015_02",
+      "task_order": 10,
+      "image_order": 3,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ015",
+      "image_code": "HZ015_03",
+      "task_order": 10,
+      "image_order": 4,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ015",
+      "image_code": "HZ015_06",
+      "task_order": 10,
+      "image_order": 5,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 5,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HZ015",
+      "image_code": "HZ015_04",
+      "task_order": 10,
+      "image_order": 6,
+      "applicability": {
+        "attribute": false,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": 5,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE021",
+      "image_code": "HE021_02",
+      "task_order": 11,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE021",
+      "image_code": "HE021_03",
+      "task_order": 11,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE021",
+      "image_code": "HE021_01",
+      "task_order": 11,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE021",
+      "image_code": "HE021_06",
+      "task_order": 11,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE021",
+      "image_code": "HE021_05",
+      "task_order": 11,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 2,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE021",
+      "image_code": "HE021_04",
+      "task_order": 11,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE055",
+      "image_code": "HE055_06",
+      "task_order": 12,
+      "image_order": 1,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 4,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE055",
+      "image_code": "HE055_01",
+      "task_order": 12,
+      "image_order": 2,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE055",
+      "image_code": "HE055_04",
+      "task_order": 12,
+      "image_order": 3,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 3,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE055",
+      "image_code": "HE055_03",
+      "task_order": 12,
+      "image_order": 4,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 2,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 2,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE055",
+      "image_code": "HE055_02",
+      "task_order": 12,
+      "image_order": 5,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 2,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 4,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE055",
+      "image_code": "HE055_05",
+      "task_order": 12,
+      "image_order": 6,
+      "applicability": {
+        "attribute": true,
+        "spatial": true
+      },
+      "ratings": {
+        "attribute": {
+          "score": 5,
+          "reason": ""
+        },
+        "spatial": {
+          "score": 3,
+          "reason": ""
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE045",
+      "image_code": "HE045_02",
+      "task_order": 13,
+      "image_order": 1,
+      "applicability": {
+        "attribute": false,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE045",
+      "image_code": "HE045_03",
+      "task_order": 13,
+      "image_order": 2,
+      "applicability": {
+        "attribute": false,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 3,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE045",
+      "image_code": "HE045_01",
+      "task_order": 13,
+      "image_order": 3,
+      "applicability": {
+        "attribute": false,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE045",
+      "image_code": "HE045_06",
+      "task_order": 13,
+      "image_order": 4,
+      "applicability": {
+        "attribute": false,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 4,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE045",
+      "image_code": "HE045_05",
+      "task_order": 13,
+      "image_order": 5,
+      "applicability": {
+        "attribute": false,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 3,
+          "reason": ""
+        }
+      },
+      "note": ""
+    },
+    {
+      "task_id": "HE045",
+      "image_code": "HE045_04",
+      "task_order": 13,
+      "image_order": 6,
+      "applicability": {
+        "attribute": false,
+        "spatial": false
+      },
+      "ratings": {
+        "attribute": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "spatial": {
+          "score": null,
+          "reason": "不适用"
+        },
+        "quality": {
+          "score": 5,
+          "reason": ""
+        }
+      },
+      "note": ""
+    }
+  ],
+  "started_at": "2026-09-19T00:12:00.000Z",
+  "saved_at": "2026-09-19T01:05:00.000Z",
+  "consent": true,
+  "training": true,
+  "final": true
+}

@@ -1,0 +1,32 @@
+{
+  "generation": {
+    "en": {
+      "width": 1024,
+      "height": 1024,
+      "steps": 20,
+      "guidance_scale": 7.0,
+      "scheduler": "DPMSolverMultistepScheduler",
+      "use_karras_sigmas": true,
+      "dtype": "float16",
+      "lambda_global": 0.5,
+      "seeds": [
+        2026
+      ],
+      "negative_prompt": ""
+    },
+    "zh": {
+      "width": 1536,
+      "height": 1024,
+      "steps": 30,
+      "guidance_scale": 4.5,
+      "scheduler": "EulerDiscreteScheduler",
+      "use_karras_sigmas": false,
+      "dtype": "float16",
+      "lambda_global": 0.2,
+      "seeds": [
+        1234
+      ],
+      "negative_prompt": ""
+    }
+  }
+}

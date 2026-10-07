@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-02",
+  "source_archive": "main_generation_smoke12.zip",
+  "source_archive_sha256": "4bff3040e5f64d268cbc71438a3cc43e8bcb19a906d03435acc61b60783e93de",
+  "scope": "One prompt and seed per language and pipeline; supplied AutoDL outputs independently checked offline.",
+  "records": [
+    {
+      "language": "en",
+      "method": "bireg",
+      "prompt_id": "T2I-color-001",
+      "seed": 2026,
+      "image_sha256": "e920c80732ac338b516c24fc77ed2d10b29dfa223edef6f0c67c9aeaf4a8370b",
+      "sidecar_sha256": "f4547434e1d36130c87cb6e1405cebe79e0f1dc9f5f16b513a513013b63b5585",
+      "image_size": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "en",
+      "method": "kolors",
+      "prompt_id": "T2I-color-001",
+      "seed": 2026,
+      "image_sha256": "2155bc47105edd1bd89085018cc8dc65cd1fd86e522480bb07f40755ae3c6561",
+      "sidecar_sha256": "3527791bff3957061de2779550d02c14c3e524ea8fa0130037e30ff662fe7688",
+      "image_size": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "f8eb7da31ed4e25a2f28c4e182e2f21cbedbcc8deefce56bca868c1b1f96a14d",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "en",
+      "method": "ragd",
+      "prompt_id": "T2I-color-001",
+      "seed": 2026,
+      "image_sha256": "d2287fbc5dc0be25f32eeb5c8858b356ca1b31a63ba407415c8dce318872d64e",
+      "sidecar_sha256": "9a8ca1716f492a3e6f5e742d1aaa6005f4576b3b5ce9331b80e631089d03a914",
+      "image_size": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "guidance_scale": 3.5,
+      "environment": {
+        "torch": "2.5.1+cu124",
+        "diffusers": "0.31.0",
+        "transformers": "4.44.2",
+        "accelerate": "1.1.1"
+      },
+      "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "en",
+      "method": "rpg",
+      "prompt_id": "T2I-color-001",
+      "seed": 2026,
+      "image_sha256": "6e54f150fe104e4e653685ee05f46f49295d0c5118b080031bf959aea6bb50e1",
+      "sidecar_sha256": "6c60d6567b694a363ecd4bc57e600a7bced05086660e57b3432aa46892352632",
+      "image_size": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "f8eb7da31ed4e25a2f28c4e182e2f21cbedbcc8deefce56bca868c1b1f96a14d",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "en",
+      "method": "rpg_kolors",
+      "prompt_id": "T2I-color-001",
+      "seed": 2026,
+      "image_sha256": "13e144a00665d42351230389f4092f7225e6b779503c0ffb786fdad308b25d9b",
+      "sidecar_sha256": "a982a3cf82a2c781c0a4b6ae19279b904b428d6308c6ac51147c751b6c2b8132",
+      "image_size": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "f8eb7da31ed4e25a2f28c4e182e2f21cbedbcc8deefce56bca868c1b1f96a14d",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "en",
+      "method": "sdxl",
+      "prompt_id": "T2I-color-001",
+      "seed": 2026,
+      "image_sha256": "5de05e57ed37e1b8a3fe7e9fdf60508ba0eda2200d43e1bfdbb1e9f2a022b3ff",
+      "sidecar_sha256": "15e55fb097a8df38cc35207fe09103dff243fd632e9dd6943f8f7165e8985f13",
+      "image_size": [
+        1024,
+        1024
+      ],
+      "steps": 20,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "f8eb7da31ed4e25a2f28c4e182e2f21cbedbcc8deefce56bca868c1b1f96a14d",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "zh",
+      "method": "bireg",
+      "prompt_id": "UGB-ZH-004",
+      "seed": 1234,
+      "image_sha256": "935878d3cd13263dce9cfa95b32670e17e454fe6d420e88c791397192ad59262",
+      "sidecar_sha256": "666b1483b98a0e91225fd6bf5d017c9036cf7ed89a8b191e58a9fddea6435fe3",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "steps": 30,
+      "guidance_scale": 4.5,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "zh",
+      "method": "kolors",
+      "prompt_id": "UGB-ZH-004",
+      "seed": 1234,
+      "image_sha256": "6d3ae21109af493c37c8e69293e8c4b18a9041536d411e9b236b59d57285b3ca",
+      "sidecar_sha256": "49ac64261348c9e9b80282439fae771e62610bb3b6f7dd6020bc651df557d860",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "steps": 30,
+      "guidance_scale": 4.5,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "zh",
+      "method": "ragd",
+      "prompt_id": "UGB-ZH-004",
+      "seed": 1234,
+      "image_sha256": "5262bfb38955c54786ee85514eccd3d95e60791fc9261ea3fdb0944ea631ea22",
+      "sidecar_sha256": "c03023baea3d077d399d6566c57e20bfaa80b9e3f913e5d5bb1122abf8ea416c",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "steps": 30,
+      "guidance_scale": 3.5,
+      "environment": {
+        "torch": "2.5.1+cu124",
+        "diffusers": "0.31.0",
+        "transformers": "4.44.2",
+        "accelerate": "1.1.1"
+      },
+      "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "zh",
+      "method": "rpg",
+      "prompt_id": "UGB-ZH-004",
+      "seed": 1234,
+      "image_sha256": "554d5ef972add169ce20509cdac3fd8e572e944cdc85ac1a239f290f68ef5b4a",
+      "sidecar_sha256": "53bec30a7ffb304ee33daba0a9d06b6751c9639a31fec396329a4cfc2c9f4aa0",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "steps": 30,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "zh",
+      "method": "rpg_kolors",
+      "prompt_id": "UGB-ZH-004",
+      "seed": 1234,
+      "image_sha256": "0849edf0e20398d9219b92b4da4ef4172a6523f496eb011731c66f0a5df6921b",
+      "sidecar_sha256": "486e3305054954f039728bfbb890c43c3af3f1bbf426112d758117fc163d98c8",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "steps": 30,
+      "guidance_scale": 4.5,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    },
+    {
+      "language": "zh",
+      "method": "sdxl",
+      "prompt_id": "UGB-ZH-004",
+      "seed": 1234,
+      "image_sha256": "60dfa2ab302d18849b8bc9a061859acdecfbe8e7c07f886199a05afa995f8ac4",
+      "sidecar_sha256": "ba89b6b4757ed2b1dabdffe439fd331589a966bf5d30312037f708d2b11408f1",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "steps": 30,
+      "guidance_scale": 7.0,
+      "environment": {
+        "torch": "2.2.2",
+        "diffusers": "0.33.0.dev0",
+        "transformers": "4.39.3",
+        "accelerate": "0.29.1"
+      },
+      "python": "3.9.21 (main, Dec 11 2024, 16:24:11) \n[GCC 11.2.0]",
+      "tested_release_sha256": "33743ae1ec68142328f61900a67266a06b2a862852e42a0582f140a8ccb28fb1",
+      "task_plan_config_hash_and_decode_checks": "passed"
+    }
+  ],
+  "not_tested": [
+    "full task execution",
+    "ZH RPG fallback UGB-ZH-110/278",
+    "ZH RPG single-region UGB-ZH-387",
+    "bitwise agreement with historical experiment images"
+  ]
+}

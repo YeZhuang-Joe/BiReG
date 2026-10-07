@@ -1,0 +1,15 @@
+{
+  "keys": [
+    "prompt_id",
+    "source_index",
+    "prompt",
+    "annotations",
+    "translation_en",
+    "review_status",
+    "final_translation_en",
+    "translation_record",
+    "prompt_en",
+    "translation_version",
+    "review"
+  ]
+}

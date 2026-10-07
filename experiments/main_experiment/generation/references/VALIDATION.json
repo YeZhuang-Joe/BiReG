@@ -1,0 +1,17 @@
+{
+  "en_prompts": 1920,
+  "zh_prompts": 150,
+  "en_source_batches": {
+    "original900": 611,
+    "extension1800": 1309
+  },
+  "en_tasks_per_method": 5760,
+  "zh_tasks_per_method": 450,
+  "zh_original_sidecars_compared": 1350,
+  "zh_translation_pairs_checked": 1350,
+  "ragd_source_hashes_match": true,
+  "gpu_tested": true,
+  "full_en_sidecar_join": false,
+  "status": "CPU validation and 12-task GPU smoke passed; full execution not tested",
+  "gpu_test_scope": "12 smoke tasks only; see GPU_SMOKE_20261002.json"
+}

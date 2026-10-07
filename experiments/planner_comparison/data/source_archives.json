@@ -1,0 +1,10 @@
+[
+  {
+    "filename": "BiReG_gpt152_english_scores_v1.tar.gz",
+    "sha256": "2880f9c166d7a95f92ed0359f73203ba4d761f696b1bcd65d6c71a1ab712e00f"
+  },
+  {
+    "filename": "BiReG_planner152_zh600_summaries_v1.tar.gz",
+    "sha256": "7933407c125600cb27b8fcf1143592a1a4c955efef5eb7ce30d1290933854616"
+  }
+]

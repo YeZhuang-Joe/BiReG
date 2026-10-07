@@ -1,0 +1,65 @@
+{
+  "status": "Server scoring smoke validated; full experiment not rerun",
+  "date": "2026-10-03",
+  "frozen_input_tasks": {
+    "en": 34560,
+    "zh": 2700
+  },
+  "real_generation_image_bindings_checked": 12,
+  "regression_tests_passed": 6,
+  "historical_zh_evaluator_source_hashes_verified": true,
+  "historical_zh_entry_package_binding_verified": true,
+  "zh150_original_prompt_and_full_annotation_match": true,
+  "not_established": [
+    "historical judge service effective sampling settings",
+    "complete model weight identity",
+    "full historical image/score reproduction",
+    "clean-machine dependency lock",
+    "all prompt/category/fallback execution paths"
+  ],
+  "additional_checks": [
+    "actual collected Chinese evaluator/model configuration checks",
+    "altered task rejected with recomputed sidecar fingerprint",
+    "modified image bytes rejected"
+  ],
+  "timezone": "Asia/Shanghai",
+  "tested_evaluation_package_sha256": "445155a70efed6941e673853a4307a842dc55a71bc627ad5f1685040961b3a87",
+  "scored_smoke_images": {
+    "en": 11,
+    "zh": 6
+  },
+  "english_scope": {
+    "six_method_color": 6,
+    "sdxl_additional_images": 5,
+    "branches": [
+      "BLIP-VQA",
+      "UniDet",
+      "CLIP"
+    ],
+    "complex_subtypes": [
+      "spatial",
+      "action",
+      "both"
+    ],
+    "shape_texture_separately_tested": false
+  },
+  "chinese_scope": {
+    "prompt_id": "UGB-ZH-004",
+    "seed": 1234,
+    "methods": 6,
+    "checkpoints_per_image": 2,
+    "checkpoint_labels": [
+      "动作-人物/拟人全身动作",
+      "风格"
+    ]
+  },
+  "observed_zh_service": {
+    "do_sample": "ignored by service",
+    "default_temperature": 0.7,
+    "default_top_p": 0.8,
+    "default_top_k": 20,
+    "scope": "This smoke service only; historical service behavior not established"
+  },
+  "evidence_directory": "scoring_smoke_20261003",
+  "release_changes": "Documentation and evidence only; tested executable source and frozen inputs unchanged"
+}

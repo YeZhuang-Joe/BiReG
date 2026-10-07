@@ -1,0 +1,9 @@
+{
+  "checkpoint_reported_by_operator": "CodeGoat24/UniGenBench-EvalModel-qwen3vl-32b-v1@f07df2dd73ee2e0979211d018bc5a23a7fd619ae",
+  "max_retries": 2,
+  "repo_commit": "64e57abc52bf24bfe901cd9beb7de5f00fc0a286",
+  "source_sha256": {
+    "eval_common.py": "c26c91cc65be7ed4234f07a310eed8812888c83b8b83b1934b77b1f48c463eb9",
+    "vllm_request.py": "4f20e42ddd30ed47faeb0959c0e99525d1e6ceef6887f71f6f7f75123682b7c3"
+  }
+}
