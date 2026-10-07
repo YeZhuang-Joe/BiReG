@@ -56,4 +56,6 @@ python -m bireg --prompt "木桌上，左边是一个红色陶瓷杯，右边是
 
 本次整合的底层 6 个渲染文件及两份模板未改动。25 项离线检查已通过；此外，2026 年 9 月 27 日，作者在既有 AutoDL 环境中完成了整合版入口的英文和中文各一次真实 API/GPU 流程测试。作者提供的终端日志显示，两次规划均首次通过，图片及 JSON 记录保存成功。详见 [中英文运行记录](docs/SMOKE_TEST_20260927.md)。这两次运行用于功能验证，不作为 4.6、4.7 的正式比较实验结果；新环境仍需自行验证。
 
-上传 GitHub 使用下载包中的干净 `generation/` 文件夹，不要使用服务器上填过密钥、产生过输出的整个工作目录。正式对外发布前，按 `THIRD_PARTY_NOTICES.md` 补齐沿用源码的许可与归属信息。
+上传 GitHub 使用下载包中的干净 `generation/` 文件夹，不要使用服务器上填过密钥、产生过输出的整个工作目录。
+
+BiReG 作者编写的软件贡献采用 [Apache License 2.0](../LICENSE)。第三方代码保留其原许可证条件和版权声明，详见 [NOTICE](../NOTICE) 和 [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md)。
