@@ -12,20 +12,12 @@ Official implementation of **BiReG**, a training-free framework for bilingual (C
 
 The [main-experiment guide](experiments/main_experiment/README.md) provides the frozen EN1920 and ZH150 prompt collections, six-pipeline generation and evaluation entries, archived automatic scores, statistical reproduction scripts, and image-download information. The main experiments cover 1,920 English and 150 Chinese-source prompts, with 37,260 retained images across six pipelines. Configuration, environment, and validation records accompany the corresponding entries. Use this guide for the retained main-experiment inputs and results; the demonstrations below illustrate method usage.
 
+
 ## 🔍 Overview
 
-BiReG addresses a fundamental limitation in controllable text-to-image generation:
+BiReG is a training-free framework for Chinese–English text-to-image generation. It connects language-aware prompt structuring, adaptive region planning, and generation control within a unified bilingual workflow.
 
-> Existing region-guided methods rely on fixed, English-centric templates, which fail to capture the semantic structure of Chinese prompts, especially in complex compositional scenarios.
-
-To solve this, BiReG introduces an **LLM-driven adaptive region planning mechanism**, which:
-
-- parses bilingual prompts (Chinese & English)
-- infers spatial layout dynamically
-- generates region-specific prompts
-- injects them into diffusion models without retraining
-
----
+Using language-specific structuring templates, an LLM converts a user prompt into regional descriptions and a spatial layout. The resulting plan guides a pretrained Kolors model through regional and global conditioning, without updating the diffusion backbone parameters.
 
 ## 🚀 Key Contributions
 <table>
