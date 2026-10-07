@@ -1,0 +1,23 @@
+BiReG
+Copyright (c) 2026 BiReG contributors.
+
+Author-created BiReG software contributions are licensed under the
+Apache License, Version 2.0. Third-party components retain their
+original licenses and copyright notices.
+
+The regional-generation implementation includes code derived from
+RPG-DiffusionMaster (Copyright (c) 2024 Ling Yang; MIT License),
+Kolors (Apache License 2.0), ChatGLM-related code (Apache License 2.0),
+and Hugging Face Diffusers (Apache License 2.0).
+
+The RAGD baseline files include code from RAG-Diffusion
+(Copyright (c) 2024 NJU-PCALab; MIT License) and Diffusers-derived
+FLUX implementation code whose existing headers credit Black Forest
+Labs and The HuggingFace Team under Apache License 2.0.
+
+See THIRD_PARTY_NOTICES.md for component paths, upstream repositories,
+and the included license texts. Existing per-file notices remain in force.
+
+This NOTICE is informational and does not change any license terms.
+The software license does not grant additional rights to external
+model weights, benchmark datasets, generated images, or API services.

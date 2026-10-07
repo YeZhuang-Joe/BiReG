@@ -1,7 +1,9 @@
-# Source attribution and license status
+# Source attribution and license scope
 
-`vendor/historical_kolors/` contains six unchanged files from the author's archived `BiReG_code_sanitized_20260902` source snapshot. Their hashes, together with the two archived BiReG language templates, are in `source_hashes.json`. The regional generation path builds on RPG regional diffusion and Kolors/ChatGLM, with Hugging Face Diffusers-derived pipeline code. Existing copyright/license comments are preserved.
+`vendor/historical_kolors/` contains six files from the author's archived `BiReG_code_sanitized_20260902` source snapshot. Their original recorded hashes, together with the two archived BiReG language templates, are in `source_hashes.json`. The regional generation path builds on RPG regional diffusion, Kolors/ChatGLM, and Hugging Face Diffusers-derived code. Existing per-file copyright and license comments are preserved.
 
-The pipeline header specifies Apache License 2.0; its text is included in `licenses/Apache-2.0.txt`. This does not declare that every historical file, model weight or derivative contribution has the same license. The supplied source archive did not include a complete repository-level license/NOTICE set for all regional and ChatGLM files. Those upstream notices and the owner's chosen license for the wrapper must be reconciled before declaring this a licensed public release. This preparation package does not invent a blanket license.
+Author-created BiReG software contributions are covered by the root [Apache-2.0 license](../LICENSE). Third-party portions retain their original license conditions. The repository-wide inventory, copyright attributions, and included license texts are listed in [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md) and [NOTICE](../NOTICE).
 
-The templates are unchanged copies of the archived BiReG template pair. Their historical planning provenance is not assigned to new API responses. No model weights, benchmark results, actual API keys or private experiment outputs are included.
+RPG-DiffusionMaster uses MIT; Kolors and the relevant ChatGLM/Diffusers code use Apache-2.0. These code licenses do not declare the same terms for model weights, benchmark data, generated images, or API services. Model weights must be obtained under their original model licenses.
+
+The templates retain their archived planning provenance and are not attributed to new API responses. API credentials and model weights are not included in this entry.
