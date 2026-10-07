@@ -10,11 +10,7 @@ Official implementation of **BiReG**, a training-free framework for bilingual (C
 
 ## Main-experiment reproduction
 
-The [main-experiment guide](experiments/main_experiment/README.md) brings together
-EN1920 and ZH150 frozen inputs, six-pipeline generation, archived automatic scores
-and table-reproduction commands. It also documents validation coverage and the
-remaining evaluator/image-release work. The demo instructions below describe the
-method demonstration; use the main-experiment guide for the retained evaluation sets.
+The [main-experiment guide](experiments/main_experiment/README.md) provides the frozen EN1920 and ZH150 prompt collections, six-pipeline generation and evaluation entries, archived automatic scores, statistical reproduction scripts, and image-download information. The main experiments cover 1,920 English and 150 Chinese-source prompts, with 37,260 retained images across six pipelines. Configuration, environment, and validation records accompany the corresponding entries. Use this guide for the retained main-experiment inputs and results; the demonstrations below illustrate method usage.
 
 ## 🔍 Overview
 
@@ -99,7 +95,6 @@ BiReG/
 │   ├── demo/
 │   ├── full/
 ```
-## ⚙️ Installation
 ## ⚙️ Installation and Environment Records
 
 ```bash
