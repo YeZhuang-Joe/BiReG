@@ -24,21 +24,20 @@ Using language-specific structuring templates, an LLM converts a user prompt int
 <tr>
 <td width="45%">
 
-- **Training-Free Framework**
-  - No finetuning required
-  - Compatible with existing diffusion backbones (Kolors, SDXL)
+- **Unified Bilingual Workflow**
+  - Supports Chinese and English prompts through language-specific structuring templates.
+  - Organizes entities, attributes, and relationships into regional descriptions and spatial layouts.
 
 - **Adaptive Region Planning**
-  - Dynamic layout inference (instead of fixed templates)
-  - Supports hierarchical spatial structures
+  - Uses LLM reasoning to infer region arrangements and split ratios from user descriptions.
+  - Coordinates regional content with the planned spatial organization.
 
-- **Bilingual Semantic Understanding**
-  - Handles Chinese and English prompts directly
-  - Preserves modifier–noun dependencies in Chinese
+- **Training-Free Generation**
+  - Guides a pretrained Kolors model without updating diffusion backbone parameters.
 
-- **Region-Guided Diffusion Control**
-  - Injects regional prompts into cross-attention layers
-  - Improves spatial consistency and object alignment
+- **Regional–Global Conditioning**
+  - Combines regional and global cross-attention outputs according to the planned layout.
+  - Uses a fusion weight to control their relative contributions.
 </td>
 <td width="55%">
 <img src="assets/Figure1-翻译流程vs自适应流程示意.svg" width="100%">
