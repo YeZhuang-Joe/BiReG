@@ -71,21 +71,18 @@ Region-Guided Diffusion
 Generated Image
 ```
 ## Repository Structure
-```text
-BiReG/
-├── demo_infer.py
-├── full_infer.py
-├── planner.py
-├── RegionalKolorsDiffusion_xl.py
-├── template/
-│   ├── template_zh.txt
-│   ├── template_en.txt
-├── config/
-│   ├── api_config_example.json
-├── outputs/
-│   ├── demo/
-│   ├── full/
-```
+
+| Directory | Contents |
+| --- | --- |
+| [`generation/`](generation/README.md) | Chinese–English prompt-to-image workflow, with setup instructions and environment records. |
+| [`experiments/main_experiment/`](experiments/main_experiment/README.md) | Frozen EN1920 and ZH150 prompts, generation and evaluation entries, archived scores, statistical scripts, and image-download information. |
+| [`experiments/human_evaluation/`](experiments/human_evaluation/README.md) | Human-evaluation design, anonymized ratings, statistical scripts, and image-material access information. |
+| [`experiments/planner_comparison/`](experiments/planner_comparison/README.md) | Planner-comparison prompts, archived evaluation data, and statistical reproduction scripts. |
+| [`experiments/efficiency/`](experiments/efficiency/README.md) | Planning and generation timing records and summary reproduction scripts. |
+| [`experiments/prompt_length_statistics/`](experiments/prompt_length_statistics/README.md) | Prompt-length statistics and the corresponding analysis script. |
+| [`data/development_prompts/`](data/development_prompts/README.md) | The curated collection of 50 Chinese–English development prompt pairs and accompanying notes. |
+| [`paper_figures/`](paper_figures/README.md) | Original images and prompt records for the corresponding paper figures. |
+
 ## ⚙️ Installation and Environment Records
 
 ```bash
