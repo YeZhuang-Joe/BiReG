@@ -97,40 +97,23 @@ Choose the entry point appropriate for your task:
 
 Follow the environment, model preparation, and validation instructions in the corresponding guide. The entry points have separate recorded environments. The root `requirements.txt` is a historical dependency list, not a verified clean-install lock for all pipelines. The exact source revision of the recorded Diffusers development build remains to be identified.
 
-## 🚀 Full Pipeline (Stage 2: Method Demonstration)
----
-Unlike Stage 1, this stage demonstrates the core mechanism of BiReG.
----
-### 🧠 What This Stage Shows
-- LLM-based semantic parsing
-- adaptive layout generation
-- region-conditioned diffusion
----
-### ▶️ Example (Chinese)
-```text
-python full_infer.py \
---prompt "上方是天空和远山，下方左边是旅人，下方右边是猫" \
---planner deepseek
+## 🚀 Prompt-to-Image Workflow
+
+The reusable generation entry supports Chinese and English prompts through language routing, API-based regional planning, and Kolors generation. See the [generation guide](generation/README.md) for environment, model, and API setup.
+
+After completing that setup, run the following commands from the repository root:
+
+```bash
+cd generation
+
+# English example
+python -m bireg --prompt "A red cup to the left of a blue bowl." --output outputs/demo_en
+
+# Chinese example
+python -m bireg --prompt "木桌上，左边是一个红色陶瓷杯，右边是一个蓝色玻璃碗。" --output outputs/demo_zh
 ```
-LLM Output
-```text
-Final split ratio:
-0.3,1;0.7,0.5,0.5
-Regional Prompt:
-天空高远，远山层叠 BREAK
-左下角旅人，背包，站立 BREAK
-右下角猫，细节清晰
-```
-🌍 English Example
-```text
-python full_infer.py \
---prompt "Sky on top, traveler bottom left, cat bottom right" \
---planner deepseek
-```
-### ⚠️ Note on LLM Variability
-- Outputs may vary slightly across runs
-- Structure remains consistent
-- Semantics preserved
+
+Each run saves the generated image, the accepted regional plan, planning records, and generation metadata. For generation using the retained main-experiment prompts and saved plans, follow the [main-experiment generation guide](experiments/main_experiment/generation/README.md).
 
 ## 📄 Paper & Citation
 
