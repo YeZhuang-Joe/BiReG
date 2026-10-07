@@ -14,6 +14,7 @@ RPG+Kolors (`rpg_kolors`), RAGD and BiReG.
 | Directory | Contents |
 |---|---|
 | [generation](generation/README.md) | Unified six-pipeline runner, archived generation settings, frozen main-experiment plans and task manifests |
+| [evaluation](evaluation/README.md) | English and Chinese-source image-to-score evaluation runner, local configuration, and validation records |
 | [en1920](en1920/README.md) | English prompts, archived automatic scores and category aggregation |
 | [zh150](zh150/README.md) | Chinese prompts, frozen English translations, archived checkpoint scores and dimension aggregation |
 
@@ -121,10 +122,7 @@ This validates those tested tasks. It does not establish full-plan executability
 exercise every fallback/compatibility path, or prove byte-for-byte agreement with
 historical images. The unified package has not been rerun over all 37,260 tasks.
 
-The release currently provides frozen inputs, generation code/configurations,
-archived automatic scores and their aggregation scripts. The complete
-image-to-score evaluator workflow and full historical image download links/index
-remain to be integrated. It is not yet a complete end-to-end reproduction release.
+The release provides frozen prompts and regional plans, generation code and configurations, an [image-to-score evaluation entry](evaluation/README.md), archived automatic scores, and score-aggregation scripts. The fixed main-experiment images and their manifests are available through the download links below.
 
 ### Download main-experiment images
 
