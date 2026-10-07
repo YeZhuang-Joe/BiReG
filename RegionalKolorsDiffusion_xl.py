@@ -11,6 +11,10 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
+# Modified for BiReG to support bilingual regional generation and
+# region-global conditioning. Original upstream license notices are retained.
+
 import random
 import numpy as np
 import inspect
