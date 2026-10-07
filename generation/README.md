@@ -67,4 +67,6 @@ The six archived backend files and two templates are unchanged; their hashes are
 
 This is a reusable generation entry, not a replacement for frozen paper-experiment manifests or scores. Regenerating an API plan may change it; seeds alone do not guarantee identical pixels across software/hardware environments. Existing historical run directories must stay in their original installation.
 
-Do not upload `private/` contents, outputs, model weights or local logs. Browser uploads do not provide a substitute for checking selected files.License scope and third-party source attribution are documented in the repository-root [LICENSE](../LICENSE), [NOTICE](../NOTICE), and [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
+Do not upload `private/` contents, outputs, model weights or local logs. Browser uploads do not provide a substitute for checking selected files.
+
+Author-created BiReG software contributions are licensed under the [Apache License 2.0](../LICENSE). Third-party code retains its original license conditions and copyright notices; see [NOTICE](../NOTICE) and [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md).
