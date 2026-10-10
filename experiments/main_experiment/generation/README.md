@@ -1,4 +1,4 @@
-# BiReG main-experiment generation — v1
+# BiReG main-experiment generation 
 
 Unified offline generation entry point for the six pipelines: SDXL, RPG, Kolors,
 RPG+Kolors (`rpg_kolors`), RAGD and BiReG. Only EN1920 and ZH150 prompts and their
